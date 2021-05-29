@@ -35,7 +35,7 @@ public class Line {
                 continue;
             }
             if (from == null) {
-                String[] arr = line.split("-->");
+                String[] arr = line.split(" --> ");
                 from = arr[0];
                 to = arr[1];
                 continue;
