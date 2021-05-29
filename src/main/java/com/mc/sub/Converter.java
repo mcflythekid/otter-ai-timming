@@ -53,7 +53,6 @@ public class Converter {
                     i = finalLine.getIndex();
                     fromIndex = i + 1;
                     newSub.add(finalLine);
-                    System.out.println(finalLine.getContent());
                 }
             }
             i++;
