@@ -22,9 +22,8 @@ public class Converter {
         return newLine;
     }
 
-    public static void submit(String in, int length) throws IOException {
+    public static void submit(String in, String out, int length) throws IOException {
         Sub sub = convert(new Sub(in), length);
-        String out = System.currentTimeMillis() + "-sub.srt";
         sub.writeFile(out);
         System.err.println("File written: " + out);
     }
