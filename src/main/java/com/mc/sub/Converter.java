@@ -1,35 +1,63 @@
 package com.mc.sub;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Converter {
-    public static Sub convert(Sub oldSub, int maxChars, String[] splitters) {
-        Sub newSub = new Sub();
-        int i = 0;
-        int count = 0;
+
+    private static Line tmp(int from, int to, Sub sub) {
+        Line fromLine = sub.getLine(from);
+        Line toLine = sub.getLine(to);
         StringBuilder content = new StringBuilder();
-        String from = oldSub.getLine(0).getFrom();
+        for (int k = from; k <= to; k++) {
+            content.append(sub.getLine(k).getContent()).append(" ");
+        }
+        Line newLine = Line.builder()
+                .index(to)
+                .from(fromLine.getFrom())
+                .to(toLine.getTo())
+                .content(content.toString().trim())
+                .build();
+        return newLine;
+    }
+
+    public static void submit(String in, int length) throws IOException {
+        Sub sub = convert(new Sub(in), length);
+        String out = System.currentTimeMillis() + "-sub.srt";
+        sub.writeFile(out);
+        System.err.println("File written: " + out);
+    }
+
+    private static Sub convert(Sub oldSub, int maxChars) {
+        Sub newSub = new Sub();
+
+        System.out.println("Size = " + oldSub.size());
+
+        int fromIndex = 0;
+        int i = 0;
+        List<Line> candidateLines = new ArrayList<>();
         while (i < oldSub.size()) {
-            Line line = oldSub.getLine(i);
-            count += line.length();
-            content.append(line.getContent()).append(" ");
-            if (Utils.endWiths(line.getContent(), splitters) && count > maxChars) {
-                newSub.add(Line.builder()
-                        .from(from).to(line.getTo()).content(content.toString().trim())
-                        .build());
-                count = 0;
-                content = new StringBuilder();
-                if (i < oldSub.size() - 1) {
-                    from = oldSub.getLine(i + 1).getFrom();
+            Line tmp = oldSub.getLine(i);
+            if (tmp.isEnd() || i == oldSub.size() - 1) {
+                Line finalLine;
+                Line candidateLine = tmp(fromIndex, i, oldSub);
+                candidateLines.add(candidateLine);
+                if (candidateLine.length() > maxChars || i == oldSub.size() - 1) {
+                    if (candidateLines.size() == 1) {
+                        finalLine = candidateLine;
+                    } else {
+                        finalLine = candidateLines.get(candidateLines.size() - 2);
+                    }
+                    candidateLines = new ArrayList<>();
+                    i = finalLine.getIndex();
+                    fromIndex = i + 1;
+                    newSub.add(finalLine);
+                    System.out.println(finalLine.getContent());
                 }
             }
             i++;
         }
         return newSub;
-    }
-
-    public static void main(String[] args) throws IOException {
-        Sub sub = convert(new Sub("cc.srt"), 100, new String[]{",", "."});
-        sub.writeFile("xx.srt");
     }
 }

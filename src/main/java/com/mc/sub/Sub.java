@@ -54,9 +54,4 @@ public class Sub {
             lines.add(line);
         }
     }
-
-    public static void main(String[] args) throws IOException {
-        Sub sub = new Sub("cc.srt");
-        System.out.println(sub);
-    }
 }

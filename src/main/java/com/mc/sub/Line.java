@@ -17,6 +17,13 @@ public class Line {
     private String to;
     private String content;
 
+    public boolean isEnd() {
+        if (content == null) {
+            return false;
+        }
+        return Utils.endWiths(content, new String[]{".", ",", "!", "?"});
+    }
+
     public Line(String data) {
         String[] lines = data.split("(\r\n|\r|\n)", -1);
         for (String line : lines) {
@@ -40,16 +47,7 @@ public class Line {
         }
     }
 
-    public int length(){
+    public int length() {
         return content.length();
-    }
-
-    public static void main(String[] args) {
-        String data = "\n" +
-                "3668\n" +
-                "00:20:48,090 --> 00:20:48,450\n" +
-                "nerdy\n";
-        Line line = new Line(data);
-        System.out.println(line);
     }
 }
