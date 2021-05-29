@@ -21,7 +21,7 @@ public class Line {
         if (content == null) {
             return false;
         }
-        return Utils.endWiths(content, new String[]{".", ",", "!", "?"});
+        return Utils.endWiths(content, new String[]{".", "!", "?"});
     }
 
     public Line(String data) {
