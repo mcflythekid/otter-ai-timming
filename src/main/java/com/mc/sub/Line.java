@@ -17,11 +17,23 @@ public class Line {
     private String to;
     private String content;
 
+    public boolean isEndWithComma(){
+        return content.endsWith(",");
+    }
+
+    public boolean containEndingWithOther(){
+        return Utils.contains(content, new String[]{".", "!", "?"});
+    }
+
+    public boolean isEndWithOther(){
+        return Utils.endWiths(content, new String[]{".", "!", "?"});
+    }
+
     public boolean isEnd() {
         if (content == null) {
             return false;
         }
-        return Utils.endWiths(content, new String[]{".", "!", "?"});
+        return Utils.endWiths(content, new String[]{".", ",", "!", "?"});
     }
 
     public Line(String data) {

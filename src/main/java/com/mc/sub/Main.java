@@ -21,7 +21,7 @@ public class Main {
                     "C:/Users/nha/Desktop/tmp/otter.ai/" + file + ".srt",
                     "C:/Users/nha/Desktop/tmp/pre-process/" + file + ".srt",
                     150);
-            Thread.sleep(500);
+            Thread.sleep(50);
         }
     }
 

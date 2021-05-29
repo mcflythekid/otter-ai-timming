@@ -26,4 +26,13 @@ public class Utils {
         }
         return false;
     }
+
+    public static boolean contains(String str, String[] marks) {
+        for (String mark : marks) {
+            if (str.contains(mark)) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

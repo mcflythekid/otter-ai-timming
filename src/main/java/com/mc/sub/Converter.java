@@ -39,14 +39,29 @@ public class Converter {
         while (i < oldSub.size()) {
             Line tmp = oldSub.getLine(i);
             if (tmp.isEnd() || i == oldSub.size() - 1) {
-                Line finalLine;
+                Line finalLine = null;
                 Line candidateLine = tmp(fromIndex, i, oldSub);
                 candidateLines.add(candidateLine);
-                if (candidateLine.length() > maxChars || i == oldSub.size() - 1) {
-                    if (candidateLines.size() == 1) {
-                        finalLine = candidateLine;
+                if ((candidateLine.isEndWithOther() && candidateLine.length() > maxChars) || i == oldSub.size() - 1) {
+                    if (candidateLines.size() == 1 || candidateLines.size() == 2) {
+                        finalLine = candidateLines.get(0);
                     } else {
-                        finalLine = candidateLines.get(candidateLines.size() - 2);
+                        //
+                        //if (!justBreak){
+                            for (int j = candidateLines.size() - 2; j >= 0; j--){
+                                Line tmpx = candidateLines.get(j);
+                                if (tmpx.isEndWithOther()){
+                                    finalLine = tmpx;
+                                    break;
+                                }
+                            }
+                        if (finalLine == null){
+                            int last = candidateLines.size() - 1;
+                            finalLine = candidateLines.get(last/2);
+                            finalLine.setContent(finalLine.getContent() + "...");
+                        }
+                        //
+
                     }
                     candidateLines = new ArrayList<>();
                     i = finalLine.getIndex();
