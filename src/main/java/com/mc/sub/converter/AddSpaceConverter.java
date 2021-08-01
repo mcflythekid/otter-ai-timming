@@ -8,7 +8,7 @@ import com.mc.sub.gui.LogPrinter;
 import java.io.IOException;
 
 public class AddSpaceConverter {
-    private static final int TIME_LEAD_TAIL_IN_MILLIS = 20;
+    private static final int MIN_SPACE_MILLIS = 30;
 
     private LogPrinter logPrinter;
 
@@ -16,43 +16,46 @@ public class AddSpaceConverter {
         this.logPrinter = logPrinter;
     }
 
-    public void submitAddSpace(String in, String out, int millisSecondsSpace) throws IOException {
-        Sub sub = convert(new Sub(in), millisSecondsSpace);
-        sub.writeFile(out);
-        System.err.println("File written: " + out);
-    }
-
     public void submitAddSpace(String inPath) throws IOException {
         String outPath = generateOutPath(inPath);
-
+        Sub sub = new Sub(inPath);
         logPrinter.println("Adding space for: " + inPath);
 
-        Sub sub = convert(new Sub(inPath), TIME_LEAD_TAIL_IN_MILLIS);
+        convert(sub);
         sub.writeFile(outPath);
         logPrinter.println("Space added at: " + outPath);
     }
 
-    private Sub convert(Sub oldSub, int millisSecondsSpace) {
-        Sub newSub = new Sub();
-
+    private void convert(Sub subRef) {
         int index = 0;
-        while (index < oldSub.size()) {
-            Line currentLine = oldSub.getLine(index);
-
-            // Don't have next line (In the end)
-            Line nextLine = index < oldSub.size() - 1 ? oldSub.getLine(index + 1) : null;
-            if (nextLine == null) {
-                newSub.add(currentLine);
+        while (index < subRef.size()) {
+            Line currentLine = subRef.getLine(index);
+            if (index == subRef.size() - 1) {
+                logPrinter.println("Ignore last line");
                 break;
             }
+            Line nextLine = subRef.getLine(index + 1);
 
-            logPrinter.println(currentLine);
+            long a = currentLine.getToMillis();
+            long b = nextLine.getFromMillis();
+
+            boolean changed = false;
+            while (b - a < MIN_SPACE_MILLIS) {
+                a -= 1;
+                b += 1;
+                logPrinter.println(currentLine.getIndex() + " Adjusting: " + a + " - " + b);
+                changed = true;
+            }
+            if (changed) {
+                currentLine.updateTo(a);
+                nextLine.updateFrom(b);
+            }
+
             index++;
         }
-        return newSub;
     }
 
-    private static String generateOutPath(String inPath){
+    private static String generateOutPath(String inPath) {
         String dir = Utils.getDirFromPath(inPath);
         String fileName = Utils.getFileNameWithoutExtFromPath(inPath);
         return dir + Utils.getSlash() + fileName + "-space.srt";
