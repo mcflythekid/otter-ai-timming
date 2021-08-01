@@ -90,7 +90,10 @@ public class Line {
 
     public Line(String data) {
         String[] lines = data.split("(\r\n|\r|\n)", -1);
-        for (String line : lines) {
+        int timeLineIndex = -1;
+        for (int i = 0; i < lines.length; i++) {
+            String line = lines[i];
+
             if (isBlank(line)) {
                 continue;
             }
@@ -102,13 +105,20 @@ public class Line {
                 String[] arr = line.split(" --> ");
                 from = arr[0];
                 to = arr[1];
-                continue;
-            }
-            if (content == null) {
-                content = line;
+                timeLineIndex = i;
                 continue;
             }
         }
+
+        if (timeLineIndex == -1){
+            throw new RuntimeException("Bad sub line: " + data);
+        }
+
+        StringBuilder sb = new StringBuilder();
+        for (int i = timeLineIndex + 1; i < lines.length; i++){
+            sb.append(lines[i].trim()).append("\n");
+        }
+        content = sb.toString().strip();
     }
 
     public int length() {
