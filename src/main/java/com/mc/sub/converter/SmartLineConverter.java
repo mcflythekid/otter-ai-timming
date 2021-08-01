@@ -1,10 +1,13 @@
-package com.mc.sub;
+package com.mc.sub.converter;
+
+import com.mc.sub.Line;
+import com.mc.sub.Sub;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Converter {
+public class SmartLineConverter {
 
     private static Line tmp(int from, int to, Sub sub) {
         Line fromLine = sub.getLine(from);

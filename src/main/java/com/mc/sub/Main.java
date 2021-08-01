@@ -1,9 +1,16 @@
 package com.mc.sub;
 
+import com.mc.sub.converter.SmartLineConverter;
+import com.mc.sub.gui.GUI;
+
+import javax.swing.*;
+import javax.swing.filechooser.FileNameExtensionFilter;
+import java.awt.*;
+import java.io.File;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void mainx(String[] args) throws IOException, InterruptedException {
         String[] list = new String[]{
                 "Anal Sex",
                 "Control Your Woman's Self Esteem",
@@ -17,7 +24,7 @@ public class Main {
         };
 
         for (String file : list) {
-            Converter.submit(
+            SmartLineConverter.submit(
                     "C:/Users/nha/Desktop/tmp/otter.ai/" + file + ".srt",
                     "C:/Users/nha/Desktop/tmp/pre-process/" + file + ".srt",
                     150);
@@ -26,9 +33,13 @@ public class Main {
     }
 
     public static void main2(String[] args) throws IOException {
-        Converter.submit(
+        SmartLineConverter.submit(
                 "test.srt",
                 "test-out.srt",
                 150);
+    }
+
+    public static void main(String[] args) {
+        new GUI().start();
     }
 }
