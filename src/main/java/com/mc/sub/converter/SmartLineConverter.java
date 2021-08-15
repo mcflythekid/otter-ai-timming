@@ -93,6 +93,7 @@ public class SmartLineConverter {
             Line nextLine = sub.getLine(i + 1);
             long currentGap = nextLine.getFromMillis() - currentLine.getToMillis();
             if (currentGap > maxGap){
+                maxGap = currentGap;
                 markedIndex = i + 1; // Use next line index
             }
         }

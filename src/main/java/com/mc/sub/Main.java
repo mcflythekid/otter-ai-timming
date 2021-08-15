@@ -10,7 +10,7 @@ public class Main {
         SmartLineConverter.submit(
                 "C:\\Users\\nha\\Desktop\\a.srt",
                 "C:\\Users\\nha\\Desktop\\b.srt",
-                50);
+                100);
     }
 
     public static void main2(String[] args) {
