@@ -62,8 +62,17 @@ public class SmartLineConverter {
             blocks.addAll(joinedShortBlock);
         }
 
+        Line lastLine = null;
         for (Sub block : blocks) {
-            output.add(block.extractLine());
+            Line line = block.extractLine();
+
+            if (lastLine != null && lastLine.isEndSentence()){
+                line.formatCaps();
+            }
+            line.formatFinal();
+
+            lastLine = line;
+            output.add(line);
         }
         return output;
     }
@@ -82,7 +91,7 @@ public class SmartLineConverter {
                 List<Sub> output = new ArrayList<>();
                 output.add(join2(curr, next));
                 if (i + 2 < size) {
-                    output.addAll(blocks.subList(i + 2, size - 1));
+                    output.addAll(blocks.subList(i + 2, size));
                 }
                 return joinBlock(output, maxChars);
             }

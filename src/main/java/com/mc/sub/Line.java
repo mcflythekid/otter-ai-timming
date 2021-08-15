@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
@@ -124,12 +125,12 @@ public class Line {
             }
         }
 
-        if (timeLineIndex == -1){
+        if (timeLineIndex == -1) {
             throw new RuntimeException("Bad sub line: " + data);
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int i = timeLineIndex + 1; i < lines.length; i++){
+        for (int i = timeLineIndex + 1; i < lines.length; i++) {
             sb.append(lines[i].trim()).append("\n");
         }
         content = sb.toString().strip();
@@ -137,5 +138,15 @@ public class Line {
 
     public int length() {
         return content.length();
+    }
+
+    public void formatCaps() {
+        content = StringUtils.capitalize(content);
+    }
+
+    public void formatFinal() {
+        if (content.endsWith(",")) {
+            //content = content.substring(0, content.length() - 1);
+        }
     }
 }
