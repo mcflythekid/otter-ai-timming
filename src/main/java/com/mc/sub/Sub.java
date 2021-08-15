@@ -11,6 +11,10 @@ import java.util.List;
 public class Sub {
     private List<Line> lines = new ArrayList<>();
 
+    public Line getLastLine(){
+        return lines.get(size() - 1);
+    }
+
     private int getNextLineIndex() {
         return lines.size() + 1;
     }

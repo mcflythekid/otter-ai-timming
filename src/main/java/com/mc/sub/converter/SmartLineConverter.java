@@ -151,6 +151,7 @@ public class SmartLineConverter {
         }
 
         List<Sub> splits = new ArrayList<>();
+        //x1.getLastLine().setContent(x1.getLastLine().getContent() + "__");
         splits.add(x1);
         splits.add(x2);
         return splits;
