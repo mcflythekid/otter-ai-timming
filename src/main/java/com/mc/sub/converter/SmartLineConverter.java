@@ -83,8 +83,6 @@ public class SmartLineConverter {
         for (int i = 0; i < size - 1; i++) {
             Sub curr = blocks.get(i);
             Sub next = blocks.get(i + 1);
-            String currLine = curr.extractLine().getContent();
-            String nextLine = next.extractLine().getContent();
 
             Sub joined = join2(curr, next);
             if (joined.countChar() <= maxChars) {
