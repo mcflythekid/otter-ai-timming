@@ -88,11 +88,16 @@ public class SmartLineConverter {
 
             Sub joined = join2(curr, next);
             if (joined.countChar() <= maxChars) {
+
                 List<Sub> output = new ArrayList<>();
-                output.add(join2(curr, next));
-                if (i + 2 < size) {
-                    output.addAll(blocks.subList(i + 2, size));
+                for (int j = 0; j < i; j++){
+                    output.add(blocks.get(j));
                 }
+                output.add(join2(curr, next));
+                for (int k = i + 2; k < size; k++){
+                    output.add(blocks.get(k));
+                }
+
                 return joinBlock(output, maxChars);
             }
         }

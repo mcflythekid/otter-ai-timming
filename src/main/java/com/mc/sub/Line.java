@@ -146,7 +146,7 @@ public class Line {
 
     public void formatFinal() {
         if (content.endsWith(",")) {
-            //content = content.substring(0, content.length() - 1);
+            content = content.substring(0, content.length() - 1);
         }
     }
 }
