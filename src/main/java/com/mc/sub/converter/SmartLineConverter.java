@@ -48,26 +48,54 @@ public class SmartLineConverter {
     private static Sub convert(Sub source, int maxChars) {
         Sub output = new Sub();
 
-        // Extract sentences first (   End with . ? ! )
-        List<Sub> sentences = extractSentences(source);
+        List<Sub> sentences = extractSentences(source); // Extracted sentences (   End with . ? ! )
 
-        // Extract blocks (End with , ;)
         List<Sub> blocks = new ArrayList<>();
         for (Sub sentence : sentences) {
-            List<Sub> tmpBlocks = extractSubSentences(sentence);
-            blocks.addAll(tmpBlocks);
+            List<Sub> longBlocks = extractSubSentences(sentence); // Extracted blocks (End with , ;)
+            List<Sub> shortBlocks = new ArrayList<>();
+            for(Sub longBlock : longBlocks){
+                shortBlocks.addAll(splitBlockByTimegap(longBlock, maxChars));
+            }
+            List<Sub> joinedShortBlock = joinBlock(shortBlocks, maxChars);
+
+            blocks.addAll(joinedShortBlock);
         }
 
-        List<Sub> blocksFitToCondition = new ArrayList<>();
         for (Sub block : blocks) {
-            blocksFitToCondition.addAll(splitBlockByTimegap(block, maxChars));
+            output.add(block.extractLine());
         }
-
-        for (Sub fit : blocksFitToCondition){
-            output.add(fit.extractLine());
-        }
-
         return output;
+    }
+
+    private static List<Sub> joinBlock(List<Sub> blocks, int maxChars) {
+        int size = blocks.size();
+
+        for (int i = 0; i < size - 1; i++) {
+            Sub curr = blocks.get(i);
+            Sub next = blocks.get(i + 1);
+            String currLine = curr.extractLine().getContent();
+            String nextLine = next.extractLine().getContent();
+
+            Sub joined = join2(curr, next);
+            if (joined.countChar() <= maxChars) {
+                List<Sub> output = new ArrayList<>();
+                output.add(join2(curr, next));
+                if (i + 2 < size) {
+                    output.addAll(blocks.subList(i + 2, size - 1));
+                }
+                return joinBlock(output, maxChars);
+            }
+        }
+
+        return blocks;
+    }
+
+    private static Sub join2(Sub s1, Sub s2) {
+        Sub sub = new Sub();
+        sub.getLines().addAll(s1.getLines());
+        sub.getLines().addAll(s2.getLines());
+        return sub;
     }
 
     private static List<Sub> splitBlockByTimegap(Sub sub, int maxChars) {
@@ -84,15 +112,15 @@ public class SmartLineConverter {
         return output;
     }
 
-    private static List<Sub> splitInto2(Sub sub){
+    private static List<Sub> splitInto2(Sub sub) {
         // Get delimiter
         int markedIndex = 0;
         long maxGap = -1;
-        for (int i = 0; i < sub.size() - 1; i++){
+        for (int i = 0; i < sub.size() - 1; i++) {
             Line currentLine = sub.getLine(i);
             Line nextLine = sub.getLine(i + 1);
             long currentGap = nextLine.getFromMillis() - currentLine.getToMillis();
-            if (currentGap > maxGap){
+            if (currentGap > maxGap) {
                 maxGap = currentGap;
                 markedIndex = i + 1; // Use next line index
             }
@@ -101,9 +129,9 @@ public class SmartLineConverter {
         // Get x1 - x2
         Sub x1 = new Sub();
         Sub x2 = new Sub();
-        for (int i = 0; i < sub.size(); i++){
+        for (int i = 0; i < sub.size(); i++) {
             Line currentLine = sub.getLine(i);
-            if (i < markedIndex){
+            if (i < markedIndex) {
                 x1.add(currentLine);
             } else {
                 x2.add(currentLine);

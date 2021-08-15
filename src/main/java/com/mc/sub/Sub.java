@@ -83,4 +83,8 @@ public class Sub {
     public int countChar(){
         return Utils.countCharUse(extractLine().getContent());
     }
+
+    public boolean isEndSentence(){
+        return this.extractLine().isEndSentence();
+    }
 }
