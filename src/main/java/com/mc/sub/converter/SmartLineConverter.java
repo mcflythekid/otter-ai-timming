@@ -5,25 +5,11 @@ import com.mc.sub.Sub;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class SmartLineConverter {
 
-    private static Line tmp(int from, int to, Sub sub) {
-        Line fromLine = sub.getLine(from);
-        Line toLine = sub.getLine(to);
-        StringBuilder content = new StringBuilder();
-        for (int k = from; k <= to; k++) {
-            content.append(sub.getLine(k).getContent()).append(" ");
-        }
-        Line newLine = Line.builder()
-                .index(to)
-                .from(fromLine.getFrom())
-                .to(toLine.getTo())
-                .content(content.toString().trim())
-                .build();
-        return newLine;
-    }
 
     public static void submit(String in, String out, int length) throws IOException {
         Sub sub = convert(new Sub(in), length);
@@ -31,49 +17,101 @@ public class SmartLineConverter {
         System.err.println("File written: " + out);
     }
 
-    private static Sub convert(Sub oldSub, int maxChars) {
-        Sub newSub = new Sub();
+    private static List<Sub> extractSentences(Sub sub) {
+        return extractByBreak(sub, line -> line.isEndSentence());
+    }
 
-        System.out.println("Size = " + oldSub.size());
+    private static List<Sub> extractSubSentences(Sub sub) {
+        return extractByBreak(sub, line -> line.isEndSubSentence());
+    }
 
-        int fromIndex = 0;
+    private static List<Sub> extractByBreak(Sub sub, Breaker breaker) {
+        List<Sub> subs = new ArrayList<>();
+
+        int size = sub.size();
         int i = 0;
-        List<Line> candidateLines = new ArrayList<>();
-        while (i < oldSub.size()) {
-            Line tmp = oldSub.getLine(i);
-            if (tmp.isEnd() || i == oldSub.size() - 1) {
-                Line finalLine = null;
-                Line candidateLine = tmp(fromIndex, i, oldSub);
-                candidateLines.add(candidateLine);
-                if ((candidateLine.isEndWithOther() && candidateLine.length() > maxChars) || i == oldSub.size() - 1) {
-                    if (candidateLines.size() == 1 || candidateLines.size() == 2) {
-                        finalLine = candidateLines.get(0);
-                    } else {
-                        //
-                        //if (!justBreak){
-                            for (int j = candidateLines.size() - 2; j >= 0; j--){
-                                Line tmpx = candidateLines.get(j);
-                                if (tmpx.isEndWithOther()){
-                                    finalLine = tmpx;
-                                    break;
-                                }
-                            }
-                        if (finalLine == null){
-                            int last = candidateLines.size() - 1;
-                            finalLine = candidateLines.get(last/2);
-                            finalLine.setContent(finalLine.getContent() + "...");
-                        }
-                        //
+        Sub tmpSub = new Sub();
 
-                    }
-                    candidateLines = new ArrayList<>();
-                    i = finalLine.getIndex();
-                    fromIndex = i + 1;
-                    newSub.add(finalLine);
-                }
+        for (; i < size; i++) {
+            Line line = sub.getLine(i);
+            tmpSub.add(line);
+
+            if (breaker.isBreak(line) || i == size - 1) {
+                subs.add(tmpSub);
+                tmpSub = new Sub();
             }
-            i++;
         }
-        return newSub;
+
+        return subs;
+    }
+
+    private static Sub convert(Sub source, int maxChars) {
+        Sub output = new Sub();
+
+        // Extract sentences first (   End with . ? ! )
+        List<Sub> sentences = extractSentences(source);
+
+        // Extract blocks (End with , ;)
+        List<Sub> blocks = new ArrayList<>();
+        for (Sub sentence : sentences) {
+            List<Sub> tmpBlocks = extractSubSentences(sentence);
+            blocks.addAll(tmpBlocks);
+        }
+
+        List<Sub> blocksFitToCondition = new ArrayList<>();
+        for (Sub block : blocks) {
+            blocksFitToCondition.addAll(splitBlockByTimegap(block, maxChars));
+        }
+
+        for (Sub fit : blocksFitToCondition){
+            output.add(fit.extractLine());
+        }
+
+        return output;
+    }
+
+    private static List<Sub> splitBlockByTimegap(Sub sub, int maxChars) {
+        // Done if not longer than condition
+        if (sub.countChar() <= maxChars) {
+            return Arrays.asList(sub);
+        }
+
+        List<Sub> splits = splitInto2(sub);
+        List<Sub> output = new ArrayList<>();
+        for (Sub split : splits) {
+            output.addAll(splitBlockByTimegap(split, maxChars));
+        }
+        return output;
+    }
+
+    private static List<Sub> splitInto2(Sub sub){
+        // Get delimiter
+        int markedIndex = 0;
+        long maxGap = -1;
+        for (int i = 0; i < sub.size() - 1; i++){
+            Line currentLine = sub.getLine(i);
+            Line nextLine = sub.getLine(i + 1);
+            long currentGap = nextLine.getFromMillis() - currentLine.getToMillis();
+            if (currentGap > maxGap){
+                markedIndex = i + 1; // Use next line index
+            }
+        }
+
+        // Get x1 - x2
+        Sub x1 = new Sub();
+        Sub x2 = new Sub();
+        for (int i = 0; i < sub.size(); i++){
+            Line currentLine = sub.getLine(i);
+            if (i < markedIndex){
+                x1.add(currentLine);
+            } else {
+                x2.add(currentLine);
+            }
+        }
+
+        List<Sub> splits = new ArrayList<>();
+        splits.add(x1);
+        splits.add(x2);
+        return splits;
     }
 }

@@ -88,6 +88,20 @@ public class Line {
         return Utils.endWiths(content, new String[]{".", ",", "!", "?"});
     }
 
+    public boolean isEndSentence() {
+        if (content == null) {
+            return false;
+        }
+        return Utils.endWiths(content, new String[]{".", "!", "?"});
+    }
+
+    public boolean isEndSubSentence() {
+        if (content == null) {
+            return false;
+        }
+        return Utils.endWiths(content, new String[]{",", ";"});
+    }
+
     public Line(String data) {
         String[] lines = data.split("(\r\n|\r|\n)", -1);
         int timeLineIndex = -1;

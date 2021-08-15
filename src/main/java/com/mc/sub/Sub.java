@@ -1,6 +1,7 @@
 package com.mc.sub;
 
 import lombok.Data;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -53,5 +54,33 @@ public class Sub {
             Line line = new Line(block);
             lines.add(line);
         }
+    }
+
+    public Line extractLine(int from, int to) {
+        Sub sub = this;
+
+        Line fromLine = sub.getLine(from);
+        Line toLine = sub.getLine(to);
+        StringBuilder content = new StringBuilder();
+        for (int k = from; k <= to; k++) {
+            content.append(sub.getLine(k).getContent()).append(" ");
+        }
+        Line newLine = Line.builder()
+                .index(to)
+                .from(fromLine.getFrom())
+                .to(toLine.getTo())
+                .content(content.toString().trim())
+                .build();
+        return newLine;
+    }
+
+    public Line extractLine() {
+        int from = 0;
+        int to = this.size() - 1;
+        return this.extractLine(from, to);
+    }
+
+    public int countChar(){
+        return Utils.countCharUse(extractLine().getContent());
     }
 }

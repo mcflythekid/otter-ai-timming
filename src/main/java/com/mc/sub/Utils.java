@@ -1,6 +1,7 @@
 package com.mc.sub;
 
 import org.apache.commons.io.FilenameUtils;
+import org.apache.commons.lang3.ArrayUtils;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -62,5 +63,18 @@ public class Utils {
             }
         }
         return false;
+    }
+
+    private static final char[] NONE_CHAR = new char[]{' ', ',', ';'};
+
+    public static int countCharUse(String str1) {
+        int length = str1.length();
+        int count = 0;
+        for (int i = 0; i < str1.length(); i++) {
+            if (ArrayUtils.contains(NONE_CHAR, str1.charAt(i))) {
+                count++;
+            }
+        }
+        return length - count;
     }
 }
