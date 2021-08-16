@@ -89,6 +89,7 @@ public class SmartLineConverter {
             List<Sub> joinedShortBlock = joinBlock(shortBlocks, maxChars);
 
             blocks.addAll(joinedShortBlock);
+//            blocks.addAll(shortBlocks);
         }
 
         Line lastLine = null;
@@ -120,6 +121,19 @@ public class SmartLineConverter {
                 if (nextIsAPause) {
                     println("Skipping a pause from being merged: [" + next.extractLine().getContent() + "]");
                 } else {
+                    if (next.extractLine().toString().toLowerCase().contains("but")){
+                        String currL = curr.extractLine().getContent();
+                        String nextL = next.extractLine().getContent();
+                        System.out.println(currL);
+                        System.out.println(nextL);
+
+                        if (currL.contains("which i avoid")){
+                            System.out.println("x");
+                        }
+
+                    }
+
+
                     List<Sub> output = new ArrayList<>();
                     for (int j = 0; j < i; j++) {
                         output.add(blocks.get(j));
@@ -141,6 +155,11 @@ public class SmartLineConverter {
         Sub sub = new Sub();
         sub.getLines().addAll(s1.getLines());
         sub.getLines().addAll(s2.getLines());
+
+        if (s2.isExtractedByBreaker()){
+            sub.setExtractedByBreaker(true);
+        }
+
         return sub;
     }
 
