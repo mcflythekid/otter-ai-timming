@@ -2,6 +2,7 @@ package com.mc.sub.converter;
 
 import com.mc.sub.Line;
 import com.mc.sub.Sub;
+import com.mc.sub.gui.LogPrinter;
 import com.mc.sub.util.PublicUtils;
 import com.mc.sub.util.Utils;
 
@@ -16,11 +17,20 @@ import static com.mc.sub.GlobalConfig.FINALIZE_SMART_BREAKER;
 
 public class SmartLineConverter {
 
+    private static LogPrinter logPrinter;
+
+    private static void println(String msg) {
+        System.out.println(msg);
+        if (logPrinter != null) {
+            logPrinter.println(msg);
+        }
+    }
+
     public static void submitDir(String inDir, String outDir, int length) throws IOException {
         List<String> srtPaths = PublicUtils.filesPathList(inDir).stream()
                 .filter(s -> s.endsWith(".srt")).collect(Collectors.toList());
 
-        for (String strPath : srtPaths){
+        for (String strPath : srtPaths) {
             Sub sub = convert(new Sub(strPath), length);
             String fileNameNoExt = Utils.getFileNameWithoutExtFromPath(strPath);
             String out = outDir + Utils.getSlash() + fileNameNoExt + "-joined.srt";
@@ -31,7 +41,7 @@ public class SmartLineConverter {
     public static void submit(String in, String out, int length) throws IOException {
         Sub sub = convert(new Sub(in), length);
         sub.writeFile(out);
-        System.err.println("File written: " + out);
+        println("File written: " + out);
     }
 
     private static List<Sub> extractSentences(Sub sub) {
@@ -59,11 +69,13 @@ public class SmartLineConverter {
             }
         }
 
+        subs.forEach(s -> s.setExtractedByBreaker(true));
         return subs;
     }
 
     public static Sub convert(Sub source, int maxChars) {
         Sub output = new Sub();
+        output.setName(source.getName() + " - JOINED");
 
         List<Sub> sentences = extractSentences(source); // Extracted sentences (   End with . ? ! )
 
@@ -104,16 +116,21 @@ public class SmartLineConverter {
             Sub joined = join2(curr, next);
             if (joined.countChar() <= maxChars) {
 
-                List<Sub> output = new ArrayList<>();
-                for (int j = 0; j < i; j++) {
-                    output.add(blocks.get(j));
-                }
-                output.add(joined);
-                for (int k = i + 2; k < size; k++) {
-                    output.add(blocks.get(k));
-                }
+                boolean nextIsAPause = next.isAPause(curr);
+                if (nextIsAPause) {
+                    println("Skipping a pause from being merged: [" + next.extractLine().getContent() + "]");
+                } else {
+                    List<Sub> output = new ArrayList<>();
+                    for (int j = 0; j < i; j++) {
+                        output.add(blocks.get(j));
+                    }
+                    output.add(joined);
+                    for (int k = i + 2; k < size; k++) {
+                        output.add(blocks.get(k));
+                    }
 
-                return joinBlock(output, maxChars);
+                    return joinBlock(output, maxChars);
+                }
             }
         }
 

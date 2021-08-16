@@ -7,17 +7,32 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.mc.sub.util.Utils.removeAllLastCharNotLetterAndNumber;
+
 @Data
 public class Sub {
     private List<Line> lines = new ArrayList<>();
+    private boolean isExtractedByBreaker = false;
+    private String name;
 
-    public Line getLastLine(){
-        try {
-            return lines.get(size() - 1);
-        }catch (Exception e){
-            e.printStackTrace();
-            throw new RuntimeException(e);
+    public Line getLastLine() {
+        return lines.get(size() - 1);
+    }
+
+    public boolean isAPause() {
+        return isAPause(null);
+    }
+
+    public boolean isAPause(Sub prevSub) {
+        String content = this.extractLine().getContent();
+        String contentLow = content.toLowerCase().trim();
+        contentLow = removeAllLastCharNotLetterAndNumber(contentLow);
+
+        if (prevSub == null) {
+            return isExtractedByBreaker && GlobalConfig.PAUSES.contains(contentLow);
         }
+        return (isExtractedByBreaker || prevSub.isExtractedByBreaker())
+                && GlobalConfig.PAUSES.contains(contentLow);
     }
 
     private int getNextLineIndex() {
@@ -89,11 +104,11 @@ public class Sub {
         return this.extractLine(from, to);
     }
 
-    public int countChar(){
+    public int countChar() {
         return Utils.countCharUse(extractLine().getContent());
     }
 
-    public boolean isEndSentence(){
+    public boolean isEndSentence() {
         return this.extractLine().isEndSentence();
     }
 }

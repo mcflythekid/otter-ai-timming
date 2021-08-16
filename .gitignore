@@ -5,3 +5,4 @@ target/
 .*.swo
 *.log
 *.jar
+*.mp4

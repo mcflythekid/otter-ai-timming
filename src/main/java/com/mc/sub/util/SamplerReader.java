@@ -9,7 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static com.mc.sub.util.PublicUtils.*;
+import static com.mc.sub.GlobalConfig.PAUSES_TEST;
+import static com.mc.sub.util.PublicUtils.extractEndWithsArrayElement;
+import static com.mc.sub.util.Utils.removeAllLastCharNotLetterAndNumber;
 
 public class SamplerReader {
 
@@ -19,23 +21,16 @@ public class SamplerReader {
 
         List<Sub> output = new ArrayList<>();
         for (String strPath : srtPaths) {
-            output.add(new Sub(strPath));
+            Sub sub = new Sub(strPath);
+            sub.setName(strPath);
+            output.add(sub);
         }
         return output;
     }
 
-    private static List<String> PAUSES;
+    private static int count = 0;
 
-    static {
-        try {
-            PAUSES = PublicUtils.readAllLineFromResource("pauses.txt");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
-
-    private static void testASub(Sub convertedSub){
+    private static void testASub(Sub convertedSub) {
         int size = convertedSub.size();
         for (int i = 0; i < size; i++) {
             Line line = convertedSub.getLine(i);
@@ -43,15 +38,18 @@ public class SamplerReader {
             String contentLow = line.getContent().toLowerCase();
 
             String contentLowEndWithLetter = removeAllLastCharNotLetterAndNumber(contentLow);
-            String endWithsPause = extractEndWithsArrayElement(contentLowEndWithLetter, PAUSES);
-            if (endWithsPause != null){
+            String endWithsPause = extractEndWithsArrayElement(contentLowEndWithLetter, PAUSES_TEST);
+            if (endWithsPause != null) {
                 String colorPause = Color.ANSI_GREEN + endWithsPause + Color.ANSI_RESET;
                 String str = contentLow.replace(endWithsPause, colorPause);
 
-                if (i < size - 1){
-                    str = str + " === " + convertedSub.getLine(i+1).getContent();
+                if (i < size - 1) {
+                    str = str + " === " + convertedSub.getLine(i + 1).getContent();
                 }
-                System.out.println(str);
+                System.out.println(convertedSub.getName() + "\n"
+                        + line.getFrom() + "\n"
+                        + str + "\n");
+                count++;
             }
 
         }
@@ -62,17 +60,14 @@ public class SamplerReader {
         SmartLineConverter.submitDir("sampler-source", "sampler", maxChars);
 
         List<Sub> subs = readSampler("sampler");
-        for (Sub sub : subs){
+
+        for (Sub sub : subs) {
             testASub(SmartLineConverter.convert(sub, maxChars));
         }
+
+        System.out.println("----------");
+        System.out.println(count);
     }
 
-    public static String removeAllLastCharNotLetterAndNumber(String str) {
-        char lastChar = str.charAt(str.length() - 1);
-        if (!Character.isLetter(lastChar) && !Character.isDigit(lastChar)) {
-            return removeAllLastCharNotLetterAndNumber(removeLastChar(str));
-        }
-        return str;
-    }
 
 }

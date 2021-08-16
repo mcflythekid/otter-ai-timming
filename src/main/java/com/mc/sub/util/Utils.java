@@ -10,6 +10,8 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+import static com.mc.sub.util.PublicUtils.removeLastChar;
+
 public class Utils {
 
     public static String getSlash() {
@@ -82,5 +84,13 @@ public class Utils {
         String dir = Utils.getDirFromPath(inPath);
         String fileName = Utils.getFileNameWithoutExtFromPath(inPath);
         return dir + Utils.getSlash() + fileName + "-" + suffix + ".srt";
+    }
+
+    public static String removeAllLastCharNotLetterAndNumber(String str) {
+        char lastChar = str.charAt(str.length() - 1);
+        if (!Character.isLetter(lastChar) && !Character.isDigit(lastChar)) {
+            return removeAllLastCharNotLetterAndNumber(removeLastChar(str));
+        }
+        return str;
     }
 }
