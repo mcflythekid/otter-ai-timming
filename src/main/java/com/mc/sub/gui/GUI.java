@@ -100,6 +100,7 @@ public class GUI extends JFrame implements LogPrinter {
 
         addSpaceConverter = new AddSpaceConverter(this);
 
+        SmartLineConverter.setLogPrinter(this);
         this.setVisible(true);
     }
 

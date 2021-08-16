@@ -28,17 +28,6 @@ public class Sub {
         String contentLow = content.toLowerCase().trim();
         contentLow = removeAllLastCharNotLetterAndNumber(contentLow);
 
-        if (contentLow.equals("but")){
-            if (prevSub != null){
-                String yyy = prevSub.extractLine().getContent();
-                if (yyy.contains("head hit which I avoid")){
-                    System.out.println("c l");
-                }
-                System.out.println(yyy);
-            }
-            System.out.println("xx");
-        }
-
         if (prevSub == null) {
             return isExtractedByBreaker && GlobalConfig.PAUSES.contains(contentLow);
         }

@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class GlobalConfig {
-    public static boolean FINALIZE_REMOVE_COMMA = false;
-
-    //!!!!!!!!
+    public static boolean FINALIZE_REMOVE_COMMA = true;
     public static boolean FINALIZE_ADD_SMART_BREAKER = false;
     public static String FINALIZE_SMART_BREAKER = "_";
 
