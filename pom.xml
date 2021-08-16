@@ -27,7 +27,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                   <!-- <mainClass>com.mc.autofiro.Launcher</mainClass> -->
+                                    <mainClass>com.mc.sub.Main</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

@@ -2,10 +2,11 @@ package com.mc.sub.converter;
 
 import com.mc.sub.Line;
 import com.mc.sub.Sub;
-import com.mc.sub.Utils;
 import com.mc.sub.gui.LogPrinter;
 
 import java.io.IOException;
+
+import static com.mc.sub.Utils.generateOutPath;
 
 public class AddSpaceConverter {
     private static final int MIN_SPACE_MILLIS = 30;
@@ -17,7 +18,7 @@ public class AddSpaceConverter {
     }
 
     public void submitAddSpace(String inPath) throws IOException {
-        String outPath = generateOutPath(inPath);
+        String outPath = generateOutPath(inPath, "space");
         Sub sub = new Sub(inPath);
         logPrinter.println("Adding space for: " + inPath);
 
@@ -55,9 +56,5 @@ public class AddSpaceConverter {
         }
     }
 
-    private static String generateOutPath(String inPath) {
-        String dir = Utils.getDirFromPath(inPath);
-        String fileName = Utils.getFileNameWithoutExtFromPath(inPath);
-        return dir + Utils.getSlash() + fileName + "-space.srt";
-    }
+
 }

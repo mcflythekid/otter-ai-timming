@@ -77,4 +77,10 @@ public class Utils {
         }
         return length - count;
     }
+
+    public static String generateOutPath(String inPath, String suffix) {
+        String dir = Utils.getDirFromPath(inPath);
+        String fileName = Utils.getFileNameWithoutExtFromPath(inPath);
+        return dir + Utils.getSlash() + fileName + "-" + suffix + ".srt";
+    }
 }
