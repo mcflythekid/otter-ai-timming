@@ -1,5 +1,6 @@
 package com.mc.sub;
 
+import com.mc.sub.util.Utils;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -10,6 +11,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static com.mc.sub.util.PublicUtils.removeLastChar;
 import static org.apache.commons.lang3.StringUtils.isBlank;
 
 @Data
@@ -145,8 +147,8 @@ public class Line {
     }
 
     public void formatFinal() {
-        if (content.endsWith(",")) {
-            content = content.substring(0, content.length() - 1);
+        if (GlobalConfig.FINALIZE_REMOVE_COMMA && content.endsWith(",")) {
+            content = removeLastChar(content);
         }
     }
 }

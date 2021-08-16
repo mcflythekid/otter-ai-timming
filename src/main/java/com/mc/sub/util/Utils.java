@@ -1,4 +1,4 @@
-package com.mc.sub;
+package com.mc.sub.util;
 
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.ArrayUtils;

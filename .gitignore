@@ -3,6 +3,5 @@ target/
 *.iml
 .*.swp
 .*.swo
-*.srt
 *.log
 *.jar

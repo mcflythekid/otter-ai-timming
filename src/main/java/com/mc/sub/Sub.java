@@ -1,7 +1,7 @@
 package com.mc.sub;
 
+import com.mc.sub.util.Utils;
 import lombok.Data;
-import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,7 +12,12 @@ public class Sub {
     private List<Line> lines = new ArrayList<>();
 
     public Line getLastLine(){
-        return lines.get(size() - 1);
+        try {
+            return lines.get(size() - 1);
+        }catch (Exception e){
+            e.printStackTrace();
+            throw new RuntimeException(e);
+        }
     }
 
     private int getNextLineIndex() {

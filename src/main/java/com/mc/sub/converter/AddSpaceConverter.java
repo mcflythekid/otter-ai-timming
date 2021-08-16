@@ -6,7 +6,7 @@ import com.mc.sub.gui.LogPrinter;
 
 import java.io.IOException;
 
-import static com.mc.sub.Utils.generateOutPath;
+import static com.mc.sub.util.Utils.generateOutPath;
 
 public class AddSpaceConverter {
     private static final int MIN_SPACE_MILLIS = 30;

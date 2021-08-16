@@ -1,14 +1,12 @@
 package com.mc.sub.gui;
 
-import com.mc.sub.Utils;
+import com.mc.sub.util.Utils;
 import com.mc.sub.converter.AddSpaceConverter;
 import com.mc.sub.converter.SmartLineConverter;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.*;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 import java.io.File;
 
 public class GUI extends JFrame implements LogPrinter {

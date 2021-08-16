@@ -2,14 +2,31 @@ package com.mc.sub.converter;
 
 import com.mc.sub.Line;
 import com.mc.sub.Sub;
+import com.mc.sub.util.PublicUtils;
+import com.mc.sub.util.Utils;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
+
+import static com.mc.sub.GlobalConfig.FINALIZE_ADD_SMART_BREAKER;
+import static com.mc.sub.GlobalConfig.FINALIZE_SMART_BREAKER;
 
 public class SmartLineConverter {
 
+    public static void submitDir(String inDir, String outDir, int length) throws IOException {
+        List<String> srtPaths = PublicUtils.filesPathList(inDir).stream()
+                .filter(s -> s.endsWith(".srt")).collect(Collectors.toList());
+
+        for (String strPath : srtPaths){
+            Sub sub = convert(new Sub(strPath), length);
+            String fileNameNoExt = Utils.getFileNameWithoutExtFromPath(strPath);
+            String out = outDir + Utils.getSlash() + fileNameNoExt + "-joined.srt";
+            sub.writeFile(out);
+        }
+    }
 
     public static void submit(String in, String out, int length) throws IOException {
         Sub sub = convert(new Sub(in), length);
@@ -45,7 +62,7 @@ public class SmartLineConverter {
         return subs;
     }
 
-    private static Sub convert(Sub source, int maxChars) {
+    public static Sub convert(Sub source, int maxChars) {
         Sub output = new Sub();
 
         List<Sub> sentences = extractSentences(source); // Extracted sentences (   End with . ? ! )
@@ -54,7 +71,7 @@ public class SmartLineConverter {
         for (Sub sentence : sentences) {
             List<Sub> longBlocks = extractSubSentences(sentence); // Extracted blocks (End with , ;)
             List<Sub> shortBlocks = new ArrayList<>();
-            for(Sub longBlock : longBlocks){
+            for (Sub longBlock : longBlocks) {
                 shortBlocks.addAll(splitBlockByTimegap(longBlock, maxChars));
             }
             List<Sub> joinedShortBlock = joinBlock(shortBlocks, maxChars);
@@ -66,7 +83,7 @@ public class SmartLineConverter {
         for (Sub block : blocks) {
             Line line = block.extractLine();
 
-            if (lastLine != null && lastLine.isEndSentence()){
+            if (lastLine != null && lastLine.isEndSentence()) {
                 line.formatCaps();
             }
             line.formatFinal();
@@ -88,11 +105,11 @@ public class SmartLineConverter {
             if (joined.countChar() <= maxChars) {
 
                 List<Sub> output = new ArrayList<>();
-                for (int j = 0; j < i; j++){
+                for (int j = 0; j < i; j++) {
                     output.add(blocks.get(j));
                 }
                 output.add(join2(curr, next));
-                for (int k = i + 2; k < size; k++){
+                for (int k = i + 2; k < size; k++) {
                     output.add(blocks.get(k));
                 }
 
@@ -151,7 +168,11 @@ public class SmartLineConverter {
         }
 
         List<Sub> splits = new ArrayList<>();
-        //x1.getLastLine().setContent(x1.getLastLine().getContent() + "__");
+
+        if (FINALIZE_ADD_SMART_BREAKER && x1.size() > 0) {
+            x1.getLastLine().setContent(x1.getLastLine().getContent() + FINALIZE_SMART_BREAKER);
+        }
+
         splits.add(x1);
         splits.add(x2);
         return splits;
