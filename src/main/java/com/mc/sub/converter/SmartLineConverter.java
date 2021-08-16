@@ -108,7 +108,7 @@ public class SmartLineConverter {
                 for (int j = 0; j < i; j++) {
                     output.add(blocks.get(j));
                 }
-                output.add(join2(curr, next));
+                output.add(joined);
                 for (int k = i + 2; k < size; k++) {
                     output.add(blocks.get(k));
                 }
