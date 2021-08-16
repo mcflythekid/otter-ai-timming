@@ -1,6 +1,6 @@
 1
 00:00:00,299 --> 00:00:02,159
-Welcome to the human lab Podcast,
+Welcome to the human lab Podcast
 
 2
 00:00:02,219 --> 00:00:05,789
@@ -8,7 +8,7 @@ where we discuss science and science based tools for everyday life.
 
 3
 00:00:09,179 --> 00:00:10,199
-I'm Andrew Huberman,
+I'm Andrew Huberman
 
 4
 00:00:10,229 --> 00:00:14,249
@@ -40,11 +40,11 @@ He's a psychiatrist, and a research scientist at Stanford School of Medicine.
 
 11
 00:00:28,889 --> 00:00:33,539
-In his clinical practice, he sees patients dealing with a range of nervous system disorders,
+In his clinical practice, he sees patients dealing with a range of nervous system disorders
 
 12
 00:00:33,539 --> 00:00:39,959
-including obsessive compulsive disorder, autism, attention deficit disorders, schizophrenia,
+including obsessive compulsive disorder, autism, attention deficit disorders, schizophrenia
 
 13
 00:00:40,139 --> 00:00:43,859
@@ -56,7 +56,7 @@ His laboratory develops and explores tools
 
 15
 00:00:47,669 --> 00:00:51,719
-with which to understand how the nervous system works in the healthy situation,
+with which to understand how the nervous system works in the healthy situation
 
 16
 00:00:51,899 --> 00:00:53,909
@@ -68,15 +68,15 @@ Dr.
 
 18
 00:00:54,449 --> 00:00:59,249
-Dice Ross laboratory has pioneered the development and use of what are called channel options,
+Dice Ross laboratory has pioneered the development and use of what are called channel options
 
 19
 00:00:59,429 --> 00:01:01,289
-proteins that come from algae,
+proteins that come from algae
 
 20
 00:01:01,619 --> 00:01:05,639
-which can now be introduced to the nervous systems of animals and humans,
+which can now be introduced to the nervous systems of animals and humans
 
 21
 00:01:05,879 --> 00:01:10,949
@@ -84,11 +84,11 @@ in order to precisely control the activity of neurons in the brain and body with
 
 22
 00:01:11,519 --> 00:01:14,609
-This is a absolutely transformative technology,
+This is a absolutely transformative technology
 
 23
 00:01:14,999 --> 00:01:19,439
-because whereas certain drug treatments can often relieve certain symptoms of disorders,
+because whereas certain drug treatments can often relieve certain symptoms of disorders
 
 24
 00:01:19,499 --> 00:01:21,749
@@ -104,7 +104,7 @@ The channel options and their related technologies
 
 27
 00:01:29,249 --> 00:01:32,549
-stand to transform the way that we treat psychiatric illness,
+stand to transform the way that we treat psychiatric illness
 
 28
 00:01:32,879 --> 00:01:35,969
@@ -132,7 +132,7 @@ This is an absolutely remarkable book
 
 34
 00:01:55,589 --> 00:01:59,159
-that uses stories about his interactions with his patients,
+that uses stories about his interactions with his patients
 
 35
 00:01:59,429 --> 00:02:04,559
@@ -148,11 +148,11 @@ these channel options and other technologies by Karl's laboratory
 
 38
 00:02:10,619 --> 00:02:15,719
-that are being used now to treat various disorders of the nervous system, and that in the future,
+that are being used now to treat various disorders of the nervous system, and that in the future
 
 39
 00:02:15,989 --> 00:02:20,699
-are certain to transform the fields of psychiatry, mental health and health in general,
+are certain to transform the fields of psychiatry, mental health and health in general
 
 40
 00:02:20,969 --> 00:02:23,969
@@ -172,11 +172,11 @@ We also discuss
 
 44
 00:02:32,099 --> 00:02:36,449
-the current status and future of psychedelic treatments for psychiatric illness,
+the current status and future of psychedelic treatments for psychiatric illness
 
 45
 00:02:36,689 --> 00:02:39,419
-as well as for understanding how the brain works more generally,
+as well as for understanding how the brain works more generally
 
 46
 00:02:39,779 --> 00:02:41,729
@@ -184,19 +184,19 @@ we also discuss issues of consciousness.
 
 47
 00:02:42,059 --> 00:02:45,059
-And we even delve into how somebody like Carl,
+And we even delve into how somebody like Carl
 
 48
 00:02:45,059 --> 00:02:50,009
-who's managing a full time clinical practice and a 40 plus person laboratory,
+who's managing a full time clinical practice and a 40 plus person laboratory
 
 49
 00:02:50,279 --> 00:02:55,589
-and a family of five children and is happily married, how he organizes his internal landscape,
+and a family of five children and is happily married, how he organizes his internal landscape
 
 50
 00:02:55,589 --> 00:02:59,279
-his own thinking, in order to manage that immense workload,
+his own thinking, in order to manage that immense workload
 
 51
 00:02:59,549 --> 00:03:03,839
@@ -212,15 +212,15 @@ I also learned through the course of reading Karl's book projections
 
 54
 00:03:11,609 --> 00:03:15,419
-that not only is he an accomplished psychiatrist, and obviously,
+that not only is he an accomplished psychiatrist, and obviously
 
 55
 00:03:15,509 --> 00:03:17,969
-the complex research scientist and a family man,
+the complex research scientist and a family man
 
 56
 00:03:18,179 --> 00:03:22,289
-but he's also a phenomenal writer projections is absolutely masterfully written,
+but he's also a phenomenal writer projections is absolutely masterfully written
 
 57
 00:03:22,289 --> 00:03:26,789
@@ -228,7 +228,7 @@ it's just beautiful, and it's accessible to anybody, even if you don't have a sc
 
 58
 00:03:27,359 --> 00:03:31,709
-So I hope that you'll enjoy my conversation with Karl deisseroth as much as I did,
+So I hope that you'll enjoy my conversation with Karl deisseroth as much as I did
 
 59
 00:03:32,009 --> 00:03:33,179
@@ -264,7 +264,7 @@ Roca makes eyeglasses and sunglasses that in my opinion are the very highest qua
 
 67
 00:03:55,319 --> 00:03:58,379
-The company was founded by two all American swimmers from Stanford,
+The company was founded by two all American swimmers from Stanford
 
 68
 00:03:58,559 --> 00:04:03,299
@@ -272,27 +272,27 @@ and everything about the eyeglasses and sunglasses was developed with performanc
 
 69
 00:04:03,779 --> 00:04:06,419
-One of the things I really love about Roca sunglasses,
+One of the things I really love about Roca sunglasses
 
 70
 00:04:06,659 --> 00:04:11,609
-is that unlike other sunglasses that make it hard to see when there's a lot of cloud cover,
+is that unlike other sunglasses that make it hard to see when there's a lot of cloud cover
 
 71
 00:04:11,669 --> 00:04:16,319
-or when the shadows change or environmental conditions change with Roca sunglasses,
+or when the shadows change or environmental conditions change with Roca sunglasses
 
 72
 00:04:16,319 --> 00:04:18,749
-they clearly understand the science of the visual system,
+they clearly understand the science of the visual system
 
 73
 00:04:18,959 --> 00:04:20,819
-because when I put them on for the first time,
+because when I put them on for the first time
 
 74
 00:04:20,849 --> 00:04:26,189
-I noticed that as I moved into shadows or the cloud cover changed, or the day got brighter or dimmer,
+I noticed that as I moved into shadows or the cloud cover changed, or the day got brighter or dimmer
 
 75
 00:04:26,879 --> 00:04:28,349
@@ -384,7 +384,7 @@ And now the DNA tests further inform our immediate and long term health.
 
 97
 00:05:41,759 --> 00:05:44,849
-One of the problems with a lot of DNA tests and blood tests out there,
+One of the problems with a lot of DNA tests and blood tests out there
 
 98
 00:05:44,849 --> 00:05:48,869
@@ -420,7 +420,7 @@ Insidetracker also makes this really easy.
 
 106
 00:06:08,609 --> 00:06:11,459
-They have a dashboard that makes organizing that all very simple,
+They have a dashboard that makes organizing that all very simple
 
 107
 00:06:11,669 --> 00:06:15,539
@@ -440,7 +440,7 @@ His plans, just use the code Huberman at checkout.
 
 111
 00:06:25,529 --> 00:06:28,499
-Today's episode is also brought to us by Athletic Greens,
+Today's episode is also brought to us by Athletic Greens
 
 112
 00:06:28,619 --> 00:06:32,039
@@ -460,11 +460,11 @@ So I'm delighted that they're sponsoring the podcast.
 
 116
 00:06:39,029 --> 00:06:40,799
-The reason I started taking Athletic Greens,
+The reason I started taking Athletic Greens
 
 117
 00:06:40,799 --> 00:06:45,659
-and that I continue to take Athletic Greens is that it covers all my vitamin and mineral basis,
+and that I continue to take Athletic Greens is that it covers all my vitamin and mineral basis
 
 118
 00:06:45,719 --> 00:06:47,939
@@ -484,7 +484,7 @@ supports the gut brain axis for healthy mood.
 
 122
 00:06:57,029 --> 00:07:01,589
-It also supports metabolism, immune function, endocrine, that means hormone function,
+It also supports metabolism, immune function, endocrine, that means hormone function
 
 123
 00:07:01,829 --> 00:07:04,409
@@ -492,7 +492,7 @@ and a host of other important biological functions.
 
 124
 00:07:04,859 --> 00:07:09,449
-I drink it once or twice a day, I mix it with water and a little bit of lemon juice or some lime juice,
+I drink it once or twice a day, I mix it with water and a little bit of lemon juice or some lime juice
 
 125
 00:07:09,449 --> 00:07:10,859
@@ -500,11 +500,11 @@ and it's absolutely delicious.
 
 126
 00:07:11,069 --> 00:07:12,659
-If you'd like to try Athletic Greens,
+If you'd like to try Athletic Greens
 
 127
 00:07:12,659 --> 00:07:18,269
-you can go to Athletic Greens comm slash Huberman and if you do that, you can claim a special offer,
+you can go to Athletic Greens comm slash Huberman and if you do that, you can claim a special offer
 
 128
 00:07:18,419 --> 00:07:21,419
@@ -520,7 +520,7 @@ Vitamin d3, as we all know, is very important for a huge range of biological fun
 
 131
 00:07:29,969 --> 00:07:33,779
-Again, that's Athletic Greens, comm slash Huberman for your Athletic Greens,
+Again, that's Athletic Greens, comm slash Huberman for your Athletic Greens
 
 132
 00:07:33,779 --> 00:07:37,019
@@ -548,7 +548,7 @@ It's been a long time coming for me.
 
 138
 00:07:46,890 --> 00:07:49,200
-Because you may not know this,
+Because you may not know this
 
 139
 00:07:49,200 --> 00:07:53,880
@@ -568,11 +568,11 @@ that are doing incredible work in the realm of science.
 
 143
 00:08:06,720 --> 00:08:11,190
-And then here, we also have this really special opportunity because you're also a clinician,
+And then here, we also have this really special opportunity because you're also a clinician
 
 144
 00:08:11,220 --> 00:08:13,140
-you see patients and for a long time,
+you see patients and for a long time
 
 145
 00:08:13,590 --> 00:08:18,090
@@ -584,7 +584,7 @@ What is the difference between neurology and psychiatry?
 
 147
 00:08:22,830 --> 00:08:26,700
-Well, if you know I'm married to a neurologist, and I am a psychiatrist,
+Well, if you know I'm married to a neurologist, and I am a psychiatrist
 
 148
 00:08:26,700 --> 00:08:28,290
@@ -592,7 +592,7 @@ and we make fun of each other all the time.
 
 149
 00:08:28,290 --> 00:08:32,010
-So this is a lot of neuroscientists,
+So this is a lot of neuroscientists
 
 150
 00:08:32,040 --> 00:08:36,390
@@ -608,7 +608,7 @@ They were in the past, they started together.
 
 153
 00:08:40,830 --> 00:08:47,610
-Psychiatry, though, focuses on disorders where we can't see something that's physically wrong,
+Psychiatry, though, focuses on disorders where we can't see something that's physically wrong
 
 154
 00:08:47,640 --> 00:08:52,290
@@ -628,7 +628,7 @@ So psychiatry is is much more mysterious.
 
 158
 00:09:02,130 --> 00:09:08,790
-And the only tools we have are words, neurologists are fantastic physicians,
+And the only tools we have are words, neurologists are fantastic physicians
 
 159
 00:09:08,790 --> 00:09:16,530
@@ -648,7 +648,7 @@ I think we use words.
 
 163
 00:09:27,240 --> 00:09:31,920
-We have rating scales for symptoms, we can measure depression and autism with rating scales,
+We have rating scales for symptoms, we can measure depression and autism with rating scales
 
 164
 00:09:31,920 --> 00:09:33,540
@@ -660,7 +660,7 @@ And ultimately, that's what psychiatry is built around.
 
 166
 00:09:37,170 --> 00:09:44,070
-It's, it's an odd situation because we've got the most complex, beautiful, mysterious,
+It's, it's an odd situation because we've got the most complex, beautiful, mysterious
 
 167
 00:09:45,300 --> 00:09:48,300
@@ -672,7 +672,7 @@ And yet all we have are words to find our way in.
 
 169
 00:09:52,139 --> 00:09:57,389
-So do you find that if a patient is very verbal or hyper verbal,
+So do you find that if a patient is very verbal or hyper verbal
 
 170
 00:09:57,539 --> 00:10:01,379
@@ -684,7 +684,7 @@ more quiet and reserved, or it's, I could imagine the opposite might be true as 
 
 172
 00:10:06,899 --> 00:10:12,119
-Well, it because we only have words, you put your finger on a key point, if they don't speak that much,
+Well, it because we only have words, you put your finger on a key point, if they don't speak that much
 
 173
 00:10:12,149 --> 00:10:13,589
@@ -692,11 +692,11 @@ in principle, it's harder.
 
 174
 00:10:14,039 --> 00:10:17,129
-The lack of speech can be a symptom, we can see that in depression,
+The lack of speech can be a symptom, we can see that in depression
 
 175
 00:10:17,129 --> 00:10:21,029
-we can see that in the negative symptoms of schizophrenia, we can see that in autism,
+we can see that in the negative symptoms of schizophrenia, we can see that in autism
 
 176
 00:10:21,239 --> 00:10:24,869
@@ -708,7 +708,7 @@ But ultimately, you do need something you need some some words to help guide you
 
 178
 00:10:29,879 --> 00:10:34,979
-In fact, there's there's challenges that I can tell you about where patients with depression,
+In fact, there's there's challenges that I can tell you about where patients with depression
 
 179
 00:10:35,489 --> 00:10:37,199
@@ -732,7 +732,7 @@ Do you find that there are patients that have, let's call them comorbidities or 
 
 184
 00:10:55,259 --> 00:10:58,049
-they would land in both Psychiatry and Neurology,
+they would land in both Psychiatry and Neurology
 
 185
 00:10:58,049 --> 00:11:02,369
@@ -752,7 +752,7 @@ Parkinson's disease is a great example.
 
 189
 00:11:11,010 --> 00:11:17,910
-It's, it's, it can be debilitating in so many ways people have trouble moving, have trouble walking,
+It's, it's, it can be debilitating in so many ways people have trouble moving, have trouble walking
 
 190
 00:11:17,970 --> 00:11:24,660
@@ -764,11 +764,11 @@ And this is you might say, Oh, well, they've got a life threatening illness.
 
 192
 00:11:30,390 --> 00:11:34,440
-But there are plenty of neurological disorders where depression is not a strong,
+But there are plenty of neurological disorders where depression is not a strong
 
 193
 00:11:34,920 --> 00:11:39,930
-strongly comorbid symptom, like ALS, Lou Gehrig's disease, for example,
+strongly comorbid symptom, like ALS, Lou Gehrig's disease, for example
 
 194
 00:11:39,960 --> 00:11:43,680
@@ -780,7 +780,7 @@ But in Parkinson's, it is extremely common.
 
 196
 00:11:46,830 --> 00:11:49,380
-And as you know, in Parkinson's disease,
+And as you know, in Parkinson's disease
 
 197
 00:11:49,380 --> 00:11:53,310
@@ -808,7 +808,7 @@ associated with their Parkinson's and a neurologist
 
 203
 00:12:15,570 --> 00:12:19,260
-treats the movement associated with the Parkinson's, and we work together,
+treats the movement associated with the Parkinson's, and we work together
 
 204
 00:12:19,710 --> 00:12:24,720
@@ -824,11 +824,11 @@ I think ultimately, there will be quantitative tests.
 
 207
 00:12:33,029 --> 00:12:38,609
-Already, efforts are being made to look at certain rhythms in the brain using external e G's,
+Already, efforts are being made to look at certain rhythms in the brain using external e G's
 
 208
 00:12:38,759 --> 00:12:40,469
-to look at brainwaves effectively,
+to look at brainwaves effectively
 
 209
 00:12:40,889 --> 00:12:44,459
@@ -840,11 +840,11 @@ And there's some progress being made on that front, it's not as good as it could
 
 211
 00:12:49,709 --> 00:12:53,549
-really give you the confidence for the individual patient that you would you would like,
+really give you the confidence for the individual patient that you would you would like
 
 212
 00:12:54,179 --> 00:12:59,099
-but ultimately, what's going on in the brain in psychiatric diseases physical,
+but ultimately, what's going on in the brain in psychiatric diseases physical
 
 213
 00:12:59,699 --> 00:13:04,259
@@ -904,7 +904,7 @@ Today?
 
 227
 00:13:49,230 --> 00:13:53,909
-I think we have, we're making progress on what the biggest challenge is,
+I think we have, we're making progress on what the biggest challenge is
 
 228
 00:13:53,939 --> 00:13:57,959
@@ -924,23 +924,23 @@ And that that can slow treatment, it can lead to, you know, worsening symptoms.
 
 232
 00:14:13,649 --> 00:14:17,879
-We know for example, patients who have untreated anxiety issues,
+We know for example, patients who have untreated anxiety issues
 
 233
 00:14:17,879 --> 00:14:24,299
-if you go for a year or more with a serious untreated anxiety issue that can convert to depression,
+if you go for a year or more with a serious untreated anxiety issue that can convert to depression
 
 234
 00:14:24,299 --> 00:14:31,379
-can you can add another problem on top of the anxiety and so it would be you know,
+can you can add another problem on top of the anxiety and so it would be you know
 
 235
 00:14:31,379 --> 00:14:32,699
-why do people not come for treatment,
+why do people not come for treatment
 
 236
 00:14:32,699 --> 00:14:38,219
-they feel like this is something they should be able to master on their own, which which can be true,
+they feel like this is something they should be able to master on their own, which which can be true
 
 237
 00:14:38,219 --> 00:14:42,479
@@ -948,11 +948,11 @@ but usually, some help is is is a good thing.
 
 238
 00:14:43,139 --> 00:14:48,389
-That raises a question related to something I heard you say many years ago at a lecture,
+That raises a question related to something I heard you say many years ago at a lecture
 
 239
 00:14:48,389 --> 00:14:51,689
-which was that this was a scientific lecture and he said,
+which was that this was a scientific lecture and he said
 
 240
 00:14:51,689 --> 00:14:54,689
@@ -976,7 +976,7 @@ And The dearth of ways that we, we have to talk about feelings.
 
 245
 00:15:07,499 --> 00:15:10,019
-I mean, there's so many words, I don't know how many,
+I mean, there's so many words, I don't know how many
 
 246
 00:15:10,049 --> 00:15:14,789
@@ -988,7 +988,7 @@ But as far as I understand, we don't have any way of comparing that in a real ob
 
 248
 00:15:20,129 --> 00:15:26,519
-So how, as a psychiatrist when your job is to use words to diagnose words of the patient to diagnose,
+So how, as a psychiatrist when your job is to use words to diagnose words of the patient to diagnose
 
 249
 00:15:26,789 --> 00:15:28,649
@@ -1008,11 +1008,11 @@ People.
 
 253
 00:15:36,839 --> 00:15:40,919
-Here we have it, there's a tension between the words that we've built up in the clinic,
+Here we have it, there's a tension between the words that we've built up in the clinic
 
 254
 00:15:41,189 --> 00:15:43,559
-that mean something to the to the physicians,
+that mean something to the to the physicians
 
 255
 00:15:43,979 --> 00:15:47,249
@@ -1032,7 +1032,7 @@ That may be different from from what we're talking about in terms of depression.
 
 259
 00:15:59,459 --> 00:16:05,639
-So part of psychiatry is to get beyond that word, and to get into how they're actually feeling, get,
+So part of psychiatry is to get beyond that word, and to get into how they're actually feeling, get
 
 260
 00:16:05,669 --> 00:16:10,739
@@ -1052,11 +1052,11 @@ How much planning are you doing for the future?
 
 264
 00:16:20,999 --> 00:16:26,369
-So these here, now you're getting into actual things you can talk about that are unambiguous,
+So these here, now you're getting into actual things you can talk about that are unambiguous
 
 265
 00:16:26,399 --> 00:16:30,179
-someone says, Yeah, I can't even I can't even think about tomorrow,
+someone says, Yeah, I can't even I can't even think about tomorrow
 
 266
 00:16:30,179 --> 00:16:33,449
@@ -1064,7 +1064,7 @@ I don't see how I'm going to get to tomorrow.
 
 267
 00:16:33,839 --> 00:16:38,279
-That that's a nice, precise thing that, you know, it's it's sad, it's tragic,
+That that's a nice, precise thing that, you know, it's it's sad, it's tragic
 
 268
 00:16:38,279 --> 00:16:40,649
@@ -1084,7 +1084,7 @@ And, and that is what I try to do.
 
 272
 00:16:46,889 --> 00:16:49,679
-When I do a psychiatric interview, I try to get past the jargon,
+When I do a psychiatric interview, I try to get past the jargon
 
 273
 00:16:49,769 --> 00:16:52,859
@@ -1092,19 +1092,19 @@ and get to what's actually happening in the patient's life and in their mind.
 
 274
 00:16:53,339 --> 00:17:00,959
-But as you say, ultimately, you know, this shows up across, I address this issue every day in my life,
+But as you say, ultimately, you know, this shows up across, I address this issue every day in my life
 
 275
 00:17:00,959 --> 00:17:06,179
-whether it's in a lab where we're looking at animals, whether fish, or mice,
+whether it's in a lab where we're looking at animals, whether fish, or mice
 
 276
 00:17:06,209 --> 00:17:08,669
-or rats and studying their behavior,
+or rats and studying their behavior
 
 277
 00:17:08,669 --> 00:17:15,449
-or when I'm in a conversation with just a friend or a colleague, or when I'm talking to a patient,
+or when I'm in a conversation with just a friend or a colleague, or when I'm talking to a patient
 
 278
 00:17:15,749 --> 00:17:19,409
@@ -1116,7 +1116,7 @@ I get, I get some feedback, I get words, I get behaviors, I get actions, but I n
 
 280
 00:17:27,209 --> 00:17:29,399
-And as you said, at the very beginning of the question,
+And as you said, at the very beginning of the question
 
 281
 00:17:29,459 --> 00:17:32,219
@@ -1148,7 +1148,7 @@ But that doesn't mean we have answers.
 
 288
 00:17:49,410 --> 00:17:55,650
-So in this area of trying to figure out what's going on under the hood, through words,
+So in this area of trying to figure out what's going on under the hood, through words
 
 289
 00:17:55,920 --> 00:18:02,220
@@ -1208,7 +1208,7 @@ And there are now ways to measure the accuracy of those statements.
 
 303
 00:18:51,810 --> 00:18:55,770
-Like for instance, if I gave you permission, you could know if I slept last night,
+Like for instance, if I gave you permission, you could know if I slept last night
 
 304
 00:18:55,830 --> 00:18:58,320
@@ -1224,7 +1224,7 @@ That's right.
 
 307
 00:18:59,460 --> 00:19:05,340
-So in moving forward through 2021, and into the next 10 and 100 years of psychiatry,
+So in moving forward through 2021, and into the next 10 and 100 years of psychiatry
 
 308
 00:19:05,670 --> 00:19:14,130
@@ -1252,11 +1252,11 @@ These are the vegetative signs, we call them with depression, poor sleep and poo
 
 314
 00:19:30,810 --> 00:19:33,660
-And if you have a baseline for somebody, that's the real challenge, though,
+And if you have a baseline for somebody, that's the real challenge, though
 
 315
 00:19:33,990 --> 00:19:37,680
-what's different in that person, some people with depressed they sleep more,
+what's different in that person, some people with depressed they sleep more
 
 316
 00:19:37,710 --> 00:19:39,900
@@ -1288,7 +1288,7 @@ And that can be a challenge that raises You know, ethical issues?
 
 323
 00:20:02,130 --> 00:20:05,700
-And how do you how do you collect that baseline information from someone healthy, I don't,
+And how do you how do you collect that baseline information from someone healthy, I don't
 
 324
 00:20:05,730 --> 00:20:07,950
@@ -1296,7 +1296,7 @@ I don't think that's something we have solved.
 
 325
 00:20:08,550 --> 00:20:11,520
-Of course, with phones and accelerometers and phones,
+Of course, with phones and accelerometers and phones
 
 326
 00:20:11,820 --> 00:20:15,360
@@ -1308,47 +1308,47 @@ But that would have to be treated very carefully for privacy reasons.
 
 328
 00:20:21,540 --> 00:20:27,330
-And in terms of measuring one's own behavior, you know, I have heard of work that's going on,
+And in terms of measuring one's own behavior, you know, I have heard of work that's going on
 
 329
 00:20:27,690 --> 00:20:29,880
-Sam golden up at the University of Washington,
+Sam golden up at the University of Washington
 
 330
 00:20:30,420 --> 00:20:34,620
-works on aggression and animal models was telling me that there's some efforts that he's making,
+works on aggression and animal models was telling me that there's some efforts that he's making
 
 331
 00:20:34,620 --> 00:20:37,110
-and perhaps you're involved in this work as well, I don't know,
+and perhaps you're involved in this work as well, I don't know
 
 332
 00:20:37,530 --> 00:20:42,600
-of devices that would allow people to detect, for instance,
+of devices that would allow people to detect, for instance
 
 333
 00:20:42,600 --> 00:20:45,630
-when they're veering towards a depressive episode for themselves,
+when they're veering towards a depressive episode for themselves
 
 334
 00:20:45,720 --> 00:20:48,840
-that they may choose or not choose to report that to their clinician,
+that they may choose or not choose to report that to their clinician
 
 335
 00:20:48,840 --> 00:20:52,830
-maybe they don't even have a clinician, maybe this person that you referred to at the beginning,
+maybe they don't even have a clinician, maybe this person that you referred to at the beginning
 
 336
 00:20:53,340 --> 00:20:55,740
-this person who doesn't feel comfortable coming to talk to you,
+this person who doesn't feel comfortable coming to talk to you
 
 337
 00:20:56,250 --> 00:21:00,870
-they maybe something is measuring changes in the inflection of their voice,
+they maybe something is measuring changes in the inflection of their voice
 
 338
 00:21:01,080 --> 00:21:03,510
-or the speed at which they get up from a chair,
+or the speed at which they get up from a chair
 
 339
 00:21:03,540 --> 00:21:06,270
@@ -1372,7 +1372,7 @@ Now, I think for more than a decade, which is, oftentimes we don't even know how
 
 344
 00:21:16,980 --> 00:21:19,050
-Yeah, you know, that that I do like,
+Yeah, you know, that that I do like
 
 345
 00:21:19,050 --> 00:21:22,710
@@ -1384,11 +1384,11 @@ And even separate from modern technology, this has been part of the
 
 347
 00:21:26,340 --> 00:21:31,620
-the art of psychiatry is to help patients realize that sometimes other people observing them,
+the art of psychiatry is to help patients realize that sometimes other people observing them
 
 348
 00:21:31,980 --> 00:21:37,410
-can give them the earliest warning signs of depression, we see this very often and family,
+can give them the earliest warning signs of depression, we see this very often and family
 
 349
 00:21:37,620 --> 00:21:41,580
@@ -1396,7 +1396,7 @@ they'll they'll notice when the patient is changing before the patient does.
 
 350
 00:21:42,060 --> 00:21:43,890
-And then there are things the patient may notice,
+And then there are things the patient may notice
 
 351
 00:21:43,890 --> 00:21:47,490
@@ -1408,7 +1408,7 @@ And a classic example of that is what we call early morning awakening.
 
 353
 00:21:51,210 --> 00:21:55,260
-And this is something that can happen very early, as people start to slide into depression,
+And this is something that can happen very early, as people start to slide into depression
 
 354
 00:21:55,260 --> 00:21:59,670
@@ -1416,7 +1416,7 @@ they start to wake up earlier and earlier, you know, just inexplicably, they're 
 
 355
 00:21:59,700 --> 00:22:03,060
-This is like 2am 3am, awaken, it could start Yeah,
+This is like 2am 3am, awaken, it could start Yeah
 
 356
 00:22:03,060 --> 00:22:06,930
@@ -1440,7 +1440,7 @@ from their perspective is just something that's happening.
 
 361
 00:22:15,810 --> 00:22:18,120
-But if you put enough of that information together,
+But if you put enough of that information together
 
 362
 00:22:18,120 --> 00:22:21,960
@@ -1456,7 +1456,7 @@ Interesting.
 
 365
 00:22:25,860 --> 00:22:29,760
-So in this framework of you know,
+So in this framework of you know
 
 366
 00:22:29,790 --> 00:22:35,640
@@ -1480,7 +1480,7 @@ Are there any very good treatments for psychiatric disease?
 
 371
 00:22:52,170 --> 00:22:55,560
-Meaning, are there currently any pills, potions,
+Meaning, are there currently any pills, potions
 
 372
 00:22:55,590 --> 00:22:59,310
@@ -1500,23 +1500,23 @@ Yes.
 
 376
 00:23:06,090 --> 00:23:08,730
-Yeah, we are fortunate and this coming back to my,
+Yeah, we are fortunate and this coming back to my
 
 377
 00:23:09,000 --> 00:23:16,260
-you know, the joking between my wife and myself in terms of neurology and psychiatry, we actually,
+you know, the joking between my wife and myself in terms of neurology and psychiatry, we actually
 
 378
 00:23:16,380 --> 00:23:17,580
-in psychiatry,
+in psychiatry
 
 379
 00:23:17,730 --> 00:23:23,250
-despite the depths of our mystery we struggle with many of our treatments are actually,
+despite the depths of our mystery we struggle with many of our treatments are actually
 
 380
 00:23:23,280 --> 00:23:27,690
-you know, we're we may be doing better than some other specialties in terms of actually causing,
+you know, we're we may be doing better than some other specialties in terms of actually causing
 
 381
 00:23:27,720 --> 00:23:29,550
@@ -1524,19 +1524,19 @@ you know, the therapeutic benefit for patients.
 
 382
 00:23:29,970 --> 00:23:35,070
-We do help patients, you know, the patients who suffer from, by the way,
+We do help patients, you know, the patients who suffer from, by the way
 
 383
 00:23:35,070 --> 00:23:39,180
-both medications and talk therapy has been shown to be extremely effective in many cases,
+both medications and talk therapy has been shown to be extremely effective in many cases
 
 384
 00:23:39,330 --> 00:23:45,180
-for example, people with panic disorder, cognitive behavioral therapy, just working with words,
+for example, people with panic disorder, cognitive behavioral therapy, just working with words
 
 385
 00:23:45,180 --> 00:23:49,500
-helping people identify the early signs when they're starting to move toward a panic attack,
+helping people identify the early signs when they're starting to move toward a panic attack
 
 386
 00:23:49,560 --> 00:23:51,570
@@ -1544,19 +1544,19 @@ what are the cognitions that are happening?
 
 387
 00:23:52,050 --> 00:23:57,390
-You can train people to derail that and you can very potently treating panic disorder that way,
+You can train people to derail that and you can very potently treating panic disorder that way
 
 388
 00:23:57,450 --> 00:24:02,400
-how long does something like that take for on average, for a motivated, insightful patient,
+how long does something like that take for on average, for a motivated, insightful patient
 
 389
 00:24:02,400 --> 00:24:06,960
-you can have a very, you know, cookbook II series of sessions,
+you can have a very, you know, cookbook II series of sessions
 
 390
 00:24:06,960 --> 00:24:12,030
-you know, six to 12 sessions or even lasted for someone who's very insightful and motivated,
+you know, six to 12 sessions or even lasted for someone who's very insightful and motivated
 
 391
 00:24:12,030 --> 00:24:14,400
@@ -1572,19 +1572,19 @@ There are many psychiatric medications that are very effective for
 
 394
 00:24:21,600 --> 00:24:26,640
-the conditions that they're treating anti psychotic medications, they have side effects,
+the conditions that they're treating anti psychotic medications, they have side effects
 
 395
 00:24:26,640 --> 00:24:29,460
-but boy, do they work, they really can clear up,
+but boy, do they work, they really can clear up
 
 396
 00:24:29,790 --> 00:24:33,780
-particularly the positive symptoms of schizophrenia, for example,
+particularly the positive symptoms of schizophrenia, for example
 
 397
 00:24:33,780 --> 00:24:38,700
-the auditory hallucinations that paranoia, people's lives can be turned around by these,
+the auditory hallucinations that paranoia, people's lives can be turned around by these
 
 398
 00:24:39,090 --> 00:24:43,800
@@ -1612,11 +1612,11 @@ And that stands in contrast to the negative symptoms where
 
 404
 00:24:58,230 --> 00:25:02,550
-something is taken away and these are Patients who are who are withdrawn,
+something is taken away and these are Patients who are who are withdrawn
 
 405
 00:25:02,580 --> 00:25:05,220
-they have what we call thought blocking,
+they have what we call thought blocking
 
 406
 00:25:05,220 --> 00:25:08,250
@@ -1624,7 +1624,7 @@ they can't even progress forward in a sequence of thoughts.
 
 407
 00:25:09,270 --> 00:25:13,800
-Both of those can be part of schizophrenia, the the hallucinations,
+Both of those can be part of schizophrenia, the the hallucinations
 
 408
 00:25:13,800 --> 00:25:17,340
@@ -1632,15 +1632,15 @@ and the paranoia are more effectively treated right now, but they are effectivel
 
 409
 00:25:18,180 --> 00:25:23,910
-And then, you know, this is a frustrating, and yet heartening aspect of psychiatry,
+And then, you know, this is a frustrating, and yet heartening aspect of psychiatry
 
 410
 00:25:23,940 --> 00:25:27,270
-there are treatments like electro convulsive electroconvulsive therapy,
+there are treatments like electro convulsive electroconvulsive therapy
 
 411
 00:25:27,270 --> 00:25:31,140
-which is where you know, it's extremely effective for depression,
+which is where you know, it's extremely effective for depression
 
 412
 00:25:31,140 --> 00:25:37,290
@@ -1652,7 +1652,7 @@ And
 
 414
 00:25:38,850 --> 00:25:44,580
-you can administer under very safe controlled condition where the patient's body is not moving,
+you can administer under very safe controlled condition where the patient's body is not moving
 
 415
 00:25:44,580 --> 00:25:49,710
@@ -1684,7 +1684,7 @@ for these very severe cases?
 
 422
 00:26:11,610 --> 00:26:14,370
-And people saw it for decades to understand,
+And people saw it for decades to understand
 
 423
 00:26:14,910 --> 00:26:19,050
@@ -1696,7 +1696,7 @@ And we don't know the answer yet, we would love to do that people are working ha
 
 425
 00:26:23,400 --> 00:26:28,080
-But that is a treatment that does work to all in all these cases, though, in psychiatry,
+But that is a treatment that does work to all in all these cases, though, in psychiatry
 
 426
 00:26:28,110 --> 00:26:30,660
@@ -1704,7 +1704,7 @@ the frustrating thing is that we don't have
 
 427
 00:26:31,710 --> 00:26:35,880
-the level of understanding that a cardiologist has and thinking about the heart,
+the level of understanding that a cardiologist has and thinking about the heart
 
 428
 00:26:35,910 --> 00:26:39,180
@@ -1720,7 +1720,7 @@ It's clearly a pump.
 
 431
 00:26:47,130 --> 00:26:53,490
-We don't really have that level of what what is the circuit really, therefore in psychiatry,
+We don't really have that level of what what is the circuit really, therefore in psychiatry
 
 432
 00:26:54,060 --> 00:26:56,850
@@ -1748,11 +1748,11 @@ I would imagine, there are several elements and bins here.
 
 438
 00:27:16,230 --> 00:27:21,420
-Understanding that the natural biology understanding what the activity patterns are,
+Understanding that the natural biology understanding what the activity patterns are
 
 439
 00:27:21,420 --> 00:27:25,170
-how to modify those, maybe you could just tell us what you think,
+how to modify those, maybe you could just tell us what you think
 
 440
 00:27:25,200 --> 00:27:29,010
@@ -1764,11 +1764,11 @@ Yeah, I think the first thing we need is understanding we need we need
 
 442
 00:27:33,960 --> 00:27:38,280
-almost every psychiatric treatment has been serendipitously identified, just noting,
+almost every psychiatric treatment has been serendipitously identified, just noting
 
 443
 00:27:38,280 --> 00:27:44,070
-by chance that something that was done for some person also had a side effect,
+by chance that something that was done for some person also had a side effect
 
 444
 00:27:44,100 --> 00:27:46,560
@@ -1792,7 +1792,7 @@ I don't have first hand knowledge of that.
 
 449
 00:27:55,410 --> 00:27:59,490
-But I would defer that, but it's true for essentially every treatment,
+But I would defer that, but it's true for essentially every treatment
 
 450
 00:27:59,490 --> 00:28:05,490
@@ -1804,7 +1804,7 @@ And so this is a classic example for, and this is across all of psychiatry.
 
 452
 00:28:12,750 --> 00:28:16,410
-And of course, there's the seizures as well, that was noticed that patients who had epilepsy,
+And of course, there's the seizures as well, that was noticed that patients who had epilepsy
 
 453
 00:28:16,410 --> 00:28:20,280
@@ -1824,7 +1824,7 @@ I don't want to take you off course.
 
 457
 00:28:25,200 --> 00:28:27,210
-So the question that answering the question I asked,
+So the question that answering the question I asked
 
 458
 00:28:27,210 --> 00:28:32,580
@@ -1852,7 +1852,7 @@ statements like that and descriptions like that from from patients and their fam
 
 464
 00:28:46,530 --> 00:28:51,420
-It's a it's that is very hard to study quantitatively, because often with the children,
+It's a it's that is very hard to study quantitatively, because often with the children
 
 465
 00:28:51,420 --> 00:28:52,050
@@ -1956,19 +1956,19 @@ This is where we need the basic science to bring us a step forward.
 
 490
 00:30:19,350 --> 00:30:21,810
-So we can say, Okay, this is the process that's going on,
+So we can say, Okay, this is the process that's going on
 
 491
 00:30:21,810 --> 00:30:26,460
-this is what's needed for the incredibly complex task of social interaction,
+this is what's needed for the incredibly complex task of social interaction
 
 492
 00:30:26,940 --> 00:30:32,820
-where you've got incredibly rich data streams of sound and meaning eye contact body movements,
+where you've got incredibly rich data streams of sound and meaning eye contact body movements
 
 493
 00:30:32,880 --> 00:30:35,430
-and that's just for one person, or if there's a group of people,
+and that's just for one person, or if there's a group of people
 
 494
 00:30:36,090 --> 00:30:38,880
@@ -1984,11 +1984,11 @@ It's a lot of information.
 
 497
 00:30:43,410 --> 00:30:48,510
-And, and that maybe is unmatched in any realm of biology,
+And, and that maybe is unmatched in any realm of biology
 
 498
 00:30:48,510 --> 00:30:50,970
-the amount of information coming in through social interaction,
+the amount of information coming in through social interaction
 
 499
 00:30:50,970 --> 00:30:52,740
@@ -1996,7 +1996,7 @@ particularly with words and language.
 
 500
 00:30:53,790 --> 00:30:57,420
-And so then, that turns our attention as neuroscientists, we think,
+And so then, that turns our attention as neuroscientists, we think
 
 501
 00:30:57,420 --> 00:31:03,210
@@ -2020,11 +2020,11 @@ And maybe we can, and we know how other animals are social in their own way.
 
 506
 00:31:17,790 --> 00:31:21,120
-And we can study those animals and so that there's, that's how I think about it,
+And we can study those animals and so that there's, that's how I think about it
 
 507
 00:31:21,120 --> 00:31:24,990
-there's hope for the future, thinking about the symptoms as an engineer might,
+there's hope for the future, thinking about the symptoms as an engineer might
 
 508
 00:31:25,620 --> 00:31:29,580
@@ -2036,7 +2036,7 @@ to make this typical behavior happen, and that will help us understand how it be
 
 510
 00:31:35,040 --> 00:31:40,350
-So that seems like the first, to me the first been of this what I call the bento box,
+So that seems like the first, to me the first been of this what I call the bento box
 
 511
 00:31:40,920 --> 00:31:46,170
@@ -2052,27 +2052,27 @@ And what the patterns of activity are under a normal quote, unquote, healthy int
 
 514
 00:31:59,040 --> 00:32:01,110
-If we understand that,
+If we understand that
 
 515
 00:32:01,530 --> 00:32:06,300
-then it seems that the next step which of course can be carried out in parallel, right,
+then it seems that the next step which of course can be carried out in parallel, right
 
 516
 00:32:06,300 --> 00:32:08,970
-that though that work can be done alongside work,
+that though that work can be done alongside work
 
 517
 00:32:09,090 --> 00:32:13,740
-where various elements within those circuits are tweaked just right,
+where various elements within those circuits are tweaked just right
 
 518
 00:32:14,040 --> 00:32:16,170
-like the tuning of a piano and the subtle white,
+like the tuning of a piano and the subtle white
 
 519
 00:32:16,170 --> 00:32:20,520
-or maybe even like the replacement of a whole set of keys, if the piano is lacking key, so to speak,
+or maybe even like the replacement of a whole set of keys, if the piano is lacking key, so to speak
 
 520
 00:32:21,450 --> 00:32:24,810
@@ -2080,7 +2080,7 @@ you've been very involved in trying to generate those tools.
 
 521
 00:32:25,110 --> 00:32:36,000
-So tell us about channel options, why you created them, and where they're at now, in the laboratory,
+So tell us about channel options, why you created them, and where they're at now, in the laboratory
 
 522
 00:32:36,030 --> 00:32:38,130
@@ -2096,7 +2096,7 @@ These are beautiful little proteins that are made by algae, single celled green 
 
 525
 00:32:50,280 --> 00:32:58,230
-And it's a great story in basic science, that our understanding of animal behavior, sensation,
+And it's a great story in basic science, that our understanding of animal behavior, sensation
 
 526
 00:32:58,230 --> 00:33:05,040
@@ -2116,7 +2116,7 @@ Petersburg.
 
 530
 00:33:14,820 --> 00:33:23,100
-And he had noticed in the river near his laboratory that there were algae that he could look at,
+And he had noticed in the river near his laboratory that there were algae that he could look at
 
 531
 00:33:23,640 --> 00:33:28,350
@@ -2128,7 +2128,7 @@ The green tinge in the saucer of water
 
 533
 00:33:34,530 --> 00:33:40,050
-would move to a particular distance from the light that he was shining from the side,
+would move to a particular distance from the light that he was shining from the side
 
 534
 00:33:40,350 --> 00:33:41,550
@@ -2136,7 +2136,7 @@ which was an amazing thing.
 
 535
 00:33:42,420 --> 00:33:44,070
-If he made the light brighter,
+If he made the light brighter
 
 536
 00:33:44,760 --> 00:33:48,600
@@ -2156,11 +2156,11 @@ It was light driven plant behavior.
 
 540
 00:33:54,660 --> 00:33:58,680
-And he delves into this a little bit, he identified that microscopy,
+And he delves into this a little bit, he identified that microscopy
 
 541
 00:33:58,680 --> 00:34:04,260
-he could see that there were little single celled algae with flagella that were swimming to the,
+he could see that there were little single celled algae with flagella that were swimming to the
 
 542
 00:34:04,320 --> 00:34:05,250
@@ -2184,7 +2184,7 @@ So turns out, you know, these algae achieve this amazing results.
 
 547
 00:34:20,370 --> 00:34:28,020
-With a single gene that encodes a single protein, what's a protein, it's just a little biomolecule,
+With a single gene that encodes a single protein, what's a protein, it's just a little biomolecule
 
 548
 00:34:28,020 --> 00:34:29,280
@@ -2196,7 +2196,7 @@ And these are proteins that sit in the surface of cells in their surface membran
 
 550
 00:34:36,240 --> 00:34:40,920
-And when a photon of light particle hits them, they open a little pore,
+And when a photon of light particle hits them, they open a little pore
 
 551
 00:34:40,950 --> 00:34:47,220
@@ -2216,7 +2216,7 @@ That signal coming in those ions coming in through the poor in response to light
 
 555
 00:34:56,640 --> 00:35:02,250
-guide their flagellar motor that guides them to particular spot in the saucer,
+guide their flagellar motor that guides them to particular spot in the saucer
 
 556
 00:35:02,280 --> 00:35:02,670
@@ -2228,15 +2228,15 @@ Now that's plant behavior.
 
 558
 00:35:05,040 --> 00:35:09,810
-But it turns out, as you know, this movement of ions across the membrane,
+But it turns out, as you know, this movement of ions across the membrane
 
 559
 00:35:09,840 --> 00:35:16,860
-this happens to also be neural code in our brains for on or off sodium ions rushing into cells,
+this happens to also be neural code in our brains for on or off sodium ions rushing into cells
 
 560
 00:35:17,640 --> 00:35:19,650
-turns them on, make some Fire away,
+turns them on, make some Fire away
 
 561
 00:35:19,740 --> 00:35:23,520
@@ -2248,15 +2248,15 @@ And this is an amazing opportunity because we can borrow these proteins.
 
 563
 00:35:31,260 --> 00:35:36,660
-In fact, we can take the gene that directs the creation of the protein, and we can use genetic tricks,
+In fact, we can take the gene that directs the creation of the protein, and we can use genetic tricks
 
 564
 00:35:36,660 --> 00:35:42,150
-modern genetic tricks to put that gene into neurons in the brains of mammals,
+modern genetic tricks to put that gene into neurons in the brains of mammals
 
 565
 00:35:42,720 --> 00:35:49,950
-and then use light to turn those cells, the specific cells that we put this gene into, turn them on,
+and then use light to turn those cells, the specific cells that we put this gene into, turn them on
 
 566
 00:35:50,190 --> 00:35:54,630
@@ -2264,11 +2264,11 @@ there are other options, we call them that you can use to turn cells off.
 
 567
 00:35:55,260 --> 00:35:57,840
-It's all fast, real time,
+It's all fast, real time
 
 568
 00:35:57,870 --> 00:36:02,490
-you can play in patterns of activity in real time into cells or kinds of cells,
+you can play in patterns of activity in real time into cells or kinds of cells
 
 569
 00:36:02,730 --> 00:36:06,900
@@ -2276,7 +2276,7 @@ just as a conductor elicits the music from the orchestra, the strings and the wo
 
 570
 00:36:06,900 --> 00:36:12,240
-And, and, and you can see what matters, what matters for sensation, what matters for cognition,
+And, and, and you can see what matters, what matters for sensation, what matters for cognition
 
 571
 00:36:12,240 --> 00:36:14,670
@@ -2288,11 +2288,11 @@ Beautiful, and I must say, it was quite an honor and a privilege to watch
 
 573
 00:36:20,550 --> 00:36:26,760
-optogenetics move from idea to discovery to the laboratory,
+optogenetics move from idea to discovery to the laboratory
 
 574
 00:36:26,790 --> 00:36:28,800
-I think we were postdocs at the same time,
+I think we were postdocs at the same time
 
 575
 00:36:28,830 --> 00:36:32,310
@@ -2324,7 +2324,7 @@ So maybe the range of animals that it's being used in and some of the phenomenon
 
 582
 00:37:01,830 --> 00:37:03,720
-channel up chelmer, adoptions and,
+channel up chelmer, adoptions and
 
 583
 00:37:04,050 --> 00:37:09,690
@@ -2332,19 +2332,19 @@ and their related genes and proteins are starting to elicit what you've seen.
 
 584
 00:37:10,800 --> 00:37:14,220
-And then I'd like to talk about their applicability to the clinic,
+And then I'd like to talk about their applicability to the clinic
 
 585
 00:37:14,250 --> 00:37:22,229
-which is, I think that the bigger mission, if you will, so this is, you know, this this whole thing,
+which is, I think that the bigger mission, if you will, so this is, you know, this this whole thing
 
 586
 00:37:22,469 --> 00:37:22,679
-you know,
+you know
 
 587
 00:37:22,679 --> 00:37:28,109
-it's been about now going on 17 years that we've been putting channeler adoptions into neurons,
+it's been about now going on 17 years that we've been putting channeler adoptions into neurons
 
 588
 00:37:28,409 --> 00:37:33,509
@@ -2352,7 +2352,7 @@ it started just like Andre, for instance, work in a dish by 2000.
 
 589
 00:37:33,539 --> 00:37:39,089
-That was in 2004, and 2007, we were putting these into behaving mice, and we were able to,
+That was in 2004, and 2007, we were putting these into behaving mice, and we were able to
 
 590
 00:37:39,299 --> 00:37:45,869
@@ -2360,7 +2360,7 @@ with a click of a switch cause them to move one direction or another by 2009.
 
 591
 00:37:45,899 --> 00:37:49,620
-So basically, you're controlling the mouse's behavior, yeah, exactly in real time,
+So basically, you're controlling the mouse's behavior, yeah, exactly in real time
 
 592
 00:37:49,620 --> 00:37:51,990
@@ -2376,15 +2376,15 @@ And as soon as we turn off the light, it would stop, that was an eye opening mom
 
 595
 00:38:01,530 --> 00:38:04,680
-It took really a few years to make optogenetics work,
+It took really a few years to make optogenetics work
 
 596
 00:38:04,950 --> 00:38:10,140
-there was a lot of putting all the there are a lot of problems that had to be solved these,
+there was a lot of putting all the there are a lot of problems that had to be solved these
 
 597
 00:38:10,170 --> 00:38:14,130
-these channels, and options actually don't move many ions there,
+these channels, and options actually don't move many ions there
 
 598
 00:38:14,130 --> 00:38:17,100
@@ -2392,7 +2392,7 @@ they have a small current small conductance, as we say.
 
 599
 00:38:17,100 --> 00:38:22,680
-And so we had to figure out ways to pack a lot of them into cells without damaging cells,
+And so we had to figure out ways to pack a lot of them into cells without damaging cells
 
 600
 00:38:23,430 --> 00:38:25,140
@@ -2400,7 +2400,7 @@ and still make them targetable.
 
 601
 00:38:25,170 --> 00:38:29,520
-So we don't want to just be in all the cells because then that becomes just like an electrode,
+So we don't want to just be in all the cells because then that becomes just like an electrode
 
 602
 00:38:29,520 --> 00:38:34,230
@@ -2428,7 +2428,7 @@ took probably about four or five years to really create optogenetics between 200
 
 608
 00:38:50,580 --> 00:38:51,810
-By the end of that time, though,
+By the end of that time, though
 
 609
 00:38:51,810 --> 00:38:58,110
@@ -2436,7 +2436,7 @@ we had all the basic light delivery gene delivery principles worked out.
 
 610
 00:38:58,500 --> 00:39:07,740
-And people started to apply the technology to fish to rats to mice, to non human primates,
+And people started to apply the technology to fish to rats to mice, to non human primates
 
 611
 00:39:08,370 --> 00:39:09,300
@@ -2472,7 +2472,7 @@ An amazing paper and discovery.
 
 619
 00:39:40,620 --> 00:39:45,720
-I realized it was one patient but it's such an important milestone and well, it's it as you say,
+I realized it was one patient but it's such an important milestone and well, it's it as you say
 
 620
 00:39:45,720 --> 00:39:52,110
@@ -2492,7 +2492,7 @@ options put into this retinal tissue and showing that it
 
 624
 00:40:07,770 --> 00:40:11,340
-that it worked recording from the cells showing that in these human neurons,
+that it worked recording from the cells showing that in these human neurons
 
 625
 00:40:11,340 --> 00:40:14,220
@@ -2512,7 +2512,7 @@ So you've got
 
 629
 00:40:22,590 --> 00:40:27,570
-all the regulations and concerns and all that it took almost 10 years to get to this point,
+all the regulations and concerns and all that it took almost 10 years to get to this point
 
 630
 00:40:27,570 --> 00:40:32,070
@@ -2520,7 +2520,7 @@ now we're living human being has a new functionality that wasn't there before.
 
 631
 00:40:32,790 --> 00:40:34,590
-Now, that's incredibly inspiring,
+Now, that's incredibly inspiring
 
 632
 00:40:34,620 --> 00:40:35,010
@@ -2532,15 +2532,15 @@ And it's a, it's a beautiful thing.
 
 634
 00:40:38,340 --> 00:40:39,060
-I would say, though,
+I would say, though
 
 635
 00:40:39,060 --> 00:40:45,150
-that the broader significance of optogenetics is really still understanding,
+that the broader significance of optogenetics is really still understanding
 
 636
 00:40:45,150 --> 00:40:50,220
-because once you understand how the circuitry works, in which cells actually matter,
+because once you understand how the circuitry works, in which cells actually matter
 
 637
 00:40:50,460 --> 00:40:56,550
@@ -2548,19 +2548,19 @@ then any kind of treatment becomes more grounded, and logical and specific and p
 
 638
 00:40:57,180 --> 00:40:59,370
-And whether it's medication or talk therapy,
+And whether it's medication or talk therapy
 
 639
 00:40:59,370 --> 00:41:02,970
-or brain stimulation treatment with electrical or magnetic means,
+or brain stimulation treatment with electrical or magnetic means
 
 640
 00:41:03,480 --> 00:41:09,180
-if you actually know what matters, that is incredibly powerful, and I think, no, no,
+if you actually know what matters, that is incredibly powerful, and I think, no, no
 
 641
 00:41:09,240 --> 00:41:15,660
-you know, not intended to disparage this beautiful retinal work and conferring,
+you know, not intended to disparage this beautiful retinal work and conferring
 
 642
 00:41:15,690 --> 00:41:18,810
@@ -2572,15 +2572,15 @@ But that's direct, what you might call direct optogenetics.
 
 644
 00:41:23,610 --> 00:41:27,060
-And patients indirect is everything that comes from understanding,
+And patients indirect is everything that comes from understanding
 
 645
-00:41:27,090 --> 00:41:30,690
-you know, okay, we know these cells matter now, for this symptom, well,
+00:41:27,090 --> 00:41:30,300
+you know, okay, we know these cells matter now, for this symptom
 
 646
-00:41:31,110 --> 00:41:35,520
-how can we target those those cells and help them work better in patients by any means?
+00:41:30,330 --> 00:41:35,520
+well, how can we target those those cells and help them work better in patients by any means?
 
 647
 00:41:35,580 --> 00:41:38,400
@@ -2588,11 +2588,11 @@ And I think that's the broader significance of optogenetics.
 
 648
 00:41:38,400 --> 00:41:44,820
-Clinically, you and I know both on well, and you embleton share this incredible,
+Clinically, you and I know both on well, and you embleton share this incredible
 
 649
 00:41:45,570 --> 00:41:50,130
-big vision that I think only a clinician can really understand,
+big vision that I think only a clinician can really understand
 
 650
 00:41:50,160 --> 00:41:52,170
@@ -2600,11 +2600,11 @@ you know, being in close contact with and
 
 651
 00:41:52,890 --> 00:41:57,660
-the suffering of patients as a ultimate motivator of developing technologies,
+the suffering of patients as a ultimate motivator of developing technologies
 
 652
 00:41:57,660 --> 00:41:59,760
-which makes me have to ask,
+which makes me have to ask
 
 653
 00:42:00,300 --> 00:42:06,180
@@ -2624,7 +2624,7 @@ brought you to a particular place.
 
 657
 00:42:16,500 --> 00:42:22,320
-And that was not what brought me initially to science and, and it's okay to, I think,
+And that was not what brought me initially to science and, and it's okay to, I think
 
 658
 00:42:22,320 --> 00:42:26,880
@@ -2636,11 +2636,11 @@ But I was always interested in the brain.
 
 660
 00:42:29,070 --> 00:42:35,070
-And so that was something that for me started from a very early age, I was,
+And so that was something that for me started from a very early age, I was
 
 661
 00:42:35,100 --> 00:42:36,870
-you know, we talked about being introspective,
+you know, we talked about being introspective
 
 662
 00:42:36,900 --> 00:42:42,780
@@ -2652,11 +2652,11 @@ And I was a voracious reader.
 
 664
 00:42:46,590 --> 00:42:53,850
-And I was amazed by how words could could make me feel in particular ways,
+And I was amazed by how words could could make me feel in particular ways
 
 665
 00:42:53,880 --> 00:42:58,380
-just even even separate from their, you know, of course, dictionary meanings,
+just even even separate from their, you know, of course, dictionary meanings
 
 666
 00:42:58,380 --> 00:43:02,310
@@ -2684,7 +2684,7 @@ And so I was interested in I became interested in the brain.
 
 672
 00:43:23,250 --> 00:43:26,070
-And I thought, well, I'm going to have to study the human brain,
+And I thought, well, I'm going to have to study the human brain
 
 673
 00:43:26,550 --> 00:43:33,090
@@ -2692,7 +2692,7 @@ because only human beings can describe what's going on inside and off.
 
 674
 00:43:34,050 --> 00:43:38,040
-So in college, I began to steer myself toward medicine,
+So in college, I began to steer myself toward medicine
 
 675
 00:43:38,460 --> 00:43:40,830
@@ -2712,7 +2712,7 @@ Program.
 
 679
 00:43:50,190 --> 00:43:55,830
-Planning neurosurgery all the way through the first rotation I did at the end of medical school,
+Planning neurosurgery all the way through the first rotation I did at the end of medical school
 
 680
 00:43:55,830 --> 00:43:59,070
@@ -2720,11 +2720,11 @@ as you know, you do rotations, you go through different specialties.
 
 681
 00:43:59,070 --> 00:44:03,450
-And some of these are required rotations, everybody has to do some elective where you can,
+And some of these are required rotations, everybody has to do some elective where you can
 
 682
 00:44:03,480 --> 00:44:09,780
-you can pick what you want to do. I elected to do neurosurgery first, even before regular surgery,
+you can pick what you want to do. I elected to do neurosurgery first, even before regular surgery
 
 683
 00:44:09,780 --> 00:44:11,130
@@ -2740,7 +2740,7 @@ And there was a neglect syndrome where the patient was not able to be aware of s
 
 686
 00:44:23,820 --> 00:44:26,010
-right in front of him, even though their vision was broken,
+right in front of him, even though their vision was broken
 
 687
 00:44:26,010 --> 00:44:27,450
@@ -2756,7 +2756,7 @@ And so I was and I loved the operating room.
 
 690
 00:44:31,470 --> 00:44:36,540
-I loved the rhythm of suturing and the precision of it and,
+I loved the rhythm of suturing and the precision of it and
 
 691
 00:44:36,720 --> 00:44:38,910
@@ -2792,7 +2792,7 @@ Yes, there's need.
 
 699
 00:45:14,820 --> 00:45:21,480
-But as a scientist, this is amazing that someone's reality can be different from my own,
+But as a scientist, this is amazing that someone's reality can be different from my own
 
 700
 00:45:21,600 --> 00:45:28,410
@@ -2804,7 +2804,7 @@ And yet we've got a different reality, that is an amazing thing.
 
 702
 00:45:32,160 --> 00:45:36,960
-And if we can understand that, and help these people, that would be just,
+And if we can understand that, and help these people, that would be just
 
 703
 00:45:37,740 --> 00:45:39,300
@@ -2824,11 +2824,11 @@ And it started with poetry.
 
 707
 00:45:49,260 --> 00:45:54,900
-Yeah, out of out of respect for poetry, or are there any favorites that you spend time with,
+Yeah, out of out of respect for poetry, or are there any favorites that you spend time with
 
 708
 00:45:55,830 --> 00:45:59,100
-on a regular basis, I mean, the ones who,
+on a regular basis, I mean, the ones who
 
 709
 00:45:59,130 --> 00:46:04,770
@@ -2844,11 +2844,11 @@ reading his work.
 
 712
 00:46:14,070 --> 00:46:17,580
-He was a great writer, he wrote both in English and in Spanish,
+He was a great writer, he wrote both in English and in Spanish
 
 713
 00:46:17,580 --> 00:46:20,070
-and being able to appreciate his poetry,
+and being able to appreciate his poetry
 
 714
 00:46:20,070 --> 00:46:22,830
@@ -2864,7 +2864,7 @@ I'm not I wouldn't say now I became at one point, I was effectively fluent in Sp
 
 717
 00:46:32,160 --> 00:46:34,530
-And I have I'm pretty good with medical Spanish still,
+And I have I'm pretty good with medical Spanish still
 
 718
 00:46:34,530 --> 00:46:38,850
@@ -2884,7 +2884,7 @@ That's been very helpful in the clinic.
 
 722
 00:46:46,200 --> 00:46:49,860
-Has this wonderful is the son of an Argentine I grew up hearing about it,
+Has this wonderful is the son of an Argentine I grew up hearing about it
 
 723
 00:46:49,860 --> 00:46:53,310
@@ -2900,11 +2900,11 @@ So you developed methods to control neurons with these algae proteins using ligh
 
 726
 00:47:10,230 --> 00:47:15,540
-In 2015, there was what I thought was a very nice article published in the New Yorker,
+In 2015, there was what I thought was a very nice article published in the New Yorker
 
 727
 00:47:15,900 --> 00:47:21,600
-describing your work and the current state of your work in in the laboratory in the clinic,
+describing your work and the current state of your work in in the laboratory in the clinic
 
 728
 00:47:21,900 --> 00:47:23,580
@@ -2916,7 +2916,7 @@ So this, as I recall, a woman who was severely depressed.
 
 730
 00:47:28,320 --> 00:47:34,230
-And you reported in that article, some of the discussion with this patient, and then in real time,
+And you reported in that article, some of the discussion with this patient, and then in real time
 
 731
 00:47:34,800 --> 00:47:38,430
@@ -2928,11 +2928,11 @@ increase the activation of the so called Vegas nerve, this
 
 733
 00:47:45,510 --> 00:47:51,840
-What is the potential for Channel read options, or related types of algae engineering,
+What is the potential for Channel read options, or related types of algae engineering
 
 734
 00:47:52,290 --> 00:47:57,360
-to be used to manipulate the Vegas, because I believe in that instance,
+to be used to manipulate the Vegas, because I believe in that instance
 
 735
 00:47:57,360 --> 00:48:00,270
@@ -2940,7 +2940,7 @@ it wasn't channel ops and stimulation was electrical stimulation, right?
 
 736
 00:48:00,690 --> 00:48:04,620
-Or to manipulate, for instance, a very small localized region of the brain,
+Or to manipulate, for instance, a very small localized region of the brain
 
 737
 00:48:04,830 --> 00:48:06,840
@@ -2952,15 +2952,15 @@ In light of what we were talking about a couple minutes ago.
 
 739
 00:48:10,800 --> 00:48:13,950
-My understanding is that if somebody has severe depression,
+My understanding is that if somebody has severe depression
 
 740
 00:48:14,010 --> 00:48:19,320
-and they take any number of the available, pharmaceutical agents that are out there,
+and they take any number of the available, pharmaceutical agents that are out there
 
 741
 00:48:19,650 --> 00:48:23,610
-ss ra serotonergic, agents increase dopamine increase whatever,
+ss ra serotonergic, agents increase dopamine increase whatever
 
 742
 00:48:23,970 --> 00:48:28,140
@@ -2972,7 +2972,7 @@ Sometimes they don't experience relief.
 
 744
 00:48:29,940 --> 00:48:34,980
-But as I understand it, channel options and their related technology, in principle,
+But as I understand it, channel options and their related technology, in principle
 
 745
 00:48:35,610 --> 00:48:37,140
@@ -3012,11 +3012,11 @@ So let's take this example of Vegas nerve stimulation.
 
 754
 00:49:09,750 --> 00:49:13,470
-So the vagus nerve, it's the 10th cranial nerve that comes from the brain,
+So the vagus nerve, it's the 10th cranial nerve that comes from the brain
 
 755
 00:49:13,470 --> 00:49:17,070
-it goes down at innervates, the heart innervates the gut, and by innervate,
+it goes down at innervates, the heart innervates the gut, and by innervate
 
 756
 00:49:17,070 --> 00:49:19,350
@@ -3032,7 +3032,7 @@ It also collects information back and and
 
 759
 00:49:28,500 --> 00:49:32,700
-there's information coming back from all those organs that go also go through this vagus nerve,
+there's information coming back from all those organs that go also go through this vagus nerve
 
 760
 00:49:32,700 --> 00:49:34,320
@@ -3048,7 +3048,7 @@ the idea is maybe we could put a little cuff a little electrical
 
 763
 00:49:46,020 --> 00:49:50,670
-device around the vagus nerve itself, and maybe have just like a pacemaker battery,
+device around the vagus nerve itself, and maybe have just like a pacemaker battery
 
 764
 00:49:50,670 --> 00:49:54,540
@@ -3116,7 +3116,7 @@ But yes, somebody loves a medicine.
 
 780
 00:50:23,670 --> 00:50:28,200
-As a scientist I got this is where I get to chuckle and you say, I'm in the field of medicine,
+As a scientist I got this is where I get to chuckle and you say, I'm in the field of medicine
 
 781
 00:50:28,290 --> 00:50:33,150
@@ -3164,7 +3164,7 @@ I mean, we there are, there are stories people tell so that the salt the vagus n
 
 792
 00:51:02,430 --> 00:51:05,940
-lands on a particular spot in the brain called the solitary tract nucleus,
+lands on a particular spot in the brain called the solitary tract nucleus
 
 793
 00:51:05,940 --> 00:51:10,710
@@ -3252,7 +3252,7 @@ Oh, my God, that actually works.
 
 814
 00:52:04,200 --> 00:52:09,150
-And sometimes you do need that that test pilot mentality, of course, to do it in a in a rigorous,
+And sometimes you do need that that test pilot mentality, of course, to do it in a in a rigorous
 
 815
 00:52:09,150 --> 00:52:10,920
@@ -3272,7 +3272,7 @@ Does it work?
 
 819
 00:52:19,770 --> 00:52:24,090
-It has it's FDA approved for depression, this vagus nerve stimulation,
+It has it's FDA approved for depression, this vagus nerve stimulation
 
 820
 00:52:24,090 --> 00:52:29,880
@@ -3284,7 +3284,7 @@ Some patients it has an amazing effect.
 
 822
 00:52:32,520 --> 00:52:37,200
-And but some patients that doesn't work at all and average across everybody,
+And but some patients that doesn't work at all and average across everybody
 
 823
 00:52:37,200 --> 00:52:38,430
@@ -3316,7 +3316,7 @@ But what is clear is that it's dose limited.
 
 830
 00:52:54,240 --> 00:52:58,770
-In how high and strongly we can stimulate and why it's because it's an electrode,
+In how high and strongly we can stimulate and why it's because it's an electrode
 
 831
 00:52:58,920 --> 00:53:00,720
@@ -3324,19 +3324,19 @@ and it's stimulating everything nearby.
 
 832
 00:53:01,470 --> 00:53:03,690
-And when you turn on the vagus nerve stimulator,
+And when you turn on the vagus nerve stimulator
 
 833
 00:53:03,690 --> 00:53:09,000
-the voice patient's voice becomes strangulated and hoarse, they can have trouble swallowing,
+the voice patient's voice becomes strangulated and hoarse, they can have trouble swallowing
 
 834
 00:53:09,030 --> 00:53:12,600
-they can have trouble speaking, for sure, even some trouble breathing,
+they can have trouble speaking, for sure, even some trouble breathing
 
 835
 00:53:12,990 --> 00:53:14,310
-because everything in the neck,
+because everything in the neck
 
 836
 00:53:14,340 --> 00:53:18,540
@@ -3352,7 +3352,7 @@ And so you can go up just so far with the intensity, and then you have to stop.
 
 839
 00:53:25,680 --> 00:53:30,630
-So, you know, to your initial question Could a more precise stimulation method,
+So, you know, to your initial question Could a more precise stimulation method
 
 840
 00:53:30,960 --> 00:53:32,940
@@ -3368,19 +3368,19 @@ to just the right kind of cell.
 
 843
 00:53:41,160 --> 00:53:44,940
-Let's say cell x that goes from point A to point B that you know,
+Let's say cell x that goes from point A to point B that you know
 
 844
 00:53:45,030 --> 00:53:48,240
-causes symptom relief of a particular kind, then you're in business,
+causes symptom relief of a particular kind, then you're in business
 
 845
 00:53:48,270 --> 00:53:51,150
-you can have that be the only cell that's light sensitive,
+you can have that be the only cell that's light sensitive
 
 846
 00:53:51,480 --> 00:53:53,460
-you're not gonna affect any of the other cells,
+you're not gonna affect any of the other cells
 
 847
 00:53:53,460 --> 00:53:57,090
@@ -3424,7 +3424,7 @@ They did that by an injection of a virus that doesn't damage the neurons.
 
 857
 00:54:27,630 --> 00:54:29,460
-The virus itself is fairly innocuous,
+The virus itself is fairly innocuous
 
 858
 00:54:30,240 --> 00:54:34,770
@@ -3436,15 +3436,15 @@ use light to stimulate.
 
 860
 00:54:36,330 --> 00:54:39,930
-So let's say I'm depressed,
+So let's say I'm depressed
 
 861
 00:54:40,230 --> 00:54:42,840
-which I don't think I am although now sitting in front of a psychiatrist,
+which I don't think I am although now sitting in front of a psychiatrist
 
 862
 00:54:42,870 --> 00:54:45,690
-you probably can see signs that maybe I am or maybe I'm not,
+you probably can see signs that maybe I am or maybe I'm not
 
 863
 00:54:46,020 --> 00:54:53,250
@@ -3484,7 +3484,7 @@ And how do you get the gene in, in a in a potent and robust and safe way.
 
 872
 00:55:16,650 --> 00:55:23,550
-And if that's now solved, and that's not a challenge, so there are very safe, well tolerated,
+And if that's now solved, and that's not a challenge, so there are very safe, well tolerated
 
 873
 00:55:24,540 --> 00:55:30,480
@@ -3492,7 +3492,7 @@ Gene delivery mechanisms that are called adeno associated viruses aavs.
 
 874
 00:55:31,140 --> 00:55:35,760
-And these are things that are associated with the common cold,
+And these are things that are associated with the common cold
 
 875
 00:55:35,760 --> 00:55:38,700
@@ -3504,15 +3504,15 @@ They've been engineered.
 
 877
 00:55:40,410 --> 00:55:44,670
-And there's been a broad community of viral engineering that's been going on for decades,
+And there's been a broad community of viral engineering that's been going on for decades
 
 878
 00:55:44,670 --> 00:55:47,790
-making these safer, well tolerated, and so on,
+making these safer, well tolerated, and so on
 
 879
 00:55:48,300 --> 00:55:54,780
-we can put the channel rhodopsin gene into these viral vectors that deliver the the gene,
+we can put the channel rhodopsin gene into these viral vectors that deliver the the gene
 
 880
 00:55:54,840 --> 00:55:56,100
@@ -3524,15 +3524,15 @@ little bits of additional DNA that govern expression only in one kind of cell bu
 
 882
 00:56:00,810 --> 00:56:02,910
-These are called promoters and enhancers,
+These are called promoters and enhancers
 
 883
 00:56:03,180 --> 00:56:08,280
-all genetic tricks built up by a very broad community of great scientists over the decades,
+all genetic tricks built up by a very broad community of great scientists over the decades
 
 884
 00:56:08,820 --> 00:56:13,590
-we can put these different bits of DNA packaged them into this AAV, this little virus,
+we can put these different bits of DNA packaged them into this AAV, this little virus
 
 885
 00:56:13,800 --> 00:56:20,040
@@ -3544,7 +3544,7 @@ And sticking with this Vegas nerve example.
 
 887
 00:56:23,190 --> 00:56:25,590
-We know that there are particular clumps of neurons,
+We know that there are particular clumps of neurons
 
 888
 00:56:25,620 --> 00:56:32,010
@@ -3552,7 +3552,7 @@ there's one called the nodos ganglion that has a clump of cells related to the v
 
 889
 00:56:32,070 --> 00:56:35,730
-And you could for example, target a little injection into that ganglion,
+And you could for example, target a little injection into that ganglion
 
 890
 00:56:35,970 --> 00:56:37,620
@@ -3568,7 +3568,7 @@ Yeah, that's right.
 
 893
 00:56:43,020 --> 00:56:48,660
-And so that's the gene, then the light delivery, this is also something that we've worked out,
+And so that's the gene, then the light delivery, this is also something that we've worked out
 
 894
 00:56:48,660 --> 00:56:51,960
@@ -3576,15 +3576,15 @@ we worked on making very, very light sensitive options.
 
 895
 00:56:52,530 --> 00:56:57,510
-One challenge and botond would be the first to state this,
+One challenge and botond would be the first to state this
 
 896
 00:56:57,510 --> 00:57:00,120
-in fact, in solving this problem for the patient,
+in fact, in solving this problem for the patient
 
 897
 00:57:00,120 --> 00:57:04,860
-he had to build goggles that created much brighter,
+he had to build goggles that created much brighter
 
 898
 00:57:04,890 --> 00:57:08,730
@@ -3592,11 +3592,11 @@ much brighter light than normal ambient lighting delivery.
 
 899
 00:57:08,760 --> 00:57:13,890
-Because, as I mentioned earlier, you have to pack a lot of these general options in,
+Because, as I mentioned earlier, you have to pack a lot of these general options in
 
 900
 00:57:13,920 --> 00:57:18,870
-they don't have much current, you have to really make sure that you've got tense enough light,
+they don't have much current, you have to really make sure that you've got tense enough light
 
 901
 00:57:19,500 --> 00:57:23,040
@@ -3604,7 +3604,7 @@ to activate enough of them to cause a stimulation, and it has to be the right wa
 
 902
 00:57:23,100 --> 00:57:28,440
-has to be the right one going back to your example of the algae moving toward or away the light,
+has to be the right one going back to your example of the algae moving toward or away the light
 
 903
 00:57:28,470 --> 00:57:30,090
@@ -3612,11 +3612,11 @@ it has to be tuned just right.
 
 904
 00:57:30,150 --> 00:57:37,500
-So could you could I'm imagining in my mind, as a non engineer, I know you're also a bio engineer, the,
+So could you could I'm imagining in my mind, as a non engineer, I know you're also a bio engineer, the
 
 905
 00:57:38,070 --> 00:57:43,800
-I'm imagining a little tiny, blue light emitting thing,
+I'm imagining a little tiny, blue light emitting thing
 
 906
 00:57:43,830 --> 00:57:49,080
@@ -3624,11 +3624,11 @@ objects that are a little bigger than a clump of cells are maybe about the size 
 
 907
 00:57:49,380 --> 00:57:50,520
-And for those who don't know,
+And for those who don't know
 
 908
 00:57:50,550 --> 00:57:51,030
-you know,
+you know
 
 909
 00:57:51,750 --> 00:57:58,770
@@ -3644,7 +3644,7 @@ That's basically half a millimeter in size, all around each edge, half a millime
 
 912
 00:58:12,390 --> 00:58:18,270
-I can imagine that being put under my skin, and then I would what I had an app on my phone and I'd say,
+I can imagine that being put under my skin, and then I would what I had an app on my phone and I'd say
 
 913
 00:58:18,570 --> 00:58:19,500
@@ -3668,11 +3668,11 @@ Is that how we go? I mean, that's effectively what we already do with the vagus 
 
 918
 00:58:29,760 --> 00:58:33,300
-The doctor in this case, and I have this in some of my patients in the clinic,
+The doctor in this case, and I have this in some of my patients in the clinic
 
 919
 00:58:33,300 --> 00:58:37,410
-I do vagus nerve stimulation, I talked to them, I say how I would go through the symptoms,
+I do vagus nerve stimulation, I talked to them, I say how I would go through the symptoms
 
 920
 00:58:37,410 --> 00:58:40,860
@@ -3688,7 +3688,7 @@ right there in real time right there.
 
 923
 00:58:46,800 --> 00:58:49,740
-And you're holding the remote control to essentially to their brain,
+And you're holding the remote control to essentially to their brain
 
 924
 00:58:49,770 --> 00:58:52,200
@@ -3700,7 +3700,7 @@ Yeah, yeah.
 
 926
 00:58:53,460 --> 00:58:58,020
-And I can I can turn up, I can turn up the frequency, I can turn up the intensity,
+And I can I can turn up, I can turn up the frequency, I can turn up the intensity
 
 927
 00:58:58,410 --> 00:59:05,190
@@ -3720,11 +3720,11 @@ Now.
 
 931
 00:59:10,110 --> 00:59:12,210
-This is happening right now electrically, you do this routinely,
+This is happening right now electrically, you do this routinely
 
 932
 00:59:12,210 --> 00:59:17,160
-I do routinely in my clinic electrically, and you're getting the verbal content,
+I do routinely in my clinic electrically, and you're getting the verbal content
 
 933
 00:59:17,160 --> 00:59:23,010
@@ -3740,11 +3740,11 @@ just describe a little bit of the interaction with that particular patient or an
 
 936
 00:59:28,320 --> 00:59:36,090
-What's a typical arc of narrative, as you go from no stimulation to increase stimulation,
+What's a typical arc of narrative, as you go from no stimulation to increase stimulation
 
 937
 00:59:36,180 --> 00:59:39,540
-in most in most patients, the actual therapeutic effects,
+in most in most patients, the actual therapeutic effects
 
 938
 00:59:39,540 --> 00:59:42,870
@@ -3752,7 +3752,7 @@ the benefits actually take many days to weeks.
 
 939
 00:59:43,050 --> 00:59:49,230
-And so what I'm mostly focusing on in the office in real time is making sure I'm in a safe,
+And so what I'm mostly focusing on in the office in real time is making sure I'm in a safe
 
 940
 00:59:49,320 --> 00:59:51,060
@@ -3760,7 +3760,7 @@ low side effect regime.
 
 941
 00:59:51,480 --> 00:59:52,830
-And so first I talk to the patient,
+And so first I talk to the patient
 
 942
 00:59:52,830 --> 00:59:58,200
@@ -3788,7 +3788,7 @@ And then we talked with the patient we decide this is this is not yet where we'd
 
 948
 01:00:12,270 --> 01:00:16,740
-And so then I can turn up the intensity of the stimulation, real time in the office,
+And so then I can turn up the intensity of the stimulation, real time in the office
 
 949
 01:00:16,740 --> 01:00:20,700
@@ -3820,7 +3820,7 @@ I'm looking at their face now.
 
 956
 01:00:35,010 --> 01:00:42,210
-And so I can get a sense is there a Mia Anna, still on the safe side effect regime and I and and then,
+And so I can get a sense is there a Mia Anna, still on the safe side effect regime and I and and then
 
 957
 01:00:42,240 --> 01:00:45,870
@@ -3828,7 +3828,7 @@ you know, I stopped at a particular point that looks safe.
 
 958
 01:00:45,900 --> 01:00:49,440
-And then patient goes home, comes back a month later,
+And then patient goes home, comes back a month later
 
 959
 01:00:49,500 --> 01:00:51,870
@@ -3836,7 +3836,7 @@ and I get the report on how things were over that month.
 
 960
 01:00:53,160 --> 01:00:55,920
-I asked if you're looking at their face, because in your book,
+I asked if you're looking at their face, because in your book
 
 961
 01:00:57,030 --> 01:01:01,290
@@ -3848,7 +3848,7 @@ And at one point, you described the incredible amount of information
 
 963
 01:01:09,120 --> 01:01:14,940
-that the eyes inform about the brain and the end the context of somebodies inner experience,
+that the eyes inform about the brain and the end the context of somebodies inner experience
 
 964
 01:01:14,940 --> 01:01:16,140
@@ -3872,7 +3872,7 @@ So as a vision scientist, I think, you know, pupils dilating is a sign of arousa
 
 969
 01:01:33,150 --> 01:01:38,070
-But that could be a positive arousal positive valence like excitement, or it could be terror,
+But that could be a positive arousal positive valence like excitement, or it could be terror
 
 970
 01:01:38,220 --> 01:01:40,380
@@ -3880,7 +3880,7 @@ you're gonna get the same dilation of the pupils.
 
 971
 01:01:42,540 --> 01:01:46,410
-And I'm always reminding people that these two little goodies are two pieces of brain basically,
+And I'm always reminding people that these two little goodies are two pieces of brain basically
 
 972
 01:01:46,410 --> 01:01:47,910
@@ -3888,7 +3888,7 @@ they're just outside the cranial vault.
 
 973
 01:01:47,940 --> 01:01:52,320
-So they're not unlike the Vegas in that sense, but they're more of a report than a control knob,
+So they're not unlike the Vegas in that sense, but they're more of a report than a control knob
 
 974
 01:01:52,320 --> 01:01:55,710
@@ -3896,7 +3896,7 @@ although I like to think they could be used as control knobs to.
 
 975
 01:01:57,030 --> 01:02:00,960
-So without putting you on the spot, again, to diagnose me,
+So without putting you on the spot, again, to diagnose me
 
 976
 01:02:01,200 --> 01:02:04,380
@@ -3916,7 +3916,7 @@ And if you know a patient or if you don't, can you see it in their body posture 
 
 980
 01:02:19,980 --> 01:02:23,160
-Realizing Of course, that a trained psychiatrist like yourself,
+Realizing Of course, that a trained psychiatrist like yourself
 
 981
 01:02:23,580 --> 01:02:28,500
@@ -3936,7 +3936,7 @@ Yeah, the eyes are incredibly rich in information.
 
 985
 01:02:34,620 --> 01:02:37,560
-And as, as you allude to, though,
+And as, as you allude to, though
 
 986
 01:02:37,590 --> 01:02:42,450
@@ -3944,11 +3944,11 @@ it's not as if any one measurable conveys all the information you need.
 
 987
 01:02:42,450 --> 01:02:46,680
-It's what we, you know, what an engineer would say joint statistics, it's, it's,
+It's what we, you know, what an engineer would say joint statistics, it's, it's
 
 988
 01:02:46,710 --> 01:02:51,690
-it's many things all at once, whether they're in synchrony, or out of synchrony,
+it's many things all at once, whether they're in synchrony, or out of synchrony
 
 989
 01:02:51,720 --> 01:02:53,850
@@ -3956,11 +3956,11 @@ that that actually turns out to matter.
 
 990
 01:02:54,690 --> 01:03:00,150
-And, you know, the eye contact question, we all know, eye contact is incredibly important,
+And, you know, the eye contact question, we all know, eye contact is incredibly important
 
 991
 01:03:00,150 --> 01:03:04,320
-you don't feel you've connected with somebody unless you unless there's eye contact,
+you don't feel you've connected with somebody unless you unless there's eye contact
 
 992
 01:03:04,320 --> 01:03:06,300
@@ -3984,7 +3984,7 @@ almost as if it's a harmful quantity.
 
 997
 01:03:32,040 --> 01:03:36,210
-And so, there's an immense amount of information you can't you get from the eyes,
+And so, there's an immense amount of information you can't you get from the eyes
 
 998
 01:03:36,420 --> 01:03:38,460
@@ -3992,7 +3992,7 @@ but it's it's the pairing of
 
 999
 01:03:39,420 --> 01:03:43,200
-what's going on in the eyes with everything else going on the body language,
+what's going on in the eyes with everything else going on the body language
 
 1000
 01:03:43,200 --> 01:03:46,170
@@ -4012,7 +4012,7 @@ And this is an amazing thing.
 
 1004
 01:03:56,310 --> 01:04:00,540
-And I do talk about this in the book as well, in many cases, you know, in psychiatry,
+And I do talk about this in the book as well, in many cases, you know, in psychiatry
 
 1005
 01:04:00,540 --> 01:04:04,020
@@ -4020,15 +4020,15 @@ sometimes it's over the phone that you have to make key decisions.
 
 1006
 01:04:04,110 --> 01:04:09,810
-And as a recall, you know, vividly being as a resident,
+And as a recall, you know, vividly being as a resident
 
 1007
 01:04:10,020 --> 01:04:17,010
-very often you have to take these phone calls from people who are not in the hospital,
+very often you have to take these phone calls from people who are not in the hospital
 
 1008
 01:04:17,040 --> 01:04:21,210
-people you can't see, can't see their eye can't see their body, anything about them,
+people you can't see, can't see their eye can't see their body, anything about them
 
 1009
 01:04:21,630 --> 01:04:23,190
@@ -4036,7 +4036,7 @@ just the sound of their voice.
 
 1010
 01:04:23,190 --> 01:04:28,350
-And you can ask them questions, and you have to make, in some cases, life or death decisions,
+And you can ask them questions, and you have to make, in some cases, life or death decisions
 
 1011
 01:04:28,350 --> 01:04:33,750
@@ -4048,7 +4048,7 @@ And so I developed over the course of training.
 
 1013
 01:04:39,240 --> 01:04:45,000
-And I think, oh, all psychiatrists do this as you develop a way to whatever data stream you have,
+And I think, oh, all psychiatrists do this as you develop a way to whatever data stream you have
 
 1014
 01:04:45,000 --> 01:04:48,840
@@ -4064,7 +4064,7 @@ it's quite amazing.
 
 1017
 01:04:58,500 --> 01:05:02,550
-I found that you And actually, if you know a patient,
+I found that you And actually, if you know a patient
 
 1018
 01:05:03,330 --> 01:05:09,390
@@ -4072,7 +4072,7 @@ you can detect very precise changes in mood just from the sound of the voice and
 
 1019
 01:05:10,200 --> 01:05:13,350
-realization that oh, this patient's depression has improved,
+realization that oh, this patient's depression has improved
 
 1020
 01:05:14,130 --> 01:05:18,600
@@ -4080,7 +4080,7 @@ you know by by about half just by the tone of their of their voice.
 
 1021
 01:05:18,630 --> 01:05:21,420
-And same with eyes you can with enough practice,
+And same with eyes you can with enough practice
 
 1022
 01:05:21,420 --> 01:05:25,860
@@ -4092,7 +4092,7 @@ But when you do have the whole picture that of course is best.
 
 1024
 01:05:29,850 --> 01:05:35,850
-So, so many theories out there about excessive blinking and lying,
+So, so many theories out there about excessive blinking and lying
 
 1025
 01:05:35,910 --> 01:05:37,980
@@ -4100,7 +4100,7 @@ lack of blinking and sociopathy.
 
 1026
 01:05:38,970 --> 01:05:43,620
-I like to remind people that people have varying degrees of lubrication of the eyes,
+I like to remind people that people have varying degrees of lubrication of the eyes
 
 1027
 01:05:43,620 --> 01:05:47,610
@@ -4112,7 +4112,7 @@ whether or not what they're saying is true or not.
 
 1029
 01:05:50,790 --> 01:05:56,520
-But it's incredible nonetheless, that it's that the eyes are a portal to overall arousal state,
+But it's incredible nonetheless, that it's that the eyes are a portal to overall arousal state
 
 1030
 01:05:56,550 --> 01:05:59,850
@@ -4124,7 +4124,7 @@ desire to be awake or asleep, etc.
 
 1032
 01:06:04,110 --> 01:06:09,990
-So the eyes are on the outside of the cranial vault, the Vegas is outside the cranial vault,
+So the eyes are on the outside of the cranial vault, the Vegas is outside the cranial vault
 
 1033
 01:06:09,990 --> 01:06:10,710
@@ -4160,11 +4160,11 @@ a when active make animals and presumably people passive and
 
 1041
 01:06:37,950 --> 01:06:43,410
-willing or uninterested in fighting back against pressures of life, whereas another region,
+willing or uninterested in fighting back against pressures of life, whereas another region
 
 1042
 01:06:44,250 --> 01:06:49,560
-the RAF a, you stimulate that, and then they actively cope, they, they get their grip going,
+the RAF a, you stimulate that, and then they actively cope, they, they get their grip going
 
 1043
 01:06:49,560 --> 01:06:51,330
@@ -4196,15 +4196,15 @@ is really only useful if you have some idea of how to use that specificity.
 
 1050
 01:07:20,460 --> 01:07:25,770
-And it's an actually, it's a frustrating aspect of psychiatry that in many cases,
+And it's an actually, it's a frustrating aspect of psychiatry that in many cases
 
 1051
 01:07:26,310 --> 01:07:30,660
-the most effective treatments we have have the least specificity,
+the most effective treatments we have have the least specificity
 
 1052
 01:07:30,930 --> 01:07:34,800
-electroconvulsive therapy being a great example, where you're causing a brain wide,
+electroconvulsive therapy being a great example, where you're causing a brain wide
 
 1053
 01:07:34,860 --> 01:07:37,650
@@ -4244,11 +4244,11 @@ How could you be less specific than that?
 
 1062
 01:08:06,210 --> 01:08:08,940
-And we don't know that the the source of the relief,
+And we don't know that the the source of the relief
 
 1063
 01:08:08,970 --> 01:08:12,570
-we don't know it's a dump of neuromodulators like dopamine and serotonin,
+we don't know it's a dump of neuromodulators like dopamine and serotonin
 
 1064
 01:08:12,570 --> 01:08:14,910
@@ -4264,7 +4264,7 @@ And likewise, with medications, this is an also an interesting thing.
 
 1067
 01:08:22,710 --> 01:08:26,130
-So for some of the most effective antidepressants,
+So for some of the most effective antidepressants
 
 1068
 01:08:26,160 --> 01:08:30,720
@@ -4276,7 +4276,7 @@ And many examples of this.
 
 1070
 01:08:32,460 --> 01:08:36,510
-For example, the most effective anti psychotic is something called closet teen,
+For example, the most effective anti psychotic is something called closet teen
 
 1071
 01:08:36,990 --> 01:08:39,690
@@ -4300,7 +4300,7 @@ It acts interesting.
 
 1076
 01:08:46,500 --> 01:08:52,770
-Yeah, it has prominent serotonin, prominent muscarinic certainly acts on dopamine receptors,
+Yeah, it has prominent serotonin, prominent muscarinic certainly acts on dopamine receptors
 
 1077
 01:08:52,800 --> 01:08:59,220
@@ -4308,7 +4308,7 @@ but it causes, you know, blood blood cell counts, how do people feel?
 
 1078
 01:08:59,340 --> 01:09:04,950
-So if I'm, if I were schizophrenic, and I was getting auditory hallucinations, etc,
+So if I'm, if I were schizophrenic, and I was getting auditory hallucinations, etc
 
 1079
 01:09:05,220 --> 01:09:06,420
@@ -4324,7 +4324,7 @@ Well, so you would notice
 
 1082
 01:09:12,840 --> 01:09:17,730
-side effects and you would notice resolution of symptoms both and so the voices would go away,
+side effects and you would notice resolution of symptoms both and so the voices would go away
 
 1083
 01:09:17,730 --> 01:09:21,090
@@ -4336,7 +4336,7 @@ That's right.
 
 1085
 01:09:21,390 --> 01:09:26,250
-But I would feel not good in my body, you would have you might have dizziness,
+But I would feel not good in my body, you would have you might have dizziness
 
 1086
 01:09:26,250 --> 01:09:31,470
@@ -4344,7 +4344,7 @@ you might have drooling, you might have any number of
 
 1087
 01:09:33,810 --> 01:09:38,190
-physical sensations that that would be due to these off target effects,
+physical sensations that that would be due to these off target effects
 
 1088
 01:09:38,190 --> 01:09:40,440
@@ -4364,7 +4364,7 @@ They had the same side effects, presumably.
 
 1092
 01:09:47,309 --> 01:09:50,519
-And so it would not be something that that I would recommend,
+And so it would not be something that that I would recommend
 
 1093
 01:09:50,879 --> 01:09:55,470
@@ -4372,15 +4372,15 @@ do psychiatrists take the drugs that they prescribe, I just finished up for the 
 
 1094
 01:09:55,740 --> 01:10:01,470
-Oliver Sacks his autobiography which is marvelous and and I highly recommend to people,
+Oliver Sacks his autobiography which is marvelous and and I highly recommend to people
 
 1095
 01:10:02,070 --> 01:10:10,050
-he certainly took a lot of drugs, not as part of his professional role, but just out of curiosity,
+he certainly took a lot of drugs, not as part of his professional role, but just out of curiosity
 
 1096
 01:10:10,050 --> 01:10:14,970
-what is the interest or kind of role of, of drugs in the field of psychiatry,
+what is the interest or kind of role of, of drugs in the field of psychiatry
 
 1097
 01:10:14,970 --> 01:10:18,870
@@ -4388,7 +4388,7 @@ because for I would imagine for a group of very curious introspective people
 
 1098
 01:10:19,140 --> 01:10:21,330
-who are making recommendations about what to take,
+who are making recommendations about what to take
 
 1099
 01:10:21,570 --> 01:10:24,570
@@ -4408,7 +4408,7 @@ And I will say that probably many or most psychiatrists have
 
 1103
 01:10:34,050 --> 01:10:37,260
-sampled a number of these for exactly the reason that you're saying is,
+sampled a number of these for exactly the reason that you're saying is
 
 1104
 01:10:37,260 --> 01:10:40,080
@@ -4416,7 +4416,7 @@ is to understand better and to help treat their patients better.
 
 1105
 01:10:40,080 --> 01:10:47,010
-And I've I spoken to people who have, you know, really been, I found this very helpful to know,
+And I've I spoken to people who have, you know, really been, I found this very helpful to know
 
 1106
 01:10:47,010 --> 01:10:50,310
@@ -4432,11 +4432,11 @@ Wow, that is, that is a big effect.
 
 1109
 01:10:55,080 --> 01:10:59,850
-And it really helps with empathy for the for the patients to understand I'm not,
+And it really helps with empathy for the for the patients to understand I'm not
 
 1110
 01:11:00,030 --> 01:11:06,000
-I'm not suggesting that physicians or anybody, experiment with drugs, but I,
+I'm not suggesting that physicians or anybody, experiment with drugs, but I
 
 1111
 01:11:06,180 --> 01:11:09,060
@@ -4444,15 +4444,15 @@ but I am relieved to hear that because I think that when you're talking about
 
 1112
 01:11:09,630 --> 01:11:14,280
-accessing somebody's mind, and their basic physiology, as you mentioned, relate to appetite,
+accessing somebody's mind, and their basic physiology, as you mentioned, relate to appetite
 
 1113
 01:11:14,280 --> 01:11:16,770
-libido and sleep, you're really, you're really,
+libido and sleep, you're really, you're really
 
 1114
 01:11:17,160 --> 01:11:21,750
-one is acting as a mechanic of their the person's whole experience, they walk out of the office,
+one is acting as a mechanic of their the person's whole experience, they walk out of the office
 
 1115
 01:11:21,750 --> 01:11:25,800
@@ -4464,11 +4464,11 @@ Yeah.
 
 1117
 01:11:27,030 --> 01:11:30,240
-And so and yeah, and so that so at the same time, though,
+And so and yeah, and so that so at the same time, though
 
 1118
 01:11:30,330 --> 01:11:33,900
-you can't let that completely guide your clinical decisions, because as I mentioned,
+you can't let that completely guide your clinical decisions, because as I mentioned
 
 1119
 01:11:33,900 --> 01:11:37,830
@@ -4480,15 +4480,15 @@ And cause pain is a great example that will work in patients where nothing else 
 
 1121
 01:11:42,450 --> 01:11:46,710
-And believe me, we don't take the step of closet team prescription lightly,
+And believe me, we don't take the step of closet team prescription lightly
 
 1122
 01:11:46,710 --> 01:11:50,340
-because of all these these side effects, you have to come in for a weekly blood cell,
+because of all these these side effects, you have to come in for a weekly blood cell
 
 1123
 01:11:50,670 --> 01:11:55,800
-or every few weeks of blood cell check to make sure that the blood counts are not off, for example,
+or every few weeks of blood cell check to make sure that the blood counts are not off, for example
 
 1124
 01:11:55,800 --> 01:11:59,880
@@ -4516,15 +4516,15 @@ And so because as we become more refined, we better be right about where we're r
 
 1130
 01:12:19,200 --> 01:12:21,810
-And you imagine a day where it will be a single,
+And you imagine a day where it will be a single
 
 1131
 01:12:22,530 --> 01:12:26,310
-maybe even outpatient neurosurgery would go in through the scholar, the back of the year,
+maybe even outpatient neurosurgery would go in through the scholar, the back of the year
 
 1132
 01:12:26,370 --> 01:12:29,400
-deliver a small viral injection of one of these adenoviruses,
+deliver a small viral injection of one of these adenoviruses
 
 1133
 01:12:29,550 --> 01:12:36,150
@@ -4536,7 +4536,7 @@ That certainly could happen?
 
 1135
 01:12:37,710 --> 01:12:46,470
-What I what I actually prefer, as a vision is, is still medications, because those are,
+What I what I actually prefer, as a vision is, is still medications, because those are
 
 1136
 01:12:46,680 --> 01:12:48,150
@@ -4556,19 +4556,19 @@ And so we'll know.
 
 1140
 01:12:59,940 --> 01:13:04,380
-And we're already moving rapidly toward this point, well, no, okay, this symptom,
+And we're already moving rapidly toward this point, well, no, okay, this symptom
 
 1141
 01:13:05,430 --> 01:13:11,040
-the loss of pleasure in life that we call anhedonia, or the loss of motivation or,
+the loss of pleasure in life that we call anhedonia, or the loss of motivation or
 
 1142
 01:13:11,100 --> 01:13:18,510
-or energy to overcome challenges active coping, these are largely subserved,
+or energy to overcome challenges active coping, these are largely subserved
 
 1143
 01:13:18,540 --> 01:13:20,850
-largely controlled by this circuit,
+largely controlled by this circuit
 
 1144
 01:13:20,880 --> 01:13:23,970
@@ -4576,7 +4576,7 @@ or that circuit or the cell that's inhabits this other circuit.
 
 1145
 01:13:24,180 --> 01:13:28,140
-And we will know that because of the work done with channel Ops, exactly, yeah,
+And we will know that because of the work done with channel Ops, exactly, yeah
 
 1146
 01:13:28,140 --> 01:13:31,950
@@ -4612,7 +4612,7 @@ What are the little
 
 1154
 01:13:52,860 --> 01:13:57,240
-things that on the surface of the cell that could be receptors for specific medications,
+things that on the surface of the cell that could be receptors for specific medications
 
 1155
 01:13:57,570 --> 01:14:02,130
@@ -4620,11 +4620,11 @@ or combinations of receptors that would give us the specificity we need.
 
 1156
 01:14:02,820 --> 01:14:07,380
-And then armed with that causal and precise and rigorous knowledge,
+And then armed with that causal and precise and rigorous knowledge
 
 1157
 01:14:07,380 --> 01:14:11,070
-then you can imagine medication development becoming totally different,
+then you can imagine medication development becoming totally different
 
 1158
 01:14:11,070 --> 01:14:15,090
@@ -4640,7 +4640,7 @@ So using
 
 1161
 01:14:16,950 --> 01:14:22,170
-channel options as a way to probe the circuitry and figure out the sites that are disrupted,
+channel options as a way to probe the circuitry and figure out the sites that are disrupted
 
 1162
 01:14:22,920 --> 01:14:24,840
@@ -4648,11 +4648,11 @@ what patterns of activity are required.
 
 1163
 01:14:24,870 --> 01:14:28,380
-And then by understanding the constituents of those cells,
+And then by understanding the constituents of those cells
 
 1164
 01:14:28,380 --> 01:14:32,640
-like what they express and what they make, then developing drugs that could target those cells,
+like what they express and what they make, then developing drugs that could target those cells
 
 1165
 01:14:32,790 --> 01:14:36,180
@@ -4692,7 +4692,7 @@ targets a specific set of cells that we know are important.
 
 1174
 01:15:08,790 --> 01:15:11,190
-Because of the work done with channel options,
+Because of the work done with channel options
 
 1175
 01:15:11,910 --> 01:15:18,960
@@ -4708,7 +4708,7 @@ Yep.
 
 1178
 01:15:22,260 --> 01:15:28,230
-And, and more broadly, in terms of new new drugs, new, multicenter,
+And, and more broadly, in terms of new new drugs, new, multicenter
 
 1179
 01:15:28,260 --> 01:15:32,100
@@ -4720,11 +4720,11 @@ And these could be drugs that are already safe and approved for other purposes.
 
 1181
 01:15:39,300 --> 01:15:45,930
-But we might say, Okay, now we know that this medication based on what we know,
+But we might say, Okay, now we know that this medication based on what we know
 
 1182
 01:15:45,930 --> 01:15:50,520
-from causal optogenetics, this could be useful for this other purpose,
+from causal optogenetics, this could be useful for this other purpose
 
 1183
 01:15:50,520 --> 01:15:51,900
@@ -4740,15 +4740,15 @@ That's very exciting.
 
 1186
 01:16:00,660 --> 01:16:06,720
-What are your thoughts about brain machine interface and neural link always comes up,
+What are your thoughts about brain machine interface and neural link always comes up
 
 1187
 01:16:06,720 --> 01:16:10,740
-although I do want to point out at tremendous respect for the folks at neural link,
+although I do want to point out at tremendous respect for the folks at neural link
 
 1188
 01:16:10,740 --> 01:16:13,710
-including someone who came up through my lab is now there is a neurosurgeon,
+including someone who came up through my lab is now there is a neurosurgeon
 
 1189
 01:16:13,710 --> 01:16:18,810
@@ -4760,15 +4760,15 @@ Now, some of the
 
 1191
 01:16:20,070 --> 01:16:24,600
-some of the best work among the best work being done here at Stanford and elsewhere to of course,
+some of the best work among the best work being done here at Stanford and elsewhere to of course
 
 1192
 01:16:25,320 --> 01:16:29,760
-I was the what you just described compatible with or different than brain machine interface,
+I was the what you just described compatible with or different than brain machine interface
 
 1193
 01:16:29,760 --> 01:16:30,810
-meaning devices,
+meaning devices
 
 1194
 01:16:31,170 --> 01:16:35,130
@@ -4792,7 +4792,7 @@ electrodes collecting information from 10s of 1000s of neurons.
 
 1199
 01:16:54,480 --> 01:16:57,240
-In humans, I should add, and even Yes,
+In humans, I should add, and even Yes
 
 1200
 01:16:57,240 --> 01:17:01,260
@@ -4808,7 +4808,7 @@ And this is pretty powerful, it's important, this will let us
 
 1203
 01:17:11,850 --> 01:17:18,090
-understand what's going on in the brain in in psychiatric disease and neurological disease,
+understand what's going on in the brain in in psychiatric disease and neurological disease
 
 1204
 01:17:18,090 --> 01:17:19,980
@@ -4820,7 +4820,7 @@ It is, of course, it's still invasive, you still are talking about putting a dev
 
 1206
 01:17:30,060 --> 01:17:36,780
-And that it has to be treated as a as a situation that has some risks,
+And that it has to be treated as a as a situation that has some risks
 
 1207
 01:17:36,780 --> 01:17:39,270
@@ -4832,7 +4832,7 @@ I see that as something that will be part of psychiatry, in the long run.
 
 1209
 01:17:47,940 --> 01:17:51,030
-Already, with deep brain stimulation approaches,
+Already, with deep brain stimulation approaches
 
 1210
 01:17:51,030 --> 01:17:54,000
@@ -4840,15 +4840,15 @@ we can help us people with psychiatric disorders.
 
 1211
 01:17:54,630 --> 01:17:58,140
-And that's putting just a single electrode, not even a complex,
+And that's putting just a single electrode, not even a complex
 
 1212
 01:17:58,170 --> 01:18:02,790
-you know, closed loop system where you're both playing in and getting information back,
+you know, closed loop system where you're both playing in and getting information back
 
 1213
 01:18:02,820 --> 01:18:08,910
-even just a single stimulation electrode in the brain can help people with OCD, for example,
+even just a single stimulation electrode in the brain can help people with OCD, for example
 
 1214
 01:18:08,970 --> 01:18:09,960
@@ -4856,31 +4856,31 @@ quite powerfully.
 
 1215
 01:18:10,920 --> 01:18:14,820
-And that will become much more powerful when we get to a true brain machine interface,
+And that will become much more powerful when we get to a true brain machine interface
 
 1216
 01:18:14,940 --> 01:18:18,900
-collecting information back stimulating only when you need to,
+collecting information back stimulating only when you need to
 
 1217
 01:18:18,930 --> 01:18:25,650
-if we could identify a pathological activity pattern, a particular almost like the the prodrome,
+if we could identify a pathological activity pattern, a particular almost like the the prodrome
 
 1218
 01:18:25,650 --> 01:18:29,820
-or the early stage of a seizure, and maybe there are events that happened leading up to,
+or the early stage of a seizure, and maybe there are events that happened leading up to
 
 1219
 01:18:30,300 --> 01:18:34,560
-on some timescale, a psychiatric symptom,
+on some timescale, a psychiatric symptom
 
 1220
 01:18:34,590 --> 01:18:39,990
-we could intervene in a closed loop way to detect what's happening, what's starting to go wrong,
+we could intervene in a closed loop way to detect what's happening, what's starting to go wrong
 
 1221
 01:18:40,200 --> 01:18:42,960
-feed that back to the brain stimulation electrode,
+feed that back to the brain stimulation electrode
 
 1222
 01:18:43,230 --> 01:18:46,470
@@ -4892,7 +4892,7 @@ This is, is I think, it's great.
 
 1224
 01:18:50,340 --> 01:18:54,420
-It's, it's something that, of course, will be grounded again, in causal understanding,
+It's, it's something that, of course, will be grounded again, in causal understanding
 
 1225
 01:18:54,420 --> 01:18:57,540
@@ -4904,11 +4904,11 @@ And we need to know that it matters.
 
 1227
 01:18:59,220 --> 01:19:02,730
-And so again, that's where optogenetics is helping us and helping us know, okay, this,
+And so again, that's where optogenetics is helping us and helping us know, okay, this
 
 1228
 01:19:03,210 --> 01:19:05,640
-this pattern of activity in these cells in these circuits,
+this pattern of activity in these cells in these circuits
 
 1229
 01:19:05,640 --> 01:19:10,980
@@ -4920,7 +4920,7 @@ But armed with that knowledge, absolutely.
 
 1231
 01:19:14,220 --> 01:19:16,530
-Even the even a simple closed loop device,
+Even the even a simple closed loop device
 
 1232
 01:19:16,530 --> 01:19:19,290
@@ -4928,7 +4928,7 @@ detect and stimulate is going to be part of psychiatry in the future.
 
 1233
 01:19:19,290 --> 01:19:23,550
-And then and then, of course, as you get to more cells, more connections,
+And then and then, of course, as you get to more cells, more connections
 
 1234
 01:19:24,000 --> 01:19:26,880
@@ -4948,7 +4948,7 @@ distracted and challenged in funneling their attention and their behavior.
 
 1238
 01:19:47,100 --> 01:19:50,820
-But there are a number of reasons for that, of course,
+But there are a number of reasons for that, of course
 
 1239
 01:19:51,180 --> 01:20:00,390
@@ -4972,11 +4972,11 @@ suffers from ADHD?
 
 1244
 01:20:12,540 --> 01:20:16,770
-This is a pretty interesting branch of psychiatry,
+This is a pretty interesting branch of psychiatry
 
 1245
 01:20:16,770 --> 01:20:19,950
-there's no question that people have been helped by the the treatments,
+there's no question that people have been helped by the the treatments
 
 1246
 01:20:20,580 --> 01:20:23,250
@@ -4996,7 +4996,7 @@ That's right.
 
 1250
 01:20:34,620 --> 01:20:38,700
-So ADHD, it's as its name suggests, it has symptoms,
+So ADHD, it's as its name suggests, it has symptoms
 
 1251
 01:20:39,330 --> 01:20:43,620
@@ -5004,11 +5004,11 @@ it can have either a hyperactive state or an inattentive state.
 
 1252
 01:20:44,370 --> 01:20:48,060
-And those can be completely separate from each other,
+And those can be completely separate from each other
 
 1253
 01:20:48,060 --> 01:20:53,100
-you could have a patient who effectively is not hyperactive at all,
+you could have a patient who effectively is not hyperactive at all
 
 1254
 01:20:53,100 --> 01:20:57,060
@@ -5020,15 +5020,15 @@ So their body can still but their their mind is darting around.
 
 1256
 01:21:00,570 --> 01:21:03,510
-That's right, or they can be very hyperactive with their body,
+That's right, or they can be very hyperactive with their body
 
 1257
 01:21:03,600 --> 01:21:07,110
-it hasn't spoke probably rarely is somebody hyperactive with their body, but their mind is still,
+it hasn't spoke probably rarely is somebody hyperactive with their body, but their mind is still
 
 1258
 01:21:07,200 --> 01:21:11,550
-although I have to say and this is a benevolent shout out to Bhutan, Raska botond,
+although I have to say and this is a benevolent shout out to Bhutan, Raska botond
 
 1259
 01:21:11,550 --> 01:21:14,640
@@ -5084,7 +5084,7 @@ How do you go about that?
 
 1272
 01:21:50,010 --> 01:21:52,500
-I said, much like this,
+I said, much like this
 
 1273
 01:21:52,530 --> 01:22:01,560
@@ -5096,7 +5096,7 @@ But But without distraction and thinking.
 
 1275
 01:22:04,170 --> 01:22:10,410
-And so it's kind of a it's almost meditative in some ways, except it's not true meditation,
+And so it's kind of a it's almost meditative in some ways, except it's not true meditation
 
 1276
 01:22:10,410 --> 01:22:13,560
@@ -5128,7 +5128,7 @@ So but everybody, as you say, is very different.
 
 1283
 01:22:21,000 --> 01:22:22,350
-And so with with ADHD,
+And so with with ADHD
 
 1284
 01:22:22,350 --> 01:22:28,020
@@ -5136,11 +5136,11 @@ you have the key thing is we want to make sure that this is present across diffe
 
 1285
 01:22:28,200 --> 01:22:30,180
-life, school and home,
+life, school and home
 
 1286
 01:22:30,480 --> 01:22:34,650
-to show that it really is a pervasive pattern and not something specific to Oh,
+to show that it really is a pervasive pattern and not something specific to Oh
 
 1287
 01:22:34,680 --> 01:22:37,200
@@ -5188,7 +5188,7 @@ You have to have the right recording apparatus and so on.
 
 1298
 01:23:07,590 --> 01:23:11,070
-But, but but that's in principle,
+But, but but that's in principle
 
 1299
 01:23:11,400 --> 01:23:15,390
@@ -5212,11 +5212,11 @@ Do you think that some of the lifestyle factors that
 
 1304
 01:23:32,460 --> 01:23:37,530
-inhabit us all these days could induce a subclinical or a clinical like,
+inhabit us all these days could induce a subclinical or a clinical like
 
 1305
 01:23:38,580 --> 01:23:41,790
-ADHD meaning if I look at people's phone use,
+ADHD meaning if I look at people's phone use
 
 1306
 01:23:41,790 --> 01:23:47,100
@@ -5248,7 +5248,7 @@ But I will confess
 
 1313
 01:24:09,600 --> 01:24:14,820
-that I've had the experience of I always liked sports where I involve a lot of impact, fortunately,
+that I've had the experience of I always liked sports where I involve a lot of impact, fortunately
 
 1314
 01:24:14,820 --> 01:24:18,270
@@ -5264,7 +5264,7 @@ But things like skateboarding, boxing, they bring relief.
 
 1317
 01:24:24,570 --> 01:24:27,570
-I feel clarity, laughter a head hit which I avoid,
+I feel clarity, laughter a head hit which I avoid
 
 1318
 01:24:27,840 --> 01:24:31,320
@@ -5288,7 +5288,7 @@ And these days with the phone and and all these emails, etc.
 
 1323
 01:24:49,050 --> 01:24:53,610
-I wonder and I empathize a bit when I hear people saying like,
+I wonder and I empathize a bit when I hear people saying like
 
 1324
 01:24:54,570 --> 01:24:59,160
@@ -5296,7 +5296,7 @@ I think I might have ADHD or a DD Do you think it's possible that
 
 1325
 01:24:59,310 --> 01:25:02,280
-our behavior And our interaction with the sensory world,
+our behavior And our interaction with the sensory world
 
 1326
 01:25:02,580 --> 01:25:04,530
@@ -5316,7 +5316,7 @@ I think about it a lot.
 
 1330
 01:25:11,669 --> 01:25:16,589
-There's, you know, and you mentioned this this tick like behavior and yourself,
+There's, you know, and you mentioned this this tick like behavior and yourself
 
 1331
 01:25:16,589 --> 01:25:18,929
@@ -5324,7 +5324,7 @@ it's very common that people who have
 
 1332
 01:25:18,989 --> 01:25:23,369
-tics have this building up of something that can only be relieved by executing the tick,
+tics have this building up of something that can only be relieved by executing the tick
 
 1333
 01:25:23,369 --> 01:25:27,779
@@ -5336,7 +5336,7 @@ And, and people do, I think these days do have this, if they haven't checked the
 
 1335
 01:25:33,899 --> 01:25:36,719
-And while they do have a build up and build up a build up until they can,
+And while they do have a build up and build up a build up until they can
 
 1336
 01:25:36,749 --> 01:25:37,859
@@ -5344,7 +5344,7 @@ they can check it and relieve it.
 
 1337
 01:25:38,609 --> 01:25:40,799
-And there's some similarities,
+And there's some similarities
 
 1338
 01:25:40,799 --> 01:25:44,729
@@ -5356,7 +5356,7 @@ But the key question in all of psychiatry, what we do is we don't diagnose somet
 
 1340
 01:25:52,439 --> 01:25:56,249
-it's disrupting what we call social or occupational functioning,
+it's disrupting what we call social or occupational functioning
 
 1341
 01:25:56,309 --> 01:25:59,189
@@ -5372,11 +5372,11 @@ someone's social or occupational functioning.
 
 1344
 01:26:08,399 --> 01:26:11,039
-And these days, you know, checking your phone is pretty adaptive,
+And these days, you know, checking your phone is pretty adaptive
 
 1345
 01:26:11,069 --> 01:26:14,909
-that pretty much helps your social and occupational functioning, and so we can't,
+that pretty much helps your social and occupational functioning, and so we can't
 
 1346
 01:26:15,719 --> 01:26:18,779
@@ -5388,11 +5388,11 @@ Interesting, at least in the world of today.
 
 1348
 01:26:21,960 --> 01:26:27,840
-Yeah, opting out of communication now makes it makes you in some ways, less adaptive, though,
+Yeah, opting out of communication now makes it makes you in some ways, less adaptive, though
 
 1349
 01:26:27,900 --> 01:26:34,500
-I would point to you as an example of somebody who is quite good at managing his interactions,
+I would point to you as an example of somebody who is quite good at managing his interactions
 
 1350
 01:26:34,500 --> 01:26:39,360
@@ -5400,7 +5400,7 @@ at least from from the outsider perspective, I do want to ask you a little bit a
 
 1351
 01:26:39,510 --> 01:26:47,610
-And first of all, and I realize this is only a partial list, but your clinician, you see patients,
+And first of all, and I realize this is only a partial list, but your clinician, you see patients
 
 1352
 01:26:48,060 --> 01:26:50,490
@@ -5448,7 +5448,7 @@ And but I go back to sleep.
 
 1363
 01:27:30,030 --> 01:27:35,850
-So maybe you just describe the arc of the blocks of the day, not hour by hour,
+So maybe you just describe the arc of the blocks of the day, not hour by hour
 
 1364
 01:27:35,940 --> 01:27:38,250
@@ -5464,7 +5464,7 @@ How do you conceptualize the weak?
 
 1367
 01:27:43,530 --> 01:27:48,390
-And how do you feel about how that's lined up with your,
+And how do you feel about how that's lined up with your
 
 1368
 01:27:48,420 --> 01:27:53,850
@@ -5508,11 +5508,11 @@ That's right.
 
 1378
 01:28:16,770 --> 01:28:22,680
-And what I, I try to have in each day, as I mentioned earlier,
+And what I, I try to have in each day, as I mentioned earlier
 
 1379
 01:28:22,680 --> 01:28:29,550
-some at least an hour of time where I can think and that can be it can be when kids are napping,
+some at least an hour of time where I can think and that can be it can be when kids are napping
 
 1380
 01:28:29,550 --> 01:28:36,240
@@ -5556,7 +5556,7 @@ That means no phone, no checking of the phone.
 
 1390
 01:29:23,580 --> 01:29:32,310
-I would you know, when I was writing the book, I would I would have there's a focus mode on the MacBook,
+I would you know, when I was writing the book, I would I would have there's a focus mode on the MacBook
 
 1391
 01:29:32,310 --> 01:29:34,020
@@ -5576,7 +5576,7 @@ I'm a big believer in
 
 1395
 01:29:45,450 --> 01:29:49,740
-because the vision and the eyes plays such a prominent role in directing our cognition,
+because the vision and the eyes plays such a prominent role in directing our cognition
 
 1396
 01:29:49,740 --> 01:29:54,810
@@ -5588,7 +5588,7 @@ using visual tools to harness one's Complete mental attention.
 
 1398
 01:30:01,800 --> 01:30:06,420
-When you do this practice of sitting and just thinking sitting still and thinking, you said,
+When you do this practice of sitting and just thinking sitting still and thinking, you said
 
 1399
 01:30:06,420 --> 01:30:07,530
@@ -5596,7 +5596,7 @@ Your eyes are open?
 
 1400
 01:30:08,550 --> 01:30:12,810
-Are you hearing your own verbal voice, although in your head,
+Are you hearing your own verbal voice, although in your head
 
 1401
 01:30:12,990 --> 01:30:15,330
@@ -5608,7 +5608,7 @@ Yes.
 
 1403
 01:30:15,690 --> 01:30:19,860
-And hearing literally, I mean, not quite literal, I don't actually hear a foundation,
+And hearing literally, I mean, not quite literal, I don't actually hear a foundation
 
 1404
 01:30:19,860 --> 01:30:21,480
@@ -5616,11 +5616,11 @@ but I am hearing words.
 
 1405
 01:30:22,140 --> 01:30:27,030
-And so it's, um, I discovered this about myself, other people, I think,
+And so it's, um, I discovered this about myself, other people, I think
 
 1406
 01:30:27,060 --> 01:30:29,610
-you know, may operate differently,
+you know, may operate differently
 
 1407
 01:30:29,610 --> 01:30:33,870
@@ -5628,7 +5628,7 @@ but I'm extremely verbal and how I think that's how all my reasoning is done.
 
 1408
 01:30:33,870 --> 01:30:40,800
-It's with sentences and construction of, of, you know, almost equations with words,
+It's with sentences and construction of, of, you know, almost equations with words
 
 1409
 01:30:41,070 --> 01:30:45,780
@@ -5636,7 +5636,7 @@ complete sentences, complete sentences are complete ish, anyway, mostly complete
 
 1410
 01:30:45,810 --> 01:30:49,470
-And then in when writing the book, everything about the writing,
+And then in when writing the book, everything about the writing
 
 1411
 01:30:49,470 --> 01:30:56,820
@@ -5648,7 +5648,7 @@ And I would obsess over
 
 1413
 01:30:59,610 --> 01:31:04,440
-exact placement of words to get the right rhythm of the spoken sentence in my in my mind,
+exact placement of words to get the right rhythm of the spoken sentence in my in my mind
 
 1414
 01:31:04,440 --> 01:31:06,360
@@ -5656,7 +5656,7 @@ I could I don't mean to interrupt your flow.
 
 1415
 01:31:06,360 --> 01:31:11,490
-But when you do that, and having experienced this process a bit, although differently,
+But when you do that, and having experienced this process a bit, although differently
 
 1416
 01:31:12,300 --> 01:31:17,520
@@ -5664,7 +5664,7 @@ do you experience any kind of welling up of anxiety when you're hitting the the 
 
 1417
 01:31:18,030 --> 01:31:23,910
-And if so, do you have tools or ways that you quell that anxiety in real time,
+And if so, do you have tools or ways that you quell that anxiety in real time
 
 1418
 01:31:24,030 --> 01:31:26,940
@@ -5672,7 +5672,7 @@ because what we're really talking about here is your mind.
 
 1419
 01:31:26,970 --> 01:31:29,310
-But what we're really talking about is this process of,
+But what we're really talking about is this process of
 
 1420
 01:31:29,700 --> 01:31:36,000
@@ -5680,7 +5680,7 @@ of converting the activity of neurons into something physically concrete in the 
 
 1421
 01:31:36,240 --> 01:31:41,130
-And these intermediate steps are so mysterious to everybody we hear, you know, just write the book,
+And these intermediate steps are so mysterious to everybody we hear, you know, just write the book
 
 1422
 01:31:41,130 --> 01:31:43,200
@@ -5692,7 +5692,7 @@ In fact, statements like that, to me are kind of empty and meaningless.
 
 1424
 01:31:46,980 --> 01:31:51,570
-But when you hear your voice, and you're trying to find the correct word,
+But when you hear your voice, and you're trying to find the correct word
 
 1425
 01:31:51,600 --> 01:31:57,600
@@ -5720,7 +5720,7 @@ But I but there's also a hope, because I know I can solve it too.
 
 1431
 01:32:10,200 --> 01:32:16,050
-And, and so there's, there's this it's almost like you're you're almost there,
+And, and so there's, there's this it's almost like you're you're almost there
 
 1432
 01:32:16,080 --> 01:32:18,450
@@ -5748,7 +5748,7 @@ Because I know that the solution is there.
 
 1438
 01:32:31,530 --> 01:32:39,240
-And and that said, I, you know, there were, there were single words that would, I would spend days on,
+And and that said, I, you know, there were, there were single words that would, I would spend days on
 
 1439
 01:32:39,270 --> 01:32:42,360
@@ -5784,7 +5784,7 @@ I know one of your children is going on to a career in medicine and science.
 
 1447
 01:33:09,179 --> 01:33:14,369
-Yeah, they're each different, which is amazing, yet, they all I think do have some appreciation,
+Yeah, they're each different, which is amazing, yet, they all I think do have some appreciation
 
 1448
 01:33:14,429 --> 01:33:16,799
@@ -5792,7 +5792,7 @@ or a lot of appreciation for reading.
 
 1449
 01:33:17,069 --> 01:33:21,809
-But some are very musical two of the five are extremely musical very,
+But some are very musical two of the five are extremely musical very
 
 1450
 01:33:21,809 --> 01:33:26,999
@@ -5812,23 +5812,23 @@ great with drawing and artistry and some are very physical and vigorous and are 
 
 1454
 01:33:37,049 --> 01:33:38,069
-happy except one,
+happy except one
 
 1455
 01:33:38,099 --> 01:33:42,449
-you know, weeping about and so it's it's just amazing how different they are honestly,
+you know, weeping about and so it's it's just amazing how different they are honestly
 
 1456
 01:33:42,449 --> 01:33:45,719
-but but I think there is a shared appreciation for for language,
+but but I think there is a shared appreciation for for language
 
 1457
 01:33:46,020 --> 01:33:51,870
-do you think the that one can train their mind in using these practices,
+do you think the that one can train their mind in using these practices
 
 1458
 01:33:52,080 --> 01:33:57,360
-I really like your description of the sitting, staying physically still and,
+I really like your description of the sitting, staying physically still and
 
 1459
 01:33:57,420 --> 01:33:59,400
@@ -5836,7 +5836,7 @@ and learning to grapple with those.
 
 1460
 01:33:59,820 --> 01:34:03,030
-Those challenges that something that especially in laboratory science,
+Those challenges that something that especially in laboratory science
 
 1461
 01:34:03,150 --> 01:34:05,010
@@ -5880,15 +5880,15 @@ of the sort that you described?
 
 1471
 01:34:40,050 --> 01:34:42,540
-I think, you know, that I also you know,
+I think, you know, that I also you know
 
 1472
 01:34:42,540 --> 01:34:51,330
-I remember the rhythms of physical work in the laboratory very well, like I my work you know,
+I remember the rhythms of physical work in the laboratory very well, like I my work you know
 
 1473
 01:34:51,360 --> 01:34:57,030
-these days as the laboratory leader, my job has returned mostly to words now again,
+these days as the laboratory leader, my job has returned mostly to words now again
 
 1474
 01:34:57,030 --> 01:34:59,280
@@ -5896,11 +5896,11 @@ and so it's it's kind of coming full circle.
 
 1475
 01:34:59,280 --> 01:35:06,330
-I was So it's a different mode, I think you just have to embrace that,
+I was So it's a different mode, I think you just have to embrace that
 
 1476
 01:35:06,390 --> 01:35:09,240
-that different stages of life come with with different modes,
+that different stages of life come with with different modes
 
 1477
 01:35:09,240 --> 01:35:11,250
@@ -5924,7 +5924,7 @@ But it's what's the next challenge?
 
 1482
 01:35:31,470 --> 01:35:35,040
-You know, there's all the various experimental techniques, the dissections of the brain,
+You know, there's all the various experimental techniques, the dissections of the brain
 
 1483
 01:35:35,280 --> 01:35:40,020
@@ -5932,15 +5932,15 @@ you know, I can't tell you how many 1000s of brain dissections I've done in my l
 
 1484
 01:35:40,020 --> 01:35:41,100
-And now I don't do them at all,
+And now I don't do them at all
 
 1485
 01:35:41,100 --> 01:35:44,790
-it's and then you developed a method so that we don't have to does that grant, as you mentioned,
+it's and then you developed a method so that we don't have to does that grant, as you mentioned
 
 1486
 01:35:44,790 --> 01:35:47,430
-that maybe tell us for a moment about clarity and for that,
+that maybe tell us for a moment about clarity and for that
 
 1487
 01:35:47,580 --> 01:35:51,570
@@ -5948,7 +5948,7 @@ for people who will probably never set foot into a laboratory.
 
 1488
 01:35:52,320 --> 01:35:58,560
-What an incredible, yet another incredible discovery, discovery and development clarity is,
+What an incredible, yet another incredible discovery, discovery and development clarity is
 
 1489
 01:35:58,800 --> 01:36:02,100
@@ -5964,11 +5964,11 @@ And it's part of a broader approach that we call hydrogen tissue chemistry.
 
 1492
 01:36:12,270 --> 01:36:12,990
-And what this is,
+And what this is
 
 1493
 01:36:12,990 --> 01:36:21,420
-is it's building a gel like a clear jello like substance with from within all the cells of a tissue,
+is it's building a gel like a clear jello like substance with from within all the cells of a tissue
 
 1494
 01:36:21,960 --> 01:36:23,940
@@ -5996,7 +5996,7 @@ And the reason that works is weak.
 
 1500
 01:36:41,850 --> 01:36:46,350
-Having built this gel, this new infrastructure inside the tissue,
+Having built this gel, this new infrastructure inside the tissue
 
 1501
 01:36:47,100 --> 01:36:48,720
@@ -6004,19 +6004,19 @@ we can then use chemical tricks.
 
 1502
 01:36:48,720 --> 01:36:55,950
-And we can link the molecules we care about, like proteins, or RNAs, which are the things as you know,
+And we can link the molecules we care about, like proteins, or RNAs, which are the things as you know
 
 1503
 01:36:55,950 --> 01:37:03,030
-right before they become proteins, we can link them physically anchor them to this gel,
+right before they become proteins, we can link them physically anchor them to this gel
 
 1504
 01:37:03,030 --> 01:37:07,560
-which is a scaffold, basically, it's an interlocking network of polymers,
+which is a scaffold, basically, it's an interlocking network of polymers
 
 1505
 01:37:07,950 --> 01:37:11,520
-we can link all these interesting molecules in place and lock them in,
+we can link all these interesting molecules in place and lock them in
 
 1506
 01:37:11,760 --> 01:37:15,630
@@ -6028,11 +6028,11 @@ And then we can remove very vigorously everything we don't care about, that's bl
 
 1508
 01:37:21,390 --> 01:37:26,220
-light that's blocking our molecules coming in to exchange information with a tissue,
+light that's blocking our molecules coming in to exchange information with a tissue
 
 1509
 01:37:26,520 --> 01:37:29,430
-we can get rid of everything else, like the lipids, the fats,
+we can get rid of everything else, like the lipids, the fats
 
 1510
 01:37:29,430 --> 01:37:33,060
@@ -6040,7 +6040,7 @@ we can effectively use detergents to get them all out.
 
 1511
 01:37:33,570 --> 01:37:37,770
-And then we can see in all the things that we're absorbing are scattering light are gone,
+And then we can see in all the things that we're absorbing are scattering light are gone
 
 1512
 01:37:38,070 --> 01:37:40,380
@@ -6056,7 +6056,7 @@ They're at the cellular and sub cellular level.
 
 1515
 01:37:45,900 --> 01:37:50,370
-And so this is hydrogen tissue chemistry, the first form we described was called clarity,
+And so this is hydrogen tissue chemistry, the first form we described was called clarity
 
 1516
 01:37:50,730 --> 01:37:53,430
@@ -6068,11 +6068,11 @@ variants now that we and others have developed on this basic concept of building
 
 1518
 01:37:57,840 --> 01:38:02,160
-this gel than the tissue and anchoring molecules into place, literally glass clear brains,
+this gel than the tissue and anchoring molecules into place, literally glass clear brains
 
 1519
 01:38:02,160 --> 01:38:06,900
-I've done this, I've taken a brain cleared with this method, and looked at somebody through it,
+I've done this, I've taken a brain cleared with this method, and looked at somebody through it
 
 1520
 01:38:06,900 --> 01:38:09,870
@@ -6092,7 +6092,7 @@ For the, it raises an important question, which is again, about the human brain.
 
 1524
 01:38:22,170 --> 01:38:26,040
-And as somebody who essentially started out in neuroanatomy, and then got into other things,
+And as somebody who essentially started out in neuroanatomy, and then got into other things
 
 1525
 01:38:26,460 --> 01:38:33,360
@@ -6104,7 +6104,7 @@ the microstructure of the human brain, compared to the brains of other organisms
 
 1527
 01:38:38,580 --> 01:38:42,570
-And in thinking about understanding the circuitry and the piano,
+And in thinking about understanding the circuitry and the piano
 
 1528
 01:38:42,570 --> 01:38:47,550
@@ -6128,7 +6128,7 @@ Do you think it's fair to say that there are entire regions of the human brain
 
 1533
 01:39:08,070 --> 01:39:12,510
-that aren't just bigger, but that exists only in the brains of humans,
+that aren't just bigger, but that exists only in the brains of humans
 
 1534
 01:39:12,540 --> 01:39:14,850
@@ -6136,7 +6136,7 @@ especially given that we have this speech?
 
 1535
 01:39:14,880 --> 01:39:18,900
-Although I do wonder sometimes if you know, animals reporting to each other there,
+Although I do wonder sometimes if you know, animals reporting to each other there
 
 1536
 01:39:18,930 --> 01:39:21,510
@@ -6144,7 +6144,7 @@ maybe they have little psychiatric sessions with one another?
 
 1537
 01:39:22,320 --> 01:39:26,790
-You know, I I'm always careful to not assume we do things better,
+You know, I I'm always careful to not assume we do things better
 
 1538
 01:39:26,880 --> 01:39:31,020
@@ -6160,7 +6160,7 @@ That said, we do have amazing, wonderful brains and many structures
 
 1541
 01:39:38,040 --> 01:39:44,190
-that are very highly developed in our brains that are not nearly so developed in mice and, and fish,
+that are very highly developed in our brains that are not nearly so developed in mice and, and fish
 
 1542
 01:39:44,190 --> 01:39:44,790
@@ -6168,7 +6168,7 @@ for example.
 
 1543
 01:39:45,420 --> 01:39:50,370
-Now, that said, when I look at the big picture, you know, what,
+Now, that said, when I look at the big picture, you know, what
 
 1544
 01:39:50,820 --> 01:39:52,770
@@ -6184,11 +6184,11 @@ Three mammals like mice, that it turns out, you can actually.
 
 1547
 01:40:05,760 --> 01:40:10,110
-And so I would never draw the line and say, here's something you can study in mice,
+And so I would never draw the line and say, here's something you can study in mice
 
 1548
 01:40:10,110 --> 01:40:14,940
-or here's something that has no parallel in mice, I would be very careful before making any,
+or here's something that has no parallel in mice, I would be very careful before making any
 
 1549
 01:40:15,600 --> 01:40:16,710
@@ -6204,19 +6204,19 @@ that is we've been able to study just in the past year come to an understanding 
 
 1552
 01:40:22,500 --> 01:40:27,930
-And both, we had a paper that came out in late 2020, both mouse and human work,
+And both, we had a paper that came out in late 2020, both mouse and human work
 
 1553
 01:40:28,650 --> 01:40:33,900
-in which we got to the sort of the circuit basis for dissociation,
+in which we got to the sort of the circuit basis for dissociation
 
 1554
 01:40:33,930 --> 01:40:38,790
-what now what is dissociation that a lot of people might not have experienced it,
+what now what is dissociation that a lot of people might not have experienced it
 
 1555
 01:40:38,790 --> 01:40:43,680
-but it's actually very common, more than 70% of people who've been through trauma,
+but it's actually very common, more than 70% of people who've been through trauma
 
 1556
 01:40:44,250 --> 01:40:49,170
@@ -6224,11 +6224,11 @@ experienced dissociation, it shows up in borderline personality shows up in PTSD
 
 1557
 01:40:49,680 --> 01:40:54,810
-What it is, is, is a separation of the sense of self from the body,
+What it is, is, is a separation of the sense of self from the body
 
 1558
 01:40:54,900 --> 01:40:58,530
-not so you can have someone who it's not as if you're numb, you're not anesthetized,
+not so you can have someone who it's not as if you're numb, you're not anesthetized
 
 1559
 01:40:58,530 --> 01:41:01,410
@@ -6252,7 +6252,7 @@ Yeah, almost, in your book, you touch on this, and I will say is the most
 
 1564
 01:41:15,810 --> 01:41:21,540
-precise and meaningful and eloquent description of what might be consciousness,
+precise and meaningful and eloquent description of what might be consciousness
 
 1565
 01:41:21,720 --> 01:41:26,400
@@ -6280,11 +6280,11 @@ Yeah, that's right.
 
 1571
 01:41:40,950 --> 01:41:45,510
-And so ketamine is another one of those cases where people can experience dissociation,
+And so ketamine is another one of those cases where people can experience dissociation
 
 1572
 01:41:45,540 --> 01:41:50,760
-ketamine, or PCP, we call these the dissociative drugs, they cause it just like these,
+ketamine, or PCP, we call these the dissociative drugs, they cause it just like these
 
 1573
 01:41:50,790 --> 01:41:53,430
@@ -6292,11 +6292,11 @@ these other psychiatric conditions can cause it.
 
 1574
 01:41:54,180 --> 01:41:59,100
-And so we were, we were able to manifest this in in mice,
+And so we were, we were able to manifest this in in mice
 
 1575
 01:41:59,100 --> 01:42:02,100
-were administering these dissociative agents in mice,
+were administering these dissociative agents in mice
 
 1576
 01:42:02,100 --> 01:42:06,510
@@ -6308,15 +6308,15 @@ All the while we were
 
 1578
 01:42:09,000 --> 01:42:14,040
-recording the activity of individual cells in the brain to see what was going on what,
+recording the activity of individual cells in the brain to see what was going on what
 
 1579
 01:42:14,370 --> 01:42:19,290
-what was happening along with this dissociation, and then use optogenetics,
+what was happening along with this dissociation, and then use optogenetics
 
 1580
 01:42:19,290 --> 01:42:24,030
-to see that it mattered to actually provide that pattern of activity and see Oh,
+to see that it mattered to actually provide that pattern of activity and see Oh
 
 1581
 01:42:24,300 --> 01:42:26,220
@@ -6324,7 +6324,7 @@ that actually causes the dissociation.
 
 1582
 01:42:26,550 --> 01:42:29,850
-So we could do all that in mice, you know, which, which was,
+So we could do all that in mice, you know, which, which was
 
 1583
 01:42:29,850 --> 01:42:34,560
@@ -6332,19 +6332,19 @@ you know, just who would have thought that you could study something like this i
 
 1584
 01:42:34,980 --> 01:42:38,340
-And we were able to go back and forth with human work,
+And we were able to go back and forth with human work
 
 1585
 01:42:38,340 --> 01:42:41,940
-because here in our Stanford comprehensive epilepsy center,
+because here in our Stanford comprehensive epilepsy center
 
 1586
 01:42:41,940 --> 01:42:46,170
-there are a lot of what we call stereo ECG recording, patients who come in,
+there are a lot of what we call stereo ECG recording, patients who come in
 
 1587
 01:42:46,170 --> 01:42:48,030
-and in the course of normal clinical care,
+and in the course of normal clinical care
 
 1588
 01:42:48,570 --> 01:42:53,430
@@ -6352,7 +6352,7 @@ they have electrodes recording in their brain to identify where the seizure is.
 
 1589
 01:42:53,460 --> 01:42:58,710
-So they can be candidates for removing a little patch of the brain that's causing the seizure,
+So they can be candidates for removing a little patch of the brain that's causing the seizure
 
 1590
 01:42:58,710 --> 01:43:02,700
@@ -6364,7 +6364,7 @@ And there was a patient who had a dissociative state before every seizure.
 
 1592
 01:43:09,360 --> 01:43:11,490
-So there was a human being who was really dissociating,
+So there was a human being who was really dissociating
 
 1593
 01:43:11,490 --> 01:43:13,290
@@ -6372,15 +6372,15 @@ who could tell us literally as it was happening.
 
 1594
 01:43:13,650 --> 01:43:15,990
-And we could see this pattern,
+And we could see this pattern
 
 1595
 01:43:15,990 --> 01:43:20,160
-the same pattern that was happening in the mice in the same patch of the brain,
+the same pattern that was happening in the mice in the same patch of the brain
 
 1596
 01:43:20,760 --> 01:43:23,940
-we could see that happening in the human being at exactly the right time,
+we could see that happening in the human being at exactly the right time
 
 1597
 01:43:23,940 --> 01:43:27,540
@@ -6392,7 +6392,7 @@ evolutionary distances.
 
 1599
 01:43:29,550 --> 01:43:32,880
-And we knew that it mattered to both the mouse and human because in the human,
+And we knew that it mattered to both the mouse and human because in the human
 
 1600
 01:43:32,910 --> 01:43:34,020
@@ -6400,19 +6400,19 @@ we could cause it to happen.
 
 1601
 01:43:34,500 --> 01:43:38,010
-So I just want to underscore the power of not just that,
+So I just want to underscore the power of not just that
 
 1602
 01:43:38,400 --> 01:43:41,160
-I want to underscore the power of optogenetics,
+I want to underscore the power of optogenetics
 
 1603
 01:43:41,160 --> 01:43:46,740
-and the ability to not just remove a particular experience or behavior by lesioning,
+and the ability to not just remove a particular experience or behavior by lesioning
 
 1604
 01:43:46,740 --> 01:43:49,200
-or destroying, but then to go back and,
+or destroying, but then to go back and
 
 1605
 01:43:49,440 --> 01:43:54,000
@@ -6420,11 +6420,11 @@ and actually activate the same structure or group of structures and see the emer
 
 1606
 01:43:54,060 --> 01:43:56,220
-So it's essentially, these days,
+So it's essentially, these days
 
 1607
 01:43:56,220 --> 01:43:59,580
-you hear a lot about gain of function research in the context of viral manipulation,
+you hear a lot about gain of function research in the context of viral manipulation
 
 1608
 01:43:59,580 --> 01:44:01,980
@@ -6444,11 +6444,11 @@ That's right.
 
 1612
 01:44:09,810 --> 01:44:11,940
-And so and exactly and so with optogenetics,
+And so and exactly and so with optogenetics
 
 1613
 01:44:11,940 --> 01:44:18,120
-we were able to provide in animals without being on any any ketamine or any, any drug,
+we were able to provide in animals without being on any any ketamine or any, any drug
 
 1614
 01:44:18,120 --> 01:44:21,750
@@ -6468,11 +6468,11 @@ And by observing which cells in the visual part of the brain visual cortex are n
 
 1618
 01:44:42,120 --> 01:44:47,010
-responsive to, for example, vertical bars, instead of horizontal bars in the visual world,
+responsive to, for example, vertical bars, instead of horizontal bars in the visual world
 
 1619
 01:44:47,640 --> 01:44:51,150
-we could see which cells were normally reporting on vertical bars,
+we could see which cells were normally reporting on vertical bars
 
 1620
 01:44:51,180 --> 01:44:54,120
@@ -6480,15 +6480,15 @@ and then we could use optogenetics to come and play in
 
 1621
 01:44:54,750 --> 01:44:59,250
-activity just to those cells to these animals are not viewing any not doing anything at all,
+activity just to those cells to these animals are not viewing any not doing anything at all
 
 1622
 01:44:59,310 --> 01:45:02,490
-and we could To activate just the vertical bar cells,
+and we could To activate just the vertical bar cells
 
 1623
 01:45:02,520 --> 01:45:06,420
-and not only do the animal act as if it was seeing a vertical bar behaviorally,
+and not only do the animal act as if it was seeing a vertical bar behaviorally
 
 1624
 01:45:06,450 --> 01:45:08,880
@@ -6508,7 +6508,7 @@ external world was naturalistic, too, it looked like the brain was seeing someth
 
 1628
 01:45:23,130 --> 01:45:25,950
-So that was another that's gain of function to,
+So that was another that's gain of function to
 
 1629
 01:45:25,980 --> 01:45:30,180
@@ -6524,7 +6524,7 @@ And we can do that in, you know, across species.
 
 1632
 01:45:34,440 --> 01:45:39,120
-So I we haven't, you know, and of course, mice are social, and they do,
+So I we haven't, you know, and of course, mice are social, and they do
 
 1633
 01:45:39,270 --> 01:45:41,820
@@ -6536,15 +6536,15 @@ And so I'm I don't, I try not to disparage our cousins too much.
 
 1635
 01:45:46,740 --> 01:45:50,070
-We certainly have helped the field of neuroscience and medicine, I should mention,
+We certainly have helped the field of neuroscience and medicine, I should mention
 
 1636
 01:45:50,070 --> 01:45:52,740
-and I know that people are very sensitivities about animal research,
+and I know that people are very sensitivities about animal research
 
 1637
 01:45:52,740 --> 01:45:58,650
-but the work that's been carried out in mice has been absolutely vital,
+but the work that's been carried out in mice has been absolutely vital
 
 1638
 01:45:58,980 --> 01:46:02,580
@@ -6552,7 +6552,7 @@ and instructional for treatment of human disease.
 
 1639
 01:46:03,900 --> 01:46:10,470
-Since we talked about dissociation, and dissociative states, rather, and ketamine,
+Since we talked about dissociation, and dissociative states, rather, and ketamine
 
 1640
 01:46:10,500 --> 01:46:14,880
@@ -6560,7 +6560,7 @@ I'd love your thoughts on psychedelic medicine.
 
 1641
 01:46:14,910 --> 01:46:19,770
-You know, I sort of half joke having grown up in this area in Northern California,
+You know, I sort of half joke having grown up in this area in Northern California
 
 1642
 01:46:19,770 --> 01:46:22,020
@@ -6568,7 +6568,7 @@ when it was much more counterculture than it is now.
 
 1643
 01:46:23,220 --> 01:46:25,950
-That many of the things that we're hearing about now,
+That many of the things that we're hearing about now
 
 1644
 01:46:27,840 --> 01:46:32,880
@@ -6576,15 +6576,15 @@ at least from my read of the of the history books happened before there was a mo
 
 1645
 01:46:33,540 --> 01:46:36,480
-aimed at taking the very same compounds, essentially,
+aimed at taking the very same compounds, essentially
 
 1646
 01:46:36,780 --> 01:46:41,130
-putting them into patients or people were obviously using them recreationally,
+putting them into patients or people were obviously using them recreationally
 
 1647
 01:46:41,130 --> 01:46:44,910
-but putting them into patients, and seeing tremendous positive effects,
+but putting them into patients, and seeing tremendous positive effects
 
 1648
 01:46:44,910 --> 01:46:50,580
@@ -6592,7 +6592,7 @@ but also tremendous examples of induce psychiatric illness.
 
 1649
 01:46:50,610 --> 01:46:54,750
-In other words, many people lost their minds as a consequence of overuse of psychedelics,
+In other words, many people lost their minds as a consequence of overuse of psychedelics
 
 1650
 01:46:54,780 --> 01:46:57,660
@@ -6600,7 +6600,7 @@ I'll probably lose a few people out there.
 
 1651
 01:46:59,100 --> 01:47:04,320
-But I do want to talk about what is the state of these compounds,
+But I do want to talk about what is the state of these compounds
 
 1652
 01:47:04,320 --> 01:47:06,420
@@ -6612,7 +6612,7 @@ But LSD and psilocybin as I understand trigger activation
 
 1654
 01:47:09,810 --> 01:47:12,150
-of particular serotonin receptor mechanisms,
+of particular serotonin receptor mechanisms
 
 1655
 01:47:12,360 --> 01:47:17,070
@@ -6628,7 +6628,7 @@ But when you look at the clinical and experimental literature, what is your sort
 
 1658
 01:47:23,340 --> 01:47:27,690
-sense of how effective these tools are going to be for treating depression,
+sense of how effective these tools are going to be for treating depression
 
 1659
 01:47:27,690 --> 01:47:31,590
@@ -6640,7 +6640,7 @@ Well, you're you're right to highlight both opportunity and, and the parallel th
 
 1661
 01:47:39,780 --> 01:47:43,260
-And, of course, we want to help patients and of course, we want to,
+And, of course, we want to help patients and of course, we want to
 
 1662
 01:47:43,320 --> 01:47:49,560
@@ -6652,11 +6652,11 @@ But I do think we should explore these these avenues.
 
 1664
 01:47:53,580 --> 01:47:59,640
-These are agents that alter reality and alter the experience of reality, I should say,
+These are agents that alter reality and alter the experience of reality, I should say
 
 1665
 01:48:00,180 --> 01:48:05,130
-in in relatively precise ways, they they do have problems, they can be addictive,
+in in relatively precise ways, they they do have problems, they can be addictive
 
 1666
 01:48:05,160 --> 01:48:08,460
@@ -6664,15 +6664,15 @@ they can cause lasting change, that is not desirable.
 
 1667
 01:48:10,230 --> 01:48:15,540
-But we have to see these as opportunities, we have to first of all study in the laboratory,
+But we have to see these as opportunities, we have to first of all study in the laboratory
 
 1668
 01:48:15,540 --> 01:48:19,560
-and I'm doing this here, you know, we have big,
+and I'm doing this here, you know, we have big
 
 1669
 01:48:20,280 --> 01:48:24,810
-we have safes with many interesting psychedelics that are all very carefully regulated,
+we have safes with many interesting psychedelics that are all very carefully regulated
 
 1670
 01:48:24,810 --> 01:48:27,210
@@ -6680,7 +6680,7 @@ we get inspections from the DEA, and so on.
 
 1671
 01:48:27,210 --> 01:48:31,680
-Anyone's hoping to find these labs, they exist in outer space you need, you need to be on board,
+Anyone's hoping to find these labs, they exist in outer space you need, you need to be on board
 
 1672
 01:48:31,680 --> 01:48:35,070
@@ -6696,11 +6696,11 @@ Yes.
 
 1675
 01:48:38,460 --> 01:48:43,770
-And, and, and we're doing exactly this, we're saying this is an incredible opportunity,
+And, and, and we're doing exactly this, we're saying this is an incredible opportunity
 
 1676
 01:48:43,770 --> 01:48:49,020
-if we could understand how, you know, the perception of reality is altered,
+if we could understand how, you know, the perception of reality is altered
 
 1677
 01:48:49,050 --> 01:48:52,890
@@ -6744,7 +6744,7 @@ Why would they work?
 
 1687
 01:49:34,380 --> 01:49:44,730
-I mean, the, you know, let's say that, indeed, their main effect is to create more, more conductivity,
+I mean, the, you know, let's say that, indeed, their main effect is to create more, more conductivity
 
 1688
 01:49:44,730 --> 01:49:48,240
@@ -6752,11 +6752,11 @@ at least in the in the moment between brain areas.
 
 1689
 01:49:48,240 --> 01:49:53,850
-So the way I think about a very think about the two extremes of my experience anyways,
+So the way I think about a very think about the two extremes of my experience anyways
 
 1690
 01:49:53,880 --> 01:49:57,090
-a high degree of stress and focus for whatever reason,
+a high degree of stress and focus for whatever reason
 
 1691
 01:49:57,330 --> 01:49:59,970
@@ -6764,11 +6764,11 @@ is going to make create changes in my visual field and
 
 1692
 01:50:00,450 --> 01:50:03,750
-changes in the way that I perceive times that I'm going to micro slice time,
+changes in the way that I perceive times that I'm going to micro slice time
 
 1693
 01:50:03,900 --> 01:50:08,790
-I might mean a very contracted view of whatever my experiences, whereas on the opposite extreme,
+I might mean a very contracted view of whatever my experiences, whereas on the opposite extreme
 
 1694
 01:50:09,420 --> 01:50:15,180
@@ -6776,11 +6776,11 @@ in a, in a dream, or in sleep space and time are very fluid, and essentially rel
 
 1695
 01:50:15,180 --> 01:50:16,980
-Although it might be a very interesting dream,
+Although it might be a very interesting dream
 
 1696
 01:50:16,980 --> 01:50:24,660
-it might not be a psychedelic seem to be a trajectory, not off too far off from the dream state,
+it might not be a psychedelic seem to be a trajectory, not off too far off from the dream state
 
 1697
 01:50:25,320 --> 01:50:29,130
@@ -6788,7 +6788,7 @@ where space and time are essentially not as rigid.
 
 1698
 01:50:29,910 --> 01:50:35,790
-And there is this element of synesthesia, a blending of the senses, you know, feeling colors,
+And there is this element of synesthesia, a blending of the senses, you know, feeling colors
 
 1699
 01:50:35,820 --> 01:50:40,110
@@ -6828,15 +6828,15 @@ increase our willingness to increase the willingness of our brain to accept unli
 
 1708
 01:51:11,580 --> 01:51:15,060
-ways of constructing the world unlikely hypotheses as it were,
+ways of constructing the world unlikely hypotheses as it were
 
 1709
 01:51:15,060 --> 01:51:18,270
-as to what's going on the brain in particular cortex,
+as to what's going on the brain in particular cortex
 
 1710
 01:51:18,270 --> 01:51:21,840
-I think is a hypothesis generation and testing machine,
+I think is a hypothesis generation and testing machine
 
 1711
 01:51:21,840 --> 01:51:26,730
@@ -6856,7 +6856,7 @@ And some of those never reach our conscious mind.
 
 1715
 01:51:36,030 --> 01:51:40,350
-And this is something I talked about in projections, and in the book, quite a bit is,
+And this is something I talked about in projections, and in the book, quite a bit is
 
 1716
 01:51:41,220 --> 01:51:44,520
@@ -6868,7 +6868,7 @@ And that's good.
 
 1718
 01:51:45,150 --> 01:51:49,860
-We think how distracted we'd be if we were constantly having to evaluate all these,
+We think how distracted we'd be if we were constantly having to evaluate all these
 
 1719
 01:51:49,890 --> 01:51:54,030
@@ -6876,7 +6876,7 @@ you know, hypotheses about what kinds of shapes or objects or processes were out
 
 1720
 01:51:54,810 --> 01:51:59,010
-And so a lot of this is handled, before it gets to consciousness,
+And so a lot of this is handled, before it gets to consciousness
 
 1721
 01:51:59,040 --> 01:52:03,450
@@ -6884,11 +6884,11 @@ what the psychedelics seem to do is they change the
 
 1722
 01:52:03,960 --> 01:52:09,930
-threshold for us to become aware of these incomplete hypotheses or wrong hypotheses or,
+threshold for us to become aware of these incomplete hypotheses or wrong hypotheses or
 
 1723
 01:52:10,440 --> 01:52:14,160
-or concepts that might be noise, but are just wrong,
+or concepts that might be noise, but are just wrong
 
 1724
 01:52:14,160 --> 01:52:16,950
@@ -6900,7 +6900,7 @@ Now, you know that that's pretty interesting.
 
 1726
 01:52:20,940 --> 01:52:26,400
-And it goes wrong and psychiatric disorders, I think, in schizophrenia, at some times,
+And it goes wrong and psychiatric disorders, I think, in schizophrenia, at some times
 
 1727
 01:52:26,400 --> 01:52:31,620
@@ -6908,7 +6908,7 @@ the paranoid delusions that people have are examples of these
 
 1728
 01:52:32,490 --> 01:52:37,410
-poor models that escape into the conscious mind and become accepted as reality,
+poor models that escape into the conscious mind and become accepted as reality
 
 1729
 01:52:37,410 --> 01:52:39,180
@@ -6916,7 +6916,7 @@ and they never should have gotten out there.
 
 1730
 01:52:40,320 --> 01:52:44,610
-Now, how could something like this in the right way, help with something like depression,
+Now, how could something like this in the right way, help with something like depression
 
 1731
 01:52:45,360 --> 01:52:51,540
@@ -6924,7 +6924,7 @@ patients with depression often are, are stuck, they can't
 
 1732
 01:52:53,790 --> 01:53:04,020
-look into the future world of possibilities as effectively there's everything seems hopeless,
+look into the future world of possibilities as effectively there's everything seems hopeless
 
 1733
 01:53:04,050 --> 01:53:05,160
@@ -6932,7 +6932,7 @@ and what does that really mean?
 
 1734
 01:53:05,190 --> 01:53:08,280
-They, they discount the value of their own action,
+They, they discount the value of their own action
 
 1735
 01:53:08,310 --> 01:53:12,900
@@ -6944,7 +6944,7 @@ Everything seems to run out like a river just running out into a desert and dryi
 
 1737
 01:53:18,300 --> 01:53:25,500
-And what these agents may do that increase the flow through circuitry, if you will,
+And what these agents may do that increase the flow through circuitry, if you will
 
 1738
 01:53:25,500 --> 01:53:27,960
@@ -6952,7 +6952,7 @@ the percolation of activity through circuitry may
 
 1739
 01:53:28,020 --> 01:53:33,600
-end up doing for depression is increasing the the escape of some some tendrils of,
+end up doing for depression is increasing the the escape of some some tendrils of
 
 1740
 01:53:33,690 --> 01:53:37,770
@@ -6964,7 +6964,7 @@ That's a concept, it's how I think about it.
 
 1742
 01:53:41,640 --> 01:53:47,100
-There are ways we can make that rigorous we can indeed identify in the brain by recording,
+There are ways we can make that rigorous we can indeed identify in the brain by recording
 
 1743
 01:53:47,100 --> 01:53:53,280
@@ -6972,7 +6972,7 @@ we can see cells that represent steps along a path and look into the future.
 
 1744
 01:53:54,150 --> 01:53:56,520
-And we can rigorously define these cells,
+And we can rigorously define these cells
 
 1745
 01:53:56,550 --> 01:54:01,110
@@ -7000,15 +7000,15 @@ brain levels of dopamine and serotonin simultaneously.
 
 1751
 01:54:24,720 --> 01:54:27,420
-And I realized that the neuromodulators like dopamine,
+And I realized that the neuromodulators like dopamine
 
 1752
 01:54:27,420 --> 01:54:31,980
-serotonin often work in concert not alone the way they're commonly described in the,
+serotonin often work in concert not alone the way they're commonly described in the
 
 1753
 01:54:32,910 --> 01:54:38,910
-you know, the more general popular discussions, however, it is a unique compound,
+you know, the more general popular discussions, however, it is a unique compound
 
 1754
 01:54:38,910 --> 01:54:42,540
@@ -7016,7 +7016,7 @@ and it's different than the serotonergic compounds like LSD and psilocybin.
 
 1755
 01:54:43,410 --> 01:54:51,090
-And there are now data still emerging that it might be and in some cases,
+And there are now data still emerging that it might be and in some cases
 
 1756
 01:54:51,570 --> 01:54:55,800
@@ -7032,7 +7032,7 @@ Why would that work?
 
 1759
 01:54:59,250 --> 01:55:06,540
-And do you think A larger question, perhaps the more important question is psychedelics, MDMA, LSD,
+And do you think A larger question, perhaps the more important question is psychedelics, MDMA, LSD
 
 1760
 01:55:06,870 --> 01:55:08,190
@@ -7060,15 +7060,15 @@ But how crucial Do you think it is to have?
 
 1766
 01:55:25,920 --> 01:55:31,500
-Let's stay with MDMA, the experience of huge levels of dopamine,
+Let's stay with MDMA, the experience of huge levels of dopamine
 
 1767
 01:55:31,500 --> 01:55:34,890
-huge levels of serotonin atypical levels of dopamine,
+huge levels of serotonin atypical levels of dopamine
 
 1768
 01:55:34,890 --> 01:55:39,510
-serotonin released having this highly abnormal experience in order to be normal again,
+serotonin released having this highly abnormal experience in order to be normal again
 
 1769
 01:55:40,830 --> 01:55:44,490
@@ -7076,7 +7076,7 @@ I think the brain learns from those experiences, that's that's the way I see it.
 
 1770
 01:55:44,490 --> 01:55:49,650
-And so for example, people on who've taken MDMA, they will, as you say,
+And so for example, people on who've taken MDMA, they will, as you say
 
 1771
 01:55:49,650 --> 01:55:52,380
@@ -7100,11 +7100,11 @@ And so what what people will report is, yeah, I'm not I'm not in that state.
 
 1776
 01:56:10,980 --> 01:56:17,400
-But I saw what was possible, you know, I saw Yeah, you can, there need to be barriers,
+But I saw what was possible, you know, I saw Yeah, you can, there need to be barriers
 
 1777
 01:56:17,430 --> 01:56:19,740
-or at least not as many barriers As I thought,
+or at least not as many barriers As I thought
 
 1778
 01:56:19,770 --> 01:56:24,000
@@ -7128,7 +7128,7 @@ patient and therapist hopefully evolves to the point where
 
 1783
 01:56:42,240 --> 01:56:45,840
-these kinds of tests can be run within the context of that relationship,
+these kinds of tests can be run within the context of that relationship
 
 1784
 01:56:45,840 --> 01:56:47,910
@@ -7140,15 +7140,15 @@ That exactly right.
 
 1786
 01:56:49,200 --> 01:56:53,670
-And that probably assuming is still the goal of really good psychiatry, also,
+And that probably assuming is still the goal of really good psychiatry, also
 
 1787
 01:56:53,849 --> 01:57:01,709
-it's a part of intimacy, really, it should be, when we have time, I think I'll good psychiatrist,
+it's a part of intimacy, really, it should be, when we have time, I think I'll good psychiatrist
 
 1788
 01:57:01,709 --> 01:57:08,699
-try to achieve that, that level of connection and learning, try to help patients create a new,
+try to achieve that, that level of connection and learning, try to help patients create a new
 
 1789
 01:57:09,389 --> 01:57:15,359
@@ -7156,23 +7156,23 @@ a new model that is stable, that is learned, and that can help instruct future b
 
 1790
 01:57:16,139 --> 01:57:22,139
-One of the things that I took from reading your book, in addition to learning so much science,
+One of the things that I took from reading your book, in addition to learning so much science
 
 1791
 01:57:22,169 --> 01:57:29,009
-and the future of psychiatry and brain science was, you know, amidst these many, many kids,
+and the future of psychiatry and brain science was, you know, amidst these many, many kids
 
 1792
 01:57:29,009 --> 01:57:33,119
-very tragic cases and sadness, and a lot of the, the,
+very tragic cases and sadness, and a lot of the, the
 
 1793
 01:57:33,239 --> 01:57:37,559
-the weight that that puts on the clinician on you also, that there's a,
+the weight that that puts on the clinician on you also, that there's a
 
 1794
 01:57:37,619 --> 01:57:45,869
-that there's a central chord of, of optimism, that where we're headed is not just possible,
+that there's a central chord of, of optimism, that where we're headed is not just possible
 
 1795
 01:57:45,869 --> 01:57:48,119
@@ -7188,11 +7188,11 @@ I am.
 
 1798
 01:57:53,760 --> 01:57:57,870
-And this this is, by the way, this was a really interesting experience in writing projections,
+And this this is, by the way, this was a really interesting experience in writing projections
 
 1799
 01:57:57,870 --> 01:58:02,670
-because I had a dual goal, I wanted it to be for everybody,
+because I had a dual goal, I wanted it to be for everybody
 
 1800
 01:58:02,730 --> 01:58:07,590
@@ -7200,7 +7200,7 @@ literally everybody in the world who wants to read it.
 
 1801
 01:58:08,400 --> 01:58:14,940
-And yet, at the same time, I wanted to stay absolutely, rigorously,
+And yet, at the same time, I wanted to stay absolutely, rigorously
 
 1802
 01:58:15,150 --> 01:58:17,730
@@ -7208,11 +7208,11 @@ close to the the science what was actually known.
 
 1803
 01:58:18,840 --> 01:58:20,730
-When I was speaking about science,
+When I was speaking about science
 
 1804
 01:58:20,730 --> 01:58:25,950
-when I was speaking about the neurobiology of the brain or psychiatry, I wanted to,
+when I was speaking about the neurobiology of the brain or psychiatry, I wanted to
 
 1805
 01:58:26,910 --> 01:58:33,060
@@ -7228,11 +7228,11 @@ And a lot of this trying to find exactly the right word we talked about was
 
 1808
 01:58:41,310 --> 01:58:45,630
-on this path of staying excruciating Lee rigorous in the science and yet,
+on this path of staying excruciating Lee rigorous in the science and yet
 
 1809
 01:58:46,380 --> 01:58:52,140
-letting people see the hope the where things were everybody see that we've come a long way,
+letting people see the hope the where things were everybody see that we've come a long way
 
 1810
 01:58:52,140 --> 01:58:53,340
@@ -7244,11 +7244,11 @@ But, but the trajectory and the path is beautiful.
 
 1812
 01:58:58,380 --> 01:59:05,070
-And so that, that that was the goal, I think, you know, of course,
+And so that, that that was the goal, I think, you know, of course
 
 1813
 01:59:05,070 --> 01:59:10,620
-that sounds almost impossible to jointly satisfy those two, those two goals,
+that sounds almost impossible to jointly satisfy those two, those two goals
 
 1814
 01:59:10,620 --> 01:59:12,930
@@ -7268,11 +7268,11 @@ And at least from this colleague, you, you did achieve both.
 
 1818
 01:59:22,680 --> 01:59:28,380
-And it's a wonderful, it's a masterful book, really, and one that as a scientist,
+And it's a wonderful, it's a masterful book, really, and one that as a scientist
 
 1819
 01:59:28,380 --> 01:59:31,980
-and somebody who is a Brit, fellow brain Explorer,
+and somebody who is a Brit, fellow brain Explorer
 
 1820
 01:59:32,550 --> 01:59:36,480
@@ -7292,7 +7292,7 @@ But people should definitely check out the book.
 
 1824
 01:59:42,630 --> 01:59:44,220
-Are you active on social media,
+Are you active on social media
 
 1825
 01:59:44,220 --> 01:59:47,670
@@ -7344,7 +7344,7 @@ But it's it's incredible that you juggle this enormous number of things.
 
 1837
 02:00:19,080 --> 02:00:21,480
-Perhaps even more important,
+Perhaps even more important
 
 1838
 02:00:21,540 --> 02:00:25,860
@@ -7352,7 +7352,7 @@ however, is that it's all in service to this larger thing of relieving suffering
 
 1839
 02:00:25,860 --> 02:00:29,130
-So thank you so much for your time today for the book,
+So thank you so much for your time today for the book
 
 1840
 02:00:29,250 --> 02:00:31,560
@@ -7360,11 +7360,11 @@ and the work that went into the book I can't even imagine
 
 1841
 02:00:31,770 --> 02:00:34,080
-for the laboratory work and the development channel opsins,
+for the laboratory work and the development channel opsins
 
 1842
 02:00:34,080 --> 02:00:37,530
-clarity and all the related technologies and for the clinical work you're doing and,
+clarity and all the related technologies and for the clinical work you're doing and
 
 1843
 02:00:37,710 --> 02:00:38,970
@@ -7428,7 +7428,7 @@ Please put any questions you have in the comment section below the YouTube video
 
 1858
 02:01:20,400 --> 02:01:23,220
-If you'd like us to address certain things in future episodes,
+If you'd like us to address certain things in future episodes
 
 1859
 02:01:23,340 --> 02:01:25,980
@@ -7444,7 +7444,7 @@ That's a terrific way to support us.
 
 1862
 02:01:30,510 --> 02:01:35,280
-We also have a Patreon it's patreon.com slash Andrew Huberman there,
+We also have a Patreon it's patreon.com slash Andrew Huberman there
 
 1863
 02:01:35,280 --> 02:01:37,320
@@ -7452,15 +7452,15 @@ you can support us at any level that you like.
 
 1864
 02:01:38,100 --> 02:01:39,120
-Last but not least,
+Last but not least
 
 1865
 02:01:39,120 --> 02:01:42,690
-if you're interested in understanding more about how the brain works and how it functions,
+if you're interested in understanding more about how the brain works and how it functions
 
 1866
 02:01:42,810 --> 02:01:44,880
-and how it breaks down in various conditions,
+and how it breaks down in various conditions
 
 1867
 02:01:45,060 --> 02:01:48,030
@@ -7472,7 +7472,7 @@ The title of that episode is how your nervous system works and changes.
 
 1869
 02:01:52,410 --> 02:01:54,090
-If you're watching this right now on YouTube,
+If you're watching this right now on YouTube
 
 1870
 02:01:54,210 --> 02:01:56,880

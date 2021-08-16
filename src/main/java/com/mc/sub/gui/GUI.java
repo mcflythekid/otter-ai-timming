@@ -22,7 +22,7 @@ public class GUI extends JFrame implements LogPrinter {
     private AddSpaceConverter addSpaceConverter;
 
     public GUI() {
-        super("SUB-TOOL Coin Card LLC v1.0.1");
+        super("SUB-TOOL Coin Card LLC v1.0.2");
     }
 
     public void start() {

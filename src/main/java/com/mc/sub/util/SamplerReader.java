@@ -7,10 +7,11 @@ import com.mc.sub.converter.SmartLineConverter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-import static com.mc.sub.GlobalConfig.PAUSES_TEST;
-import static com.mc.sub.util.PublicUtils.extractEndWithsArrayElement;
+import static com.mc.sub.GlobalConfig.PAUSES;
 import static com.mc.sub.util.Utils.removeAllLastCharNotLetterAndNumber;
 
 public class SamplerReader {
@@ -30,6 +31,16 @@ public class SamplerReader {
 
     private static int count = 0;
 
+    private static final Pattern PAUSE_FREE_PATTERN = Pattern.compile(",\\s([a-z]+)[^a-z]?$");
+
+    private static String extractPause(String str) {
+        Matcher matcher = PAUSE_FREE_PATTERN.matcher(str);
+        if (matcher.find()) {
+            return matcher.group(1);
+        }
+        return null;
+    }
+
     private static void testASub(Sub convertedSub) {
         int size = convertedSub.size();
         for (int i = 0; i < size; i++) {
@@ -38,19 +49,32 @@ public class SamplerReader {
             String contentLow = line.getContent().toLowerCase();
 
             String contentLowEndWithLetter = removeAllLastCharNotLetterAndNumber(contentLow);
-            String endWithsPause = extractEndWithsArrayElement(contentLowEndWithLetter, PAUSES_TEST);
-            if (endWithsPause != null) {
-                String colorPause = Color.ANSI_GREEN + endWithsPause + Color.ANSI_RESET;
-                String str = contentLow.replace(endWithsPause, colorPause);
+            String lastWord = extractPause(contentLowEndWithLetter);
+            if (lastWord != null && !PAUSES.contains(lastWord)) {
+                String colorPause = Color.ANSI_GREEN + lastWord + Color.ANSI_RESET;
+                String str = contentLow.replace(lastWord, colorPause);
 
                 if (i < size - 1) {
                     str = str + " === " + convertedSub.getLine(i + 1).getContent();
                 }
-                System.out.println(convertedSub.getName() + "\n"
-                        + line.getFrom() + "\n"
-                        + str + "\n");
+                System.out.println(str);
                 count++;
             }
+
+//            String contentLowEndWithLetter = removeAllLastCharNotLetterAndNumber(contentLow);
+//            String endWithsPause = extractEndWithsArrayElement(contentLowEndWithLetter, PAUSES_TEST);
+//            if (endWithsPause != null) {
+//                String colorPause = Color.ANSI_GREEN + endWithsPause + Color.ANSI_RESET;
+//                String str = contentLow.replace(endWithsPause, colorPause);
+//
+//                if (i < size - 1) {
+//                    str = str + " === " + convertedSub.getLine(i + 1).getContent();
+//                }
+//                System.out.println(convertedSub.getName() + "\n"
+//                        + line.getFrom() + "\n"
+//                        + str + "\n");
+//                count++;
+//            }
 
         }
     }
