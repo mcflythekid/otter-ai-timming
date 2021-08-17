@@ -29,7 +29,7 @@ public class GUI extends JFrame implements LogPrinter {
     }
 
     public GUI() {
-        super("SubTools KennySang v1.0.3");
+        super("SubTools KennySang v69.1");
     }
 
     public void start() {
