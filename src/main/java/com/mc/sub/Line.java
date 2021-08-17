@@ -135,7 +135,7 @@ public class Line {
         for (int i = timeLineIndex + 1; i < lines.length; i++) {
             sb.append(lines[i].trim()).append("\n");
         }
-        content = sb.toString().strip();
+        content = sb.toString().trim();
     }
 
     public int length() {

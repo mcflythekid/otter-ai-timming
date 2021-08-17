@@ -1,8 +1,9 @@
 package com.mc.sub.gui;
 
-import com.mc.sub.util.Utils;
 import com.mc.sub.converter.AddSpaceConverter;
 import com.mc.sub.converter.SmartLineConverter;
+import com.mc.sub.util.Utils;
+import org.apache.commons.lang3.exception.ExceptionUtils;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
@@ -21,8 +22,14 @@ public class GUI extends JFrame implements LogPrinter {
 
     private AddSpaceConverter addSpaceConverter;
 
+    public static void main(String[] args) {
+        String s = "\n\nabv   xyxzzz\n\n";
+        s = s.trim();
+        System.out.println("[" + s + "]");
+    }
+
     public GUI() {
-        super("SUB-TOOL Coin Card LLC v1.0.2");
+        super("SubTools KennySang v1.0.3");
     }
 
     public void start() {
@@ -45,9 +52,10 @@ public class GUI extends JFrame implements LogPrinter {
                 String selectedFilepath = fileChooser.getSelectedFile().getAbsolutePath();
                 try {
                     addSpaceConverter.submitAddSpace(selectedFilepath);
-                } catch (Exception ioException) {
-                    ioException.printStackTrace();
-                    println("Error when process: " + ioException.getMessage());
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                    println("Error when process: " + ex.getMessage());
+                    println(ExceptionUtils.getStackTrace(ex));
                 } finally {
                     newBlock();
                 }
@@ -69,9 +77,10 @@ public class GUI extends JFrame implements LogPrinter {
                     String outPath = Utils.generateOutPath(inPath, "joined");
                     int maxChars = Integer.parseInt(addSmartField.getText());
                     SmartLineConverter.submit(inPath, outPath, maxChars);
-                } catch (Exception ioException) {
-                    ioException.printStackTrace();
-                    println("Error when process: " + ioException.getMessage());
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                    println("Error when process: " + ex.getMessage());
+                    println(ExceptionUtils.getStackTrace(ex));
                 } finally {
                     newBlock();
                 }

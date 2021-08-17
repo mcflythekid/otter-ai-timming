@@ -1,18 +1,11 @@
 package com.mc.sub.util;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.net.URISyntaxException;
-import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
 public class PublicUtils {
-
-
 
 
     private static final String DIR_SPLIT = "/";
@@ -22,10 +15,14 @@ public class PublicUtils {
         if (!rs.startsWith(DIR_SPLIT)) {
             rs = DIR_SPLIT + rs;
         }
-        URL url = PublicUtils.class.getResource(rs);
-        Path path = Paths.get(url.toURI());
-        List<String> result = Files.readAllLines(path);
-        return result;
+        InputStream in = PublicUtils.class.getResourceAsStream(rs);
+        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+
+        List<String> output = new ArrayList<>();
+        while (reader.readLine() != null) {
+            output.add(reader.readLine());
+        }
+        return output;
     }
 
     public static String extractContainsArrayElement(String source, List<String> elements) {
