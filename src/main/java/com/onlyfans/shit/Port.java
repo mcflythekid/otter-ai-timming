@@ -1,8 +1,8 @@
-package com.mc.sub;
+package com.onlyfans.shit;
 
-import com.mc.sub.gui.GUI;
+import com.onlyfans.shit.gui.GUI;
 
-public class Main {
+public class Port {
     public static void main(String[] args) {
         new GUI().start();
     }

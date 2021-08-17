@@ -27,7 +27,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.mc.sub.Main</mainClass>
+                                    <mainClass>com.onlyfans.shit.Port</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

@@ -1,11 +1,11 @@
-package com.mc.sub.util;
+package com.onlyfans.shit.util;
 
 import java.io.*;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PublicUtils {
+public class Barn {
 
 
     private static final String DIR_SPLIT = "/";
@@ -15,7 +15,7 @@ public class PublicUtils {
         if (!rs.startsWith(DIR_SPLIT)) {
             rs = DIR_SPLIT + rs;
         }
-        InputStream in = PublicUtils.class.getResourceAsStream(rs);
+        InputStream in = Barn.class.getResourceAsStream(rs);
         BufferedReader reader = new BufferedReader(new InputStreamReader(in));
 
         List<String> output = new ArrayList<>();

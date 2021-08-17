@@ -1,8 +1,8 @@
-package com.mc.sub.gui;
+package com.onlyfans.shit.gui;
 
-import com.mc.sub.converter.AddSpaceConverter;
-import com.mc.sub.converter.SmartLineConverter;
-import com.mc.sub.util.Utils;
+import com.onlyfans.shit.converter.TheVoid;
+import com.onlyfans.shit.converter.TheSmart;
+import com.onlyfans.shit.util.Utils;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 
 import javax.swing.*;
@@ -20,7 +20,7 @@ public class GUI extends JFrame implements LogPrinter {
     private JTextArea logTextArea;
     private JScrollPane logScrollPane;
 
-    private AddSpaceConverter addSpaceConverter;
+    private TheVoid theVoid;
 
     public static void main(String[] args) {
         String s = "\n\nabv   xyxzzz\n\n";
@@ -29,7 +29,7 @@ public class GUI extends JFrame implements LogPrinter {
     }
 
     public GUI() {
-        super("SubTools KennySang v69.1");
+        super("ZedSub v70.0");
     }
 
     public void start() {
@@ -51,7 +51,7 @@ public class GUI extends JFrame implements LogPrinter {
             if (result == JFileChooser.APPROVE_OPTION) {
                 String selectedFilepath = fileChooser.getSelectedFile().getAbsolutePath();
                 try {
-                    addSpaceConverter.submitAddSpace(selectedFilepath);
+                    theVoid.submitAddSpace(selectedFilepath);
                 } catch (Exception ex) {
                     ex.printStackTrace();
                     println("Error when process: " + ex.getMessage());
@@ -76,7 +76,7 @@ public class GUI extends JFrame implements LogPrinter {
                     String inPath = fileChooser.getSelectedFile().getAbsolutePath();
                     String outPath = Utils.generateOutPath(inPath, "joined");
                     int maxChars = Integer.parseInt(addSmartField.getText());
-                    SmartLineConverter.submit(inPath, outPath, maxChars);
+                    TheSmart.submit(inPath, outPath, maxChars);
                 } catch (Exception ex) {
                     ex.printStackTrace();
                     println("Error when process: " + ex.getMessage());
@@ -107,9 +107,9 @@ public class GUI extends JFrame implements LogPrinter {
         this.getContentPane().add(controlPanel, BorderLayout.NORTH);
         this.getContentPane().add(logScrollPane, BorderLayout.CENTER);
 
-        addSpaceConverter = new AddSpaceConverter(this);
+        theVoid = new TheVoid(this);
 
-        SmartLineConverter.setLogPrinter(this);
+        TheSmart.setLogPrinter(this);
         this.setVisible(true);
     }
 

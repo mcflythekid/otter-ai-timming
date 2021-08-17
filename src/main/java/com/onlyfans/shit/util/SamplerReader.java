@@ -1,8 +1,9 @@
-package com.mc.sub.util;
+package com.onlyfans.shit.util;
 
-import com.mc.sub.Line;
-import com.mc.sub.Sub;
-import com.mc.sub.converter.SmartLineConverter;
+import com.onlyfans.shit.Earth;
+import com.onlyfans.shit.converter.TheSmart;
+import com.onlyfans.shit.Line;
+import com.onlyfans.shit.Sub;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -11,13 +12,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-import static com.mc.sub.GlobalConfig.PAUSES;
-import static com.mc.sub.util.Utils.removeAllLastCharNotLetterAndNumber;
+import static com.onlyfans.shit.util.Utils.removeAllLastCharNotLetterAndNumber;
 
 public class SamplerReader {
 
     public static List<Sub> readSampler(String folderPaths) throws IOException {
-        List<String> srtPaths = PublicUtils.filesPathList(folderPaths).stream()
+        List<String> srtPaths = Barn.filesPathList(folderPaths).stream()
                 .filter(s -> s.endsWith(".srt")).collect(Collectors.toList());
 
         List<Sub> output = new ArrayList<>();
@@ -50,7 +50,7 @@ public class SamplerReader {
 
             String contentLowEndWithLetter = removeAllLastCharNotLetterAndNumber(contentLow);
             String lastWord = extractPause(contentLowEndWithLetter);
-            if (lastWord != null && !PAUSES.contains(lastWord)) {
+            if (lastWord != null && !Earth.PAUSES.contains(lastWord)) {
                 String colorPause = Color.ANSI_GREEN + lastWord + Color.ANSI_RESET;
                 String str = contentLow.replace(lastWord, colorPause);
 
@@ -81,12 +81,12 @@ public class SamplerReader {
 
     public static void main(String[] args) throws IOException {
         int maxChars = 80;
-        SmartLineConverter.submitDir("sampler-source", "sampler", maxChars);
+        TheSmart.submitDir("sampler-source", "sampler", maxChars);
 
         List<Sub> subs = readSampler("sampler");
 
         for (Sub sub : subs) {
-            testASub(SmartLineConverter.convert(sub, maxChars));
+            testASub(TheSmart.convert(sub, maxChars));
         }
 
         System.out.println("----------");

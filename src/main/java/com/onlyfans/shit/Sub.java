@@ -1,13 +1,11 @@
-package com.mc.sub;
+package com.onlyfans.shit;
 
-import com.mc.sub.util.Utils;
+import com.onlyfans.shit.util.Utils;
 import lombok.Data;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import static com.mc.sub.util.Utils.removeAllLastCharNotLetterAndNumber;
 
 @Data
 public class Sub {
@@ -26,13 +24,13 @@ public class Sub {
     public boolean isAPause(Sub prevSub) {
         String content = this.extractLine().getContent();
         String contentLow = content.toLowerCase().trim();
-        contentLow = removeAllLastCharNotLetterAndNumber(contentLow);
+        contentLow = Utils.removeAllLastCharNotLetterAndNumber(contentLow);
 
         if (prevSub == null) {
-            return isExtractedByBreaker && GlobalConfig.PAUSES.contains(contentLow);
+            return isExtractedByBreaker && Earth.PAUSES.contains(contentLow);
         }
         return (isExtractedByBreaker || prevSub.isExtractedByBreaker())
-                && GlobalConfig.PAUSES.contains(contentLow);
+                && Earth.PAUSES.contains(contentLow);
     }
 
     private int getNextLineIndex() {

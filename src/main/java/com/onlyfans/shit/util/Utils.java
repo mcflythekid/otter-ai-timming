@@ -1,4 +1,4 @@
-package com.mc.sub.util;
+package com.onlyfans.shit.util;
 
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.ArrayUtils;
@@ -9,8 +9,6 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
-import static com.mc.sub.util.PublicUtils.removeLastChar;
 
 public class Utils {
 
@@ -89,7 +87,7 @@ public class Utils {
     public static String removeAllLastCharNotLetterAndNumber(String str) {
         char lastChar = str.charAt(str.length() - 1);
         if (!Character.isLetter(lastChar) && !Character.isDigit(lastChar)) {
-            return removeAllLastCharNotLetterAndNumber(removeLastChar(str));
+            return removeAllLastCharNotLetterAndNumber(Barn.removeLastChar(str));
         }
         return str;
     }

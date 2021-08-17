@@ -1,4 +1,4 @@
-package com.mc.sub;
+package com.onlyfans.shit;
 
 import org.junit.Test;
 

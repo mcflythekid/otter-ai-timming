@@ -1,4 +1,4 @@
-package com.mc.sub.util;
+package com.onlyfans.shit.util;
 
 public class Color {
     public static final String ANSI_RESET = "\u001B[0m";

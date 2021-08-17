@@ -1,4 +1,4 @@
-package com.mc.sub.gui;
+package com.onlyfans.shit.gui;
 
 public interface LogPrinter {
     void newBlock();

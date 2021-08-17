@@ -1,6 +1,6 @@
-package com.mc.sub.converter;
+package com.onlyfans.shit.converter;
 
-import com.mc.sub.Line;
+import com.onlyfans.shit.Line;
 
 @FunctionalInterface
 public interface Breaker {

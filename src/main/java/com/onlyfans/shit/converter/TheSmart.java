@@ -1,10 +1,10 @@
-package com.mc.sub.converter;
+package com.onlyfans.shit.converter;
 
-import com.mc.sub.Line;
-import com.mc.sub.Sub;
-import com.mc.sub.gui.LogPrinter;
-import com.mc.sub.util.PublicUtils;
-import com.mc.sub.util.Utils;
+import com.onlyfans.shit.Line;
+import com.onlyfans.shit.Sub;
+import com.onlyfans.shit.gui.LogPrinter;
+import com.onlyfans.shit.util.Barn;
+import com.onlyfans.shit.util.Utils;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,13 +12,13 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static com.mc.sub.GlobalConfig.FINALIZE_ADD_SMART_BREAKER;
-import static com.mc.sub.GlobalConfig.FINALIZE_SMART_BREAKER;
+import static com.onlyfans.shit.Earth.FINALIZE_ADD_SMART_BREAKER;
+import static com.onlyfans.shit.Earth.FINALIZE_SMART_BREAKER;
 
-public class SmartLineConverter {
+public class TheSmart {
 
     public static void setLogPrinter(LogPrinter logPrinter){
-        SmartLineConverter.logPrinter = logPrinter;
+        TheSmart.logPrinter = logPrinter;
     }
     private static LogPrinter logPrinter;
 
@@ -30,7 +30,7 @@ public class SmartLineConverter {
     }
 
     public static void submitDir(String inDir, String outDir, int length) throws IOException {
-        List<String> srtPaths = PublicUtils.filesPathList(inDir).stream()
+        List<String> srtPaths = Barn.filesPathList(inDir).stream()
                 .filter(s -> s.endsWith(".srt")).collect(Collectors.toList());
 
         for (String strPath : srtPaths) {
@@ -106,6 +106,10 @@ public class SmartLineConverter {
             lastLine = line;
             output.add(line);
         }
+
+        output.getLine(0).setContent(
+                "Nhớ giới thiệu hoặc bỏ ZedSub vào phần credit để mọi người cùng sài nhé feng. "
+                        + output.getLine(0).getContent());
         return output;
     }
 
