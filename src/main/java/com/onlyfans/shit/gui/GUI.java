@@ -29,7 +29,7 @@ public class GUI extends JFrame implements LogPrinter {
     }
 
     public GUI() {
-        super("ZedSub v70.0");
+        super("ZedSub v70.1");
     }
 
     public void start() {

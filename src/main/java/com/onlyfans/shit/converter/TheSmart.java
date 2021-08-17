@@ -108,7 +108,7 @@ public class TheSmart {
         }
 
         output.getLine(0).setContent(
-                "Nhớ giới thiệu hoặc bỏ ZedSub vào phần credit để mọi người cùng sài nhé feng. "
+                "!!! Please SHARE it to people or put ZedSub into the FIRST LINE to help us !!! "
                         + output.getLine(0).getContent());
         return output;
     }
